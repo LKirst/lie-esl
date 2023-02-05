@@ -15,10 +15,6 @@ For handwritten texts please follow these formatting guidelines:
 
 If I underline a mistake with more than one line, I want to draw your attention to it. Please revise the underlying grammar rule or the cultural studies topic that you have misunderstood **thoroughly** (=_gründlich_).
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
 ### Verb forms
 
 | symbol | explanation                                                                                                                                   | example                                                        |
@@ -38,10 +34,6 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | cap    | Capitalization error: *Großschreibungsfehler*                                                                                                                            | *You and \*i \*Should talk.*                 |
 | coll   | Collocation: *Zwei oder mehrere Wörter, die du zusammen verwendet hast, werden normalerweise nicht zusammen verwendet. Es gibt eine bevorzugte andere Wortkombination.* | _a \*powerful tea_ instead of _a strong tea_ |
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
 ### Other
 
 | symbol                 | explanation                                                                                                                                                        | example                                                                                                             |
@@ -57,10 +49,6 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | ( ) or ~~crossed out~~ | Remove these words                                                                                                                                                 | _If I were you, ~~then~~ I would study more. I think your reaction was (very) extreme._                             |
 | ??                     | Difficult to read or understand                                                                                                                                    |                                                                                                                     |
 | +                      | You used an interesting word or an interesting grammatical structure.                                                                                              |                                                                                                                     |
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 ## Content
 
