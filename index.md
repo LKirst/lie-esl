@@ -13,39 +13,39 @@ For handwritten texts please follow these formatting guidelines:
 
 ## Language
 
-If I underline a mistake with more than one line, I want to draw your attention to it. Please revise the underlying grammar rule or the cultural studies topic that you have misunderstood **thoroughly** (=_gründlich_).
+If I underline a mistake with more than one line, I want to draw your attention to it. Please revise the underlying grammar rule or the cultural studies topic that you have misunderstood **thoroughly** (= _gründlich_).
 
 ### Verb forms
 
-| symbol | explanation                                                                                                                                   | example                                                        |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| t      | Tense (*Zeit*)                                                                                                                                | *I \*will be in class yesterday.*                              |
-| asp    | Aspect: (simple vs progressive): _Du hast eine Verlaufsform verwendet an einer Stelle, an der du die einfache Form verwenden solltest oder umgekehrt._  | *I \*was knowing it the whole time.*                           |
-| pass   | Akward use of passive voice: *Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig.* | *A ball has been thrown over the wall.* => Who threw the ball? |
-| constr | Participles, gerund, infinitive                                                                                                               | _I decided \*flying to London_                                 |
+| symbol | explanation                                                                                                                                            | example                                                        |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| t      | Tense (_Zeit_)                                                                                                                                         | _I \*will be in class yesterday._                              |
+| asp    | Aspect: (simple vs progressive): _Du hast eine Verlaufsform verwendet an einer Stelle, an der du die einfache Form verwenden solltest oder umgekehrt._ | _I \*was knowing it the whole time._                           |
+| pass   | Akward use of passive voice: _Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig._         | _A ball has been thrown over the wall._ => Who threw the ball? |
+| constr | Participles, gerund, infinitive                                                                                                                        | _I decided \*flying to London_                                 |
 
 ### Vocabulary, collocations and spelling
 
-| symbol | explanation                                                                                                                                                              | example                                      |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| voc    | Vocabulary mistake: *Vokabelfehler*                                                                                                                                      | _She \*became a baby_                        |
-| vague  | Vague word: *Versuche ein präziseres Wort zu finden.*                                                                                                                    | _stuff_ or _things_ or _good / nice_         |
-| sp     | Spelling: *Rechtschreibung*                                                                                                                                              | _\*exiting_                                  |
-| cap    | Capitalization error: *Großschreibungsfehler*                                                                                                                            | *You and \*i \*Should talk.*                 |
-| coll   | Collocation: *Zwei oder mehrere Wörter, die du zusammen verwendet hast, werden normalerweise nicht zusammen verwendet. Es gibt eine bevorzugte andere Wortkombination.* | _a \*powerful tea_ instead of _a strong tea_ |
+| symbol | explanation                                                                                                                                                             | example                                      |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| voc    | Vocabulary mistake: _Vokabelfehler_                                                                                                                                     | _She \*became a baby_                        |
+| vague  | Vague word: _Versuche ein präziseres Wort zu finden._                                                                                                                   | _stuff_ or _things_ or _good / nice_         |
+| sp     | Spelling: _Rechtschreibung_                                                                                                                                             | _\*exiting_                                  |
+| cap    | Capitalization error: _Großschreibungsfehler_                                                                                                                           | _You and \*i \*Should talk._                 |
+| coll   | Collocation: _Zwei oder mehrere Wörter, die du zusammen verwendet hast, werden normalerweise nicht zusammen verwendet. Es gibt eine bevorzugte andere Wortkombination._ | _a \*powerful tea_ instead of _a strong tea_ |
 
 ### Other
 
 | symbol                 | explanation                                                                                                                                                        | example                                                                                                             |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| p                      | Punctuation: *Zeichensetzung*                                                                                                                                      | *He said \*, that he had to go.*                                                                                    |
-| gr                     | Generic category for grammar mistakes (*allgemeine Kategorie für Grammatikfehler*) that don’t fall into one of the other categories such as _t_, _prep_, _wo_, ... | *In my room \*it gives three chairs.*                                                                               |
-| prep                   | Preposition: *Präposition*                                                                                                                                         | _\*On the picture, you can see a snowman._                                                                          |
-| wo                     | Word order: *Satzstellung*                                                                                                                                         | *\*Always I play basketball on Thursdays.*                                                                          |
+| p                      | Punctuation: _Zeichensetzung_                                                                                                                                      | _He said \*, that he had to go._                                                                                    |
+| gr                     | Generic category for grammar mistakes (_allgemeine Kategorie für Grammatikfehler_) that don’t fall into one of the other categories such as _t_, _prep_, _wo_, ... | _In my room \*it gives three chairs._                                                                               |
+| prep                   | Preposition: _Präposition_                                                                                                                                         | _\*On the picture, you can see a snowman._                                                                          |
+| wo                     | Word order: _Satzstellung_                                                                                                                                         | _\*Always I play basketball on Thursdays._                                                                          |
 | num                    | Number: _Ein Widerspruch in der Anzahl von Subject und Verb oder von Pronomen und ihren Referenten._                                                               | _There \*is no students here. I know \*these teacher over there._                                                   |
-| ref                    | Reference: *Pronomen, bei denen nicht eindeutig ist, für was/wen sie stehen. Oder: Der bestimmte Artikel, wenn nicht eindeutig ist, auf was/wen verwiesen wird.*   | *David > \*her book*; _\*The pupils have to study in the afternoon._ when the referent is _(all) pupils_ in general |
+| ref                    | Reference: _Pronomen, bei denen nicht eindeutig ist, für was/wen sie stehen. Oder: Der bestimmte Artikel, wenn nicht eindeutig ist, auf was/wen verwiesen wird._   | _David > \*her book_; _\*The pupils have to study in the afternoon._ when the referent is _(all) pupils_ in general |
 | reg                    | Register: Too formal or too informal                                                                                                                               | _The guys in my hood aren't …_ in a semi-formal or formal text                                                      |
-| frag                   | The sentence is not complete. This group of words is a fragment.                                                                                                   | *If I were a teacher.*                                                                                              |
+| frag                   | The sentence is not complete. This group of words is a fragment.                                                                                                   | _If I were a teacher._                                                                                              |
 | ( ) or ~~crossed out~~ | Remove these words                                                                                                                                                 | _If I were you, ~~then~~ I would study more. I think your reaction was (very) extreme._                             |
 | ??                     | Difficult to read or understand                                                                                                                                    |                                                                                                                     |
 | +                      | You used an interesting word or an interesting grammatical structure.                                                                                              |                                                                                                                     |
@@ -53,9 +53,9 @@ If I underline a mistake with more than one line, I want to draw your attention 
 ## Content
 
 | symbol | explanation                                                                                                                              | example                                       |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| ¶      | The paragraph mark (*= Absatzendezeichen*): *Beginne einen neuen Absatz.*                                                                |                                               |
-| link   | Missing (logical) link between two sentences or paragraphs: *Hier fehlt eine (logische) Verknüpfung zwischen zwei Sätzen oder Absätzen.* |                                               |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| ¶      | The paragraph mark (_= Absatzendezeichen_): _Beginne einen neuen Absatz._                                                                |                                               |
+| link   | Missing (logical) link between two sentences or paragraphs: _Hier fehlt eine (logische) Verknüpfung zwischen zwei Sätzen oder Absätzen._ |                                               |
 | cont   | A phrase / sentence / section is meaningless, incorrect on the content-level, has no relation to the question / task or is missing.      |                                               |
 | logic  | Logic on a language or content level                                                                                                     | _I love marshmallows \*but I ate one anyway._ |
 | weak   | Sentence or paragraph is vague or general or states the obvious.                                                                         |                                               |
