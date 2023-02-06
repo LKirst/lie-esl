@@ -20,7 +20,7 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | symbol | explanation                                                                                                                                   | example                                                        |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | t      | Tense (*Zeit*)                                                                                                                                | *I \*will be in class yesterday.*                              |
-| asp    | Aspect: simple vs progressive                                                                                                                 | *I \*was knowing it the whole time.*                           |
+| asp    | Aspect: (simple vs progressive): _Du hast eine Verlaufsform verwendet an einer Stelle, an der du die einfache Form verwenden solltest oder umgekehrt._  | *I \*was knowing it the whole time.*                           |
 | pass   | Akward use of passive voice: *Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig.* | *A ball has been thrown over the wall.* => Who threw the ball? |
 | constr | Participles, gerund, infinitive                                                                                                               | _I decided \*flying to London_                                 |
 
