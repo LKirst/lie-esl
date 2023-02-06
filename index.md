@@ -21,7 +21,7 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | t      | Tense (*Zeit*)                                                                                                                                | *I \*will be in class yesterday.*                              |
 | asp    | Aspect: simple vs progressive                                                                                                                 | *I \*was knowing it the whole time.*                           |
-| pass   | Akward use of passive voice: *Im Englishen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig.* | *A ball has been thrown over the wall.* => Who threw the ball? |
+| pass   | Akward use of passive voice: *Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig.* | *A ball has been thrown over the wall.* => Who threw the ball? |
 | constr | Participles, gerund, infinitive                                                                                                               | _I decided \*flying to London_                                 |
 
 ### Vocabulary, collocations and spelling
