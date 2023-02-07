@@ -5,3 +5,5 @@ relative_links:
   collections: true
 include:
   - LK_CorrectionSymbols.md 
+  - checklists/LK_Checklist_Comment.md
+  - checklists/LK_Checklist_InformativeWriting.md
