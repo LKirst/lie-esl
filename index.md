@@ -64,6 +64,10 @@ If I underline a mistake with more than one line, I want to draw your attention 
 
 ## Checklists
 
+Level A1:
+
+- [Personal Email](checklists/LK_Checklist_PersonalEmail_A1.md)
+
 Level A2:
 
 - [Informative Writing](checklists/LK_Checklist_InformativeWriting.md)
