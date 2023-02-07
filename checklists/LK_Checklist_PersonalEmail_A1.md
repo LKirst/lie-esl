@@ -20,6 +20,9 @@
      - [ ] Did you write the word "I" with a capital letter?
 
 - [ ] Do you have an **introduction** (= _Einleitung_)? For your introduction, you can \...
+  
+     - thank your friend for his or her email: Thanks for your email. It’s great to hear from you. = Danke für deine E-Mail. Es ist schön, von dir zu hören.
+     - ask your friend how he or she is and tell him or her how you are: How are you? I’m fine. = Wie geht es dir. Mir geht es gut.
 
 - [ ] Does the email **answer all questions** you were asked? (= _Beantwortet die Mail alle Fragen, die dir gestellt wurden?_)
 
