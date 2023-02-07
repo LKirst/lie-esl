@@ -60,3 +60,13 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | cont   | A phrase / sentence / section is meaningless, incorrect on the content-level or has no relation to the question / task.                  |                                               |
 | logic  | Logic on a language or content level                                                                                                     | _I love marshmallows \*but I ate one anyway._ |
 | weak   | Sentence or paragraph is vague or general or states the obvious.                                                                         |                                               |
+
+## Checklists
+
+Level A2:
+
+- [Informative Writing](checklists/LK_Checklist_InformativeWriting.md)
+
+Level B1:
+
+- [Comment](checklists/LK_Checklist_Comment.md)
