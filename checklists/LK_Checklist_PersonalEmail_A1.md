@@ -34,7 +34,11 @@
 
 - [ ] Skip a line before the closing.
 
-- [ ] Does the email end with a **closing**, for example: Bye for now, | See you soon, | Cheers,
-  Common mistake: ~~Greetings,~~ is NOT an English closing.
+- [ ] Does the email end with a **closing**, for example: 
+    
+    - _Bye for now,_
+    - _See you soon,_
+    - _Cheers,_
+    - Common mistake: ~~Greetings,~~ is NOT an English closing.
 
 - [ ] Did you **sign** (= _unterschrieben_) your email?
