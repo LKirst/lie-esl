@@ -6,6 +6,8 @@ date: '2023-02-12'
 
 # Correction Symbols
 
+Author: L. Liebermann
+
 ## Formatting
 
 For handwritten texts please follow these formatting guidelines:
