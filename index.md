@@ -76,6 +76,7 @@ Level A1:
 Level A2:
 
 - [Informative Essay](checklists/LK_Checklist_InformativeEssay_A2.md)
+- [Persuasive Essay](checklists/LK_Checklist_PersuasiveEssay_A2.md)
 
 Level B1:
 
