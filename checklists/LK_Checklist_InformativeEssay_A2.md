@@ -1,4 +1,4 @@
-# Checklist: Informative Writing (A2, v1.1.1)
+# Checklist: Informative Essay (A2, v1.1.1)
 
 Language (60%)
 

@@ -71,8 +71,8 @@ Level A1:
 
 Level A2:
 
-- [Informative Writing](checklists/LK_Checklist_InformativeWriting.md)
+- [Informative Essay](checklists/LK_Checklist_InformativeEssay_A2.md)
 
 Level B1:
 
-- [Comment](checklists/LK_Checklist_Comment.md)
+- [Comment](checklists/LK_Checklist_Comment_B1.md)

@@ -1,4 +1,4 @@
-# Checklist: Writing a Comment (B1, v1.3.2)
+# Checklist: Comment (B1, v1.3.2)
 
 ## The writing plan
 
