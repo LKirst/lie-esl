@@ -1,6 +1,10 @@
-# Correction Symbols (v3.2.2)
+---
+title: 'Correction Symbols'
+author: L. Liebermann
+date: '2023-02-12'
+---
 
-Author: L. Liebermann
+# Correction Symbols
 
 ## Formatting
 
