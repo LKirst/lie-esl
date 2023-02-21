@@ -71,6 +71,8 @@ If I underline a mistake with more than one line, I want to draw your attention 
 
 ## Checklists
 
+[Back to school shopping list](checklists/LK_BackToSchoolShoppingList.md)
+
 Level A1:
 
 - [Personal Email](checklists/LK_Checklist_PersonalEmail_A1.md)
