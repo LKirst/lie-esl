@@ -53,7 +53,7 @@ date: '2023-02-21'
 ### Language
 
 -   You use the **first person**.
--   You use the **past tense **for finished events and actions in the
+-   You use the **past tense** for finished events and actions in the
     past.
 -   You use different **adjectives and adverbs**.
 -   You use **descriptive nouns or verbs**.
@@ -62,7 +62,7 @@ date: '2023-02-21'
 -   Bonus point: You use **similes**:
     - *as WWW as XXX, e.g. as white a snow*
     - *YYY like ZZZ, e.g. a face like a mask*
--   The length of your diary entry is **above the minimum word **count.
--   You wrote your diary entry in **under 20 minutes **so that planning
+-   The length of your diary entry is **above the minimum word** count.
+-   You wrote your diary entry in **under 20 minutes** so that planning
     and writing the text took under 25 minutes.
 
