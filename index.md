@@ -29,6 +29,7 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | asp    | Aspect: (simple vs progressive): _Du hast eine Verlaufsform verwendet an einer Stelle, an der du die einfache Form verwenden solltest oder umgekehrt._ | _I \*was knowing it the whole time._                           |
 | pass   | Akward use of passive voice: _Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig._         | _A ball has been thrown over the wall._ => Who threw the ball? |
 | constr | Participles, gerund, infinitive                                                                                                                        | _I decided \*flying to London_                                 |
+| 3rd    | You did not use a third person singular verb form where you should have or you used a third person singular verb form but should not have used it. | He don't like hedgehogs |
 
 ### Vocabulary, collocations and spelling
 
