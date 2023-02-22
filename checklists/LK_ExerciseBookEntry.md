@@ -11,6 +11,10 @@ heading of your task from the textbook, workbook or worksheet.
 
 - Underline your heading.
 
+- For text productions (not for grammar or vocabulary exercises): Please skip
+every second line within a paragraph and skip two or more lines between
+paragraphs. 
+
 - Skip a line after the heading before you start writing.
 
 - After your exercise book entry before the next entry, please skip at least
