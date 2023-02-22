@@ -73,7 +73,7 @@ If I underline a mistake with more than one line, I want to draw your attention 
 
 General:
 
-- [Required Materials](checklists/LK_RequiredMaterials.md): A list off all the things I expect you to bring to our English lessons.
+- [Required Materials](checklists/LK_RequiredMaterials.md): A list of all the things I expect you to bring to our English lessons.
 
 Level A1:
 
