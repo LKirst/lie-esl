@@ -82,6 +82,7 @@ Level A2:
 - [Diary Entry](checklists/LK_Checklist_DiaryEntry_A2.md)
 - [Informative Essay](checklists/LK_Checklist_InformativeEssay_A2.md)
 - [Persuasive Essay](checklists/LK_Checklist_PersuasiveEssay_A2.md)
+- [Email](checklists/LK_Checklist_Email_A2.md)
 
 Level B1:
 
