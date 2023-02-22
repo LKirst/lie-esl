@@ -1,8 +1,15 @@
-# Checklist: Cartoon analysis
+---
+title: 'Cartoon Analysis'
+author: L. Liebermann
+date: '2023-02-22'
+---
+
+# Checklist: Cartoon analysis (B1, v1.0.0)
 
 ## Language
 
 - Did you use the present progressive to describe actions depicted in the cartoon?
+- Did you use the formal register?
 
 ## Content
 
