@@ -11,12 +11,15 @@ date: '2023-02-12'
 Does your plan include notes for the introduction? Does the introduction as you plan it ...
 
 - [ ] catch the readers attention
+
 - [ ] briefly explain the issue
+
 - [ ] lead up to a thesis statement, which sums up your opinion about the subject on which you were asked
 
 Does your plan include notes for the body of your text? For every paragraph, you should have notes for ...
 
 - [ ] the main argument of the paragraph
+
 - [ ] supporting evidence in the form of facts, quotations, statistics, or examples
 
 **Form:** Is the plan visually structured into the introduction and the body paragraphs?
@@ -38,7 +41,9 @@ The length of your text is **above the minimum word** count.
 Content
 
 - [ ] Your comment has a descriptive **heading.**
+
 - [ ] You present **your personal opinion with compelling[^1] arguments** and answer the question you were asked / **fulfil the task you were given**.
+
 - [ ] You support your opinion with **detailed explanations** and **evidence**. Depending on your task, you rebut[^2] reasons against your argument.
 
 Structure
@@ -58,7 +63,8 @@ Structure
 - [ ] You use a wide range of **sentence structures correctly**, e.g. conditional sentences, relative clauses, and subordinate clauses.
 
 - [ ] You show a good command of a **broad lexical repertoire**. You can vary[^3] formulation to avoid frequent repetition[^4] and you find **paraphrases** when you do not know a word you need. You make few spelling mistakes.
-  You use the **correct tenses**. Generally, the present tense is used in comments unless you talk about events in the past.
+
+- [ ] You use the **correct tenses**. Generally, the present tense is used in comments unless you talk about events in the past.
 
 - [ ] You connect ideas with **different linking / transition words**, including different subordinating conjunctions (e.g. *although, wherever, so that, \...*) and adverbial conjunctions (e.g. *however, nevertheless, meanwhile, \...*).
 
@@ -71,3 +77,4 @@ Structure
 [^3]: to vary /ˈveəri/ - to make changes to something to make it slightly different
 
 [^4]: repetition /ˌrepəˈtɪʃn/ - the fact of doing or saying the same thing many times
+
