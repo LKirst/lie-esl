@@ -6,19 +6,23 @@ date: '2023-02-12'
 
 # Checklist: Informative Essay (A2, v1.1.1)
 
-Language (60%)
+## Language (60%)
 
 - [ ] You did not use **first-person pronouns** (I / we).
 
 - [ ] You did not use **contractions** (they've =\> they have; won't =\> will not; isn't =\> is not).
 
-- [ ] Does the text connect ideas with **transition words**? For example: Compare and contrast: _like, similar to, compared to, although_; Examples: __for example, for instance, such as, Another example of XXX is YYY_; To conclude: _in summary, to sum up, in conclusion, as a result_
+- [ ] Does the text connect ideas with **transition words**? For example: 
 
-- [ ] You use a wide range of **grammatical structures correctly**.
+    - Compare and contrast: _like, similar to, compared to, although_; 
+    - Examples: _for example, for instance, such as, Another example of XXX is YYY_;
+    - To conclude: _in summary, to sum up, in conclusion, as a result_
+
+- [ ] You use a wide range of **grammatical structures correctly.**
 
 - [ ] You use a wide range of **vocabulary** correctly.
 
-Content (40%)
+## Content (40%)
 
 - [ ] The text has an informative **title**, which gives the reader a first idea of what the text will be about.
 
@@ -38,7 +42,7 @@ Content (40%)
 
 - [ ] Does the text answer the question / fulfil the task you were given (= _beantwortet der Text die Frage / erfüllt der Text die Aufgabe die dir gegeben wurde_)?
 
-Form
+## Form
 
 - [ ] You included an estimate (= _Schätzung_) of the **word count**.
 
