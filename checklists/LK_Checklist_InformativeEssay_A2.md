@@ -50,6 +50,8 @@ date: '2023-02-12'
 
 - [ ] Does the text answer the question / fulfil the task you were given (= _beantwortet der Text die Frage / erfüllt der Text die Aufgabe die dir gegeben wurde_)?
 
+For the structure of a paragraph, see also the [checklist for writing a paragraph](checklists/LK_Checklist_Paragraph_A2.md).
+
 ## Form
 
 - [ ] You included an estimate[^2] of the **word count**. 

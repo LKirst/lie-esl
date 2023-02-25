@@ -50,6 +50,8 @@ date: '2023-02-12'
     - Do you summarize your main arguments?
     - Often it is a good idea to end with a call to action (= ask the reader directly or indirectly to do something, such as recycle, donate to charity, sign a petition etc.)
 
+For the structure of a paragraph, see also the [checklist for writing a paragraph](checklists/LK_Checklist_Paragraph_A2.md).
+
 ## Form
 
 - [ ] You give an estimate[^2] of the **word count**. 
