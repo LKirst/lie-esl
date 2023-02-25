@@ -48,7 +48,7 @@ date: '2023-02-12'
 
 - [ ] Does the text have a **conclusion**?
     - Do you summarize your main arguments?
-    - Often it is a good idea to end with a call to action (= ask the reader directly or indirectly to do something, succh as recycle, donate to charity, sign a petition etc.)
+    - Often it is a good idea to end with a call to action (= ask the reader directly or indirectly to do something, such as recycle, donate to charity, sign a petition etc.)
 
 ## Form
 
