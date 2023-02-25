@@ -16,7 +16,7 @@ date: '2023-02-12'
 
 ## Language
 
-- [ ] You use a wide range of **grammatical structures **correctly. For example: 
+- [ ] You use a wide range of **grammatical structures** correctly. For example: 
     - conditional sentences: _If I were you, I'd ...; If you are interested in XXX, you'll ..._
     - relative clauses: _XXX, who / which ..., ...; the XYZ that ..._
     - questions
