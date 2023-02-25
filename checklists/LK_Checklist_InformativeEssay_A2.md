@@ -6,11 +6,19 @@ date: '2023-02-12'
 
 # Checklist: Informative Essay (A2, v1.1.1)
 
+## Time
+
+- [ ] You were able to finish writing the text in 20-25 min. 
+
+## Planning
+
+- [ ] You made a writing plan. The plan includes notes (not full sentences) for the introduction and the main body. 
+
 ## Language (60%)
 
-- [ ] You did not use **first-person pronouns** (I / we).
+- [ ] You did **not** use **first-person pronouns** (I / we).
 
-- [ ] You did not use **contractions** (they've =\> they have; won't =\> will not; isn't =\> is not).
+- [ ] You did **not** use **contractions** (they've =\> they have; won't =\> will not; isn't =\> is not).
 
 - [ ] Does the text connect ideas with **transition words**? For example: 
 
@@ -20,7 +28,7 @@ date: '2023-02-12'
 
 - [ ] You use a wide range of **grammatical structures correctly.**
 
-- [ ] You use a wide range of **vocabulary** correctly.
+- [ ] You use a wide range of **vocabulary** correctly and you **paraphrase** words you don't know. You don't use German.
 
 ## Content (40%)
 
@@ -44,6 +52,9 @@ date: '2023-02-12'
 
 ## Form
 
-- [ ] You included an estimate (= _Schätzung_) of the **word count**.
+- [ ] You included an estimate[^2] of the **word count**. 
 
-- [ ] You **skipped every second line**, and I skipped **two or more lines between paragraphs**.
+- [ ] You **skip every second line**, and you skip **two or more lines between paragraphs**. 
+
+[^1]: estimate: Schätzung
+
