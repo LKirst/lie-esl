@@ -4,5 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - LK_CorrectionSymbols.md
   - checklists/
+  - exercises/
