@@ -56,7 +56,7 @@ Structure
 
 - [ ] The comment ends in a **concluding paragraph**, which sums up the main points and restates the thesis statement in a new way.
 
-For the structure of a paragraph, see also the [checklist for writing a paragraph](checklists/LK_Checklist_Paragraph_A2.md).
+For the structure of a paragraph, see also the [checklist for writing a paragraph]({{ site.baseurl }}{% link checklists/LK_Checklist_Paragraph_A2.md %}).
 
 ### Language (60%)
 
