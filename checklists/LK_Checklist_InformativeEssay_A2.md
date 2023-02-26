@@ -54,7 +54,7 @@ For the structure of a paragraph, see also the [checklist for writing a paragrap
 
 ## Form
 
-- [ ] You included an estimate[^2] of the **word count**. 
+- [ ] You included an estimate[^1] of the **word count**. 
 
 - [ ] You **skip every second line**, and you skip **two or more lines between paragraphs**. 
 
