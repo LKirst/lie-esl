@@ -25,7 +25,9 @@ date: '2023-02-22'
     - Formal: _My name is Joe Public. / Thank you for your prompt reply. / Thank you for contacting me._
 
 -   Does the email **answer the questions** you were asked / fulfil the task you were given?
+
 -   Do you **provide enough details and examples**?
+
 -   Do you end your email with (a question and) some friendly words:
 
     - Informal: _I can’t wait to hear from you. / I’m really looking forward to seeing you!_
@@ -40,5 +42,5 @@ date: '2023-02-22'
 
 -   Did you **sign** your email?
 
-[^1] recipient = the person you are writing to
+[^1]: recipient = the person you are writing to
 
