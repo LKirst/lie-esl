@@ -8,7 +8,7 @@ date: '2023-02-22'
 
 -   Does the email have a **subject line**, which summarizes the content
     of the email in a few words? subject: \_\_\_\_\_\_\_\_\_\_
--   Does the email have an **opening phrase **followed by a comma?
+-   Does the email have an **opening phrase** followed by a comma?
     
     - Informal: Hi XXX, / Hello (again) XXX, 
     - Formal: Dear Mr. / Ms. YYY,
@@ -37,3 +37,4 @@ date: '2023-02-22'
 -   Did you **sign** your email?
 
 [^1] recipient = the person you are writing to
+
