@@ -8,13 +8,13 @@ date: '2023-02-22'
 
 ### Language (60%)
 
-- [ ] You use the **first person** and **different verbs and phrases to express your opinion** in the last paragraph where you comment. In the rest of the comment you avoid first-person pronouns to focus on an objective analysis.
+- [ ] You use the **first person** and **different verbs and phrases to express your opinion** in the **last paragraph** where you comment on the cartoon. In the rest of the comment you **avoid first-person pronouns** to focus on an objective analysis.
 
 - [ ] You use a wide range of **sentence structures correctly**, e.g. conditional sentences, relative clauses, and subordinate clauses.
 
-- [ ] You show a good command of a **broad lexical repertoire**. You can vary[^3] formulation to avoid frequent repetition[^4] and you find **paraphrases** when you do not know a word you need. You make few spelling mistakes.
+- [ ] You show a good command of a **broad lexical repertoire**. You can vary[^1] formulation to avoid frequent repetition[^2] and you find **paraphrases** when you do not know a word you need. You make few spelling mistakes.
 
-- [ ] You use the **correct tenses**. We use the *present progressive* to describe actions depicted in the cartoon.
+- [ ] You use the **correct tenses**. We use the **present progressive** to describe actions depicted in the cartoon.
 
 - [ ] You connect ideas with **different linking / transition words**, including different subordinating conjunctions (e.g. *although, wherever, so that, \...*) and adverbial conjunctions (e.g. *however, nevertheless, meanwhile, \...*).
 
@@ -31,4 +31,8 @@ date: '2023-02-22'
 - [ ] Analysis and interpretation: Did you explain the issue to which the cartoon refers? Did you explain what stylistic devices (e.g. symbols, comparisons, irony or exaggeration) the cartoon uses and to what effect the cartoon uses them? If the cartoon depicts well-known people, did you explain their role in connection to the topic of the cartoon? Did you explain what opinion or message the cartoonist presents? 
 
 - [ ] Comment: Did you state your opinions on the topic in question an support your views with explanations and examples?
+
+[^1]: to vary /ˈveəri/ - to make changes to something to make it slightly different
+
+[^2]: repetition /ˌrepəˈtɪʃn/ - the fact of doing or saying the same thing many times
 

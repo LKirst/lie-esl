@@ -92,3 +92,4 @@ Level A2:
 Level B1:
 
 - [Comment](checklists/LK_Checklist_Comment_B1.md)
+- [Cartoon Analysis](checklists/LK_Checklist_CartoonAnalysis_B1.md)
