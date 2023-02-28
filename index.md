@@ -77,11 +77,11 @@ General:
 - [Online dictionaries](exercises/LK_OnlineDictionaries.md)
 - [Structure of an exercise book entry](checklists/LK_ExerciseBookEntry.md)
 
-Level A1:
+Level A1 (year 5 - 6):
 
 - [Personal Email](checklists/LK_Checklist_PersonalEmail_A1.md)
 
-Level A2:
+Level A2 (year 7 - 8):
 
 - [Writing a paragraph](checklists/LK_Checklist_Paragraph_A2.md)
 - [Diary Entry](checklists/LK_Checklist_DiaryEntry_A2.md)
@@ -89,7 +89,7 @@ Level A2:
 - [Persuasive Essay](checklists/LK_Checklist_PersuasiveEssay_A2.md)
 - [Email](checklists/LK_Checklist_Email_A2.md)
 
-Level B1:
+Level B1 (year 9 - 10):
 
 - [Comment](checklists/LK_Checklist_Comment_B1.md)
 - [Cartoon Analysis](checklists/LK_Checklist_CartoonAnalysis_B1.md)
