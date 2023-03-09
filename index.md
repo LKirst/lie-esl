@@ -76,6 +76,7 @@ General:
 - [Required Materials](checklists/LK_RequiredMaterials.md): A list of all the things I expect you to bring to our English lessons.
 - [Online dictionaries](exercises/LK_OnlineDictionaries.md)
 - [Structure of an exercise book entry](checklists/LK_ExerciseBookEntry.md)
+- [Online newspapers which publish cartoons (B1)](exercises/LK_Cartoons.md)
 
 Level A1 (year 5 - 6):
 
