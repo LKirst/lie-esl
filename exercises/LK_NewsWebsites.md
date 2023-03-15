@@ -19,7 +19,7 @@ There are many great free online news websites. Here are some suggestions:
 
 - <https://www.reuters.com/> - an international news organisation
 
-When you are looking for up to date figures (= _Zahlen_) for a topic you are researching, you may be interested in the latest polls:
+If you are looking for up to date figures (= _Zahlen_) for a topic you are researching, you may be interested in the latest polls:
 
 - <https://www.pewresearch.org/>
 
