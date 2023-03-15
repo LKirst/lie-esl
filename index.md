@@ -16,6 +16,7 @@ Advice for all English lessons
 Research
 
 - [Online dictionaries](exercises/LK_OnlineDictionaries.md)
+- [Online news websites](exercises/LK_NewsWebsites.md)
 - [Cartoons](exercises/LK_Cartoons.md)
 
 ## Checklists
