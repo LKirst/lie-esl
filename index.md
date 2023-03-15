@@ -69,14 +69,20 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | logic | Logic on a language or content level | _I love marshmallows \*but I ate one anyway._ |
 | weak | Sentence or paragraph is vague or general or states the obvious. | |
 
-## Checklists
 
-General:
+## Resources
+
+Advice for all English lessons
 
 - [Required Materials](checklists/LK_RequiredMaterials.md): A list of all the things I expect you to bring to our English lessons.
-- [Online dictionaries](exercises/LK_OnlineDictionaries.md)
 - [Structure of an exercise book entry](checklists/LK_ExerciseBookEntry.md)
-- [Online newspapers which publish cartoons (B1)](exercises/LK_Cartoons.md)
+
+Research
+
+- [Online dictionaries](exercises/LK_OnlineDictionaries.md)
+- [Cartoons](exercises/LK_Cartoons.md)
+
+## Checklists
 
 Level A1 (year 5 - 6):
 
@@ -94,3 +100,4 @@ Level B1 (year 9 - 10):
 
 - [Comment](checklists/LK_Checklist_Comment_B1.md)
 - [Cartoon Analysis](checklists/LK_Checklist_CartoonAnalysis_B1.md)
+
