@@ -6,10 +6,6 @@ date: '2023-02-12'
 
 # Checklist: Informative Essay (A2, v1.1.1)
 
-## Time
-
-- [ ] You were able to finish writing the text in 20-25 min. 
-
 ## Planning
 
 - [ ] You made a writing plan. The plan includes notes (not full sentences) for the introduction and the main body. 

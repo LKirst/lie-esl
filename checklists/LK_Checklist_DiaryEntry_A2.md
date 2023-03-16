@@ -63,6 +63,4 @@ date: '2023-02-21'
     - *as WWW as XXX, e.g. as white a snow*
     - *YYY like ZZZ, e.g. a face like a mask*
 -   The length of your diary entry is **above the minimum word** count.
--   You wrote your diary entry in **under 20 minutes** so that planning
-    and writing the text took under 25 minutes.
 

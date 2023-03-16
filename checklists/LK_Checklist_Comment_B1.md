@@ -22,17 +22,15 @@ Does your plan include notes for the body of your text? For every paragraph, you
 
 - [ ] supporting evidence in the form of facts, quotations, statistics, or examples
 
-**Form:** Is the plan visually structured into the introduction and the body paragraphs?
+**Form:** Is the plan visually structured into the introduction and the body
+paragraphs? Did you use bullet points instead of whole sentences to make the
+most of your planning time?
 
-**Time management:** Did you take not more than 5 min to make you plan? Did you use bullet points instead of whole sentences to make the most of your planning time?
+## Form 
 
-## Form and time management
-
-The length of your text is **above the minimum word** count.
+- [ ] The length of your text is **above the minimum word** count.
 
 - [ ] You **skip every second line**, and you skip **two or more lines between paragraphs**.
-
-- [ ] You wrote your text in **under 25 minutes** so that planning and writing the text took under 30 minutes.
 
 ## Grading Criteria
 
