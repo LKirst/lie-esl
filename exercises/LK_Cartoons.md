@@ -15,6 +15,7 @@ Here are three links to online newspapers without a paywall which publish cartoo
 - <https://theweek.com/cartoons>
 - <https://www.theguardian.com/cartoons/archive>
 - <https://www.politico.com/cartoons>
+- <https://www.cagle.com/cartoons/>
 
 ## Stylistic devices
 
