@@ -1,3 +1,9 @@
+---
+title: 'Online Dictionaries'
+author: L. Liebermann
+date: '2023-03-23'
+---
+
 # Online Dictionaries
 
 There is a compact bilingual dictionary (= *einsprachiges Wörterbuch*) at the end of your textbook. However, it will often not have the words you need and it will not give you examples how to use a word in context.

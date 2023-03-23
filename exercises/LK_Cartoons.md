@@ -1,3 +1,9 @@
+---
+title: 'Political cartoons'
+author: L. Liebermann
+date: '2023-03-23'
+---
+
 # Political cartoons
 
 When you are preparing for an exam in which you will be asked to analyse a
