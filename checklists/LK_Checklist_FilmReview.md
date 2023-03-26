@@ -26,7 +26,7 @@ each paragraph deals with one idea?
     - Do you provide a summary of the plot.
 
     - Do you provide enough detail so your reader knows what the film is about
-    but not give away[^give away] the ending.
+    but not give away[^giveaway] the ending.
 
 - Third paragraph (the most important part of your review!):
 
@@ -41,7 +41,7 @@ each paragraph deals with one idea?
 - Final paragraph:
 
     - The final paragraph should include your recommendation(s)[^recommendation]. You can
-    suggest who the film would most appeal[^appeal to] to.
+    suggest who the film would most appeal[^appealto] to.
 
     - Did you give reasons for your recommendations.
 
@@ -51,9 +51,9 @@ _Soon to come!_
 
 [^release]: If something appeals to you, you find it attractive or interesting.
 
-[^give away]: If you give away information you tell somebody about information you should keep a secret.
+[^giveaway]: If you give away information you tell somebody about information you should keep a secret.
 
 [^recommendation]: A suggestion that something is especially suitable for a particular situation or person.
 
-[^appeal to]: If something appeals to you, you like it or want it.
+[^appealto]: If something appeals to you, you like it or want it.
 
