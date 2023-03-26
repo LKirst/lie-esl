@@ -32,6 +32,7 @@ Level A2 (year 7 - 8):
 - [Informative Essay](checklists/LK_Checklist_InformativeEssay_A2.md)
 - [Persuasive Essay](checklists/LK_Checklist_PersuasiveEssay_A2.md)
 - [Email](checklists/LK_Checklist_Email_A2.md)
+- [Film Review](checklists/LK_Checklist_FilmReview.md)
 
 Level B1 (year 9 - 10):
 
