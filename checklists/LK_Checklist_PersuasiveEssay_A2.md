@@ -8,12 +8,12 @@ date: '2023-02-12'
 
 ## Planning
 
-- [ ] You made a writing plan. The plan includes notes (not full sentences) for
+- You made a writing plan. The plan includes notes (not full sentences) for
 the introduction and the main body.
 
 ## Language
 
-- [ ] You use a wide range of **grammatical structures** correctly. For
+- You use a wide range of **grammatical structures** correctly. For
 example:
 
     - conditional sentences: _If I were you, I'd ...; If you are interested in
@@ -23,7 +23,7 @@ example:
 
     - questions
 
-- [ ] You use a wide range of **vocabulary** correctly and you **paraphrase**
+- You use a wide range of **vocabulary** correctly and you **paraphrase**
 words you don't know. You don't use German.
 
     - strong adjectives and adverbs
@@ -32,7 +32,7 @@ words you don't know. You don't use German.
 
     - interesting nouns
 
-- [ ] You connect ideas with **transition words.** For example:
+- You connect ideas with **transition words.** For example:
 
     - Effect and consequence: _as a result, then, because, ..._
 
@@ -46,25 +46,25 @@ words you don't know. You don't use German.
 
 ## Content
 
-- [ ] The text has a **title,** which gives the reader a first idea of what the
+- The text has a **title,** which gives the reader a first idea of what the
 text will be about and **catches their attention**. The title is underlined.
 
-- [ ] Does the **introduction** hook the reader? For example with
+- Does the **introduction** hook the reader? For example with
 
     - a question
 
     - an anecdote[^1]
 
-- [ ] Does the **introduction** end in a sentence, which tells the reader of
+- Does the **introduction** end in a sentence, which tells the reader of
 what the text will try to persuade them (**thesis statement**).
 
-- [ ] Is the **main body** of the blog post divided into **paragraphs**. Every
+- Is the **main body** of the blog post divided into **paragraphs**. Every
 paragraph presents only one idea.
 
-- [ ] Does every **body paragraph** present **detailed reasons and examples**,
+- Does every **body paragraph** present **detailed reasons and examples**,
 which help you **convince the reader of your argument**.
 
-- [ ] Does the text have a **conclusion**?
+- Does the text have a **conclusion**?
 
     - Do you summarize your main arguments?
 
@@ -78,9 +78,9 @@ paragraph]({{ site.baseurl }}{% link checklists/LK_Checklist_Paragraph_A2.md
 
 ## Form
 
-- [ ] You give an estimate[^2] of the **word count**.
+- You give an estimate[^2] of the **word count**.
 
-- [ ] You **skip every second line**, and you skip **two or more lines between
+- You **skip every second line**, and you skip **two or more lines between
 paragraphs**.
 
 [^1]: anecdote: a short interesting or funny story about a real person or event
