@@ -30,7 +30,7 @@ examples
 paragraphs? Did you use bullet points instead of whole sentences to make the
 most of your planning time?
 
-## Form 
+## Form
 
 - [ ] The length of your text is **above the minimum word** count.
 

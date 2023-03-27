@@ -13,7 +13,7 @@ date: '2023-03-26'
 - Does your review have a clear structure? Is it divided into paragraphs, where
 each paragraph deals with one idea?
 
-- First paragraph: 
+- First paragraph:
 
     - Does the first paragraph contain your brief overall opinion of the film
     (in two to three sentences)?

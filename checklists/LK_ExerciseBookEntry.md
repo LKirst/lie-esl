@@ -13,7 +13,7 @@ heading of your task from the textbook, workbook or worksheet.
 
 - For text productions (not for grammar or vocabulary exercises): Please skip
 every second line within a paragraph and skip two or more lines between
-paragraphs. 
+paragraphs.
 
 - Skip a line after the heading before you start writing.
 

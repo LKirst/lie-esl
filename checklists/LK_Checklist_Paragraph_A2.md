@@ -16,7 +16,7 @@ __explanation(s) and one or more examples__. Every supporting sentence should
 clearly link to the topic sentence and not introduce new a new idea.
 
 - End: The paragraph ends with a concluding sentence (CS). The CS summarizes
-the main idea of the paragraph or makes a link to the next paragraph. 
+the main idea of the paragraph or makes a link to the next paragraph.
 
 After every paragraph, skip two more lines!
 

@@ -10,9 +10,9 @@ date: '2023-02-22'
 email in a few words? subject: \_\_\_\_\_\_\_\_\_\_
 
 -   Does the email have an **opening phrase** followed by a comma?
-    
+
     - Informal: _Hi XXX, / Hello (again) XXX,_
-    
+
     - Formal: _Dear Mr. / Ms. YYY,_
 
 -   Does the first line of the email body start with a **capital letter**?
@@ -21,7 +21,7 @@ email in a few words? subject: \_\_\_\_\_\_\_\_\_\_
 recipient[^1] at the beginning of your email if you are replying to an email;
 (b) ask your recipient how they are doing and tell them how you are (c)
 introduce yourself if your recipient doesn't know you
-    
+
     - Informal: _Thanks for your email. It's great to hear from you. / How are
     you? I'm happy that you've found friends at your new school. You'll have to
     introduce me to them when I come visit._
@@ -41,16 +41,16 @@ you were given?
 
     - Formal: _Thank you for your help / time / assistance. / I look forward to
     hearing from you soon / meeting you next Friday._
-    
+
     - Both informal and formal: _Let me know if you need anything else._
 
 -   Does the email end with a **closing**, for example:
 
     - Informal: _Bye for now, Best wishes, See you later,_ (you can only use
     this if you'll meet the recipient **in person** soon), _Cheers,_
-    
+
     - Formal: _Yours sincerely, Kind regards, Regards,_
-    
+
     - Common mistakes: *~~Greetings,~~* is NOT an English closing. Do NOT put
     ~~'Your'~~ in front of your signature.
 

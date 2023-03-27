@@ -37,11 +37,11 @@ colloquialisms**.
 
 ## Content (40%)
 
-- [ ] Introductory sentence: 
+- [ ] Introductory sentence:
 
     - Did you name the source (e.g. the newspaper in which the cartoon was
-    published) and when it was published? 
-  
+    published) and when it was published?
+
     - Did you name the cartoonist and the title of the cartoon?
 
     - Did you state in one sentence what the cartoon is about; what its main
@@ -64,8 +64,8 @@ colloquialisms**.
 
     - Did you explain what stylistic devices (e.g. symbols, comparisons, irony
     or exaggeration) the cartoon uses and to what effect the cartoon uses them?
-    
-    - Did you explain what opinion or message the cartoonist presents? 
+
+    - Did you explain what opinion or message the cartoonist presents?
 
 - [ ] Comment: Did you state your opinions on the topic in question an support
 your views with explanations and examples?

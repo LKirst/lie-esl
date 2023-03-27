@@ -9,7 +9,7 @@ date: '2023-02-12'
 ## Planning
 
 - [ ] You made a writing plan. The plan includes notes (not full sentences) for
-the introduction and the main body. 
+the introduction and the main body.
 
 ## Language (60%)
 
@@ -18,13 +18,13 @@ the introduction and the main body.
 - [ ] You did **not** use **contractions** (they've =\> they have; won't =\>
 will not; isn't =\> is not).
 
-- [ ] Does the text connect ideas with **transition words**? For example: 
+- [ ] Does the text connect ideas with **transition words**? For example:
 
-    - Compare and contrast: _like, similar to, compared to, although_; 
+    - Compare and contrast: _like, similar to, compared to, although_;
 
     - Examples: _for example, for instance, such as, Another example of XXX is
     YYY_;
-   
+
     - To conclude: _in summary, to sum up, in conclusion, as a result_
 
 - [ ] You use a wide range of **grammatical structures correctly.**
@@ -69,10 +69,10 @@ paragraph]({{ site.baseurl }}{% link checklists/LK_Checklist_Paragraph_A2.md
 
 ## Form
 
-- [ ] You included an estimate[^1] of the **word count**. 
+- [ ] You included an estimate[^1] of the **word count**.
 
 - [ ] You **skip every second line**, and you skip **two or more lines between
-paragraphs**. 
+paragraphs**.
 
 [^1]: estimate: Schätzung
 
