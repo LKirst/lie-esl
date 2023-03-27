@@ -16,32 +16,32 @@ the introduction and the main body.
 - You use a wide range of **grammatical structures** correctly. For
 example:
 
-    - conditional sentences: _If I were you, I'd ...; If you are interested in
+  - conditional sentences: _If I were you, I'd ...; If you are interested in
     XXX, you'll ..._
 
-    - relative clauses: _XXX, who / which ..., ...; the XYZ that ..._
+  - relative clauses: _XXX, who / which ..., ...; the XYZ that ..._
 
-    - questions
+  - questions
 
 - You use a wide range of **vocabulary** correctly and you **paraphrase**
 words you don't know. You don't use German.
 
-    - strong adjectives and adverbs
+  - strong adjectives and adverbs
 
-    - comparative and superlative adjectives and adverbs
+  - comparative and superlative adjectives and adverbs
 
-    - interesting nouns
+  - interesting nouns
 
 - You connect ideas with **transition words.** For example:
 
-    - Effect and consequence: _as a result, then, because, ..._
+  - Effect and consequence: _as a result, then, because, ..._
 
-    - Time and sequence: _as soon as, during, since, until, whenever, ..._
+  - Time and sequence: _as soon as, during, since, until, whenever, ..._
 
-    - Compare and contrast: _like, similar to, compared to, although, as XXX as
+  - Compare and contrast: _like, similar to, compared to, although, as XXX as
     YYY, ..._
 
-    - Examples: _for example, for instance, such as, another example of XXX is
+  - Examples: _for example, for instance, such as, another example of XXX is
     YYY, ...._
 
 ## Content
@@ -51,9 +51,9 @@ text will be about and **catches their attention**. The title is underlined.
 
 - Does the **introduction** hook the reader? For example with
 
-    - a question
+  - a question
 
-    - an anecdote[^1]
+  - an anecdote[^1]
 
 - Does the **introduction** end in a sentence, which tells the reader of
 what the text will try to persuade them (**thesis statement**).
@@ -66,9 +66,9 @@ which help you **convince the reader of your argument**.
 
 - Does the text have a **conclusion**?
 
-    - Do you summarize your main arguments?
+  - Do you summarize your main arguments?
 
-    - Often it is a good idea to end with a call to action (= ask the reader
+  - Often it is a good idea to end with a call to action (= ask the reader
     directly or indirectly to do something, such as recycle, donate to charity,
     sign a petition etc.)
 

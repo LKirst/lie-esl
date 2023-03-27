@@ -20,12 +20,12 @@ will not; isn't =\> is not).
 
 - Does the text connect ideas with **transition words**? For example:
 
-    - Compare and contrast: _like, similar to, compared to, although_;
+  - Compare and contrast: _like, similar to, compared to, although_;
 
-    - Examples: _for example, for instance, such as, Another example of XXX is
+  - Examples: _for example, for instance, such as, Another example of XXX is
     YYY_;
 
-    - To conclude: _in summary, to sum up, in conclusion, as a result_
+  - To conclude: _in summary, to sum up, in conclusion, as a result_
 
 - You use a wide range of **grammatical structures correctly.**
 
