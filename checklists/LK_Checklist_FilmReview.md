@@ -40,8 +40,9 @@ each paragraph deals with one idea?
 
 - Final paragraph:
 
-    - The final paragraph should include your recommendation(s)[^recommendation]. You can
-    suggest who the film would most appeal[^appealto] to.
+    - The final paragraph should include your
+    recommendation(s)[^recommendation]. You can suggest who the film would most
+    appeal[^appealto] to.
 
     - Did you give reasons for your recommendations.
 
@@ -51,9 +52,11 @@ _Soon to come!_
 
 [^release]: If something appeals to you, you find it attractive or interesting.
 
-[^giveaway]: If you give away information you tell somebody about information you should keep a secret.
+[^giveaway]: If you give away information you tell somebody about information
+you should keep a secret.
 
-[^recommendation]: A suggestion that something is especially suitable for a particular situation or person.
+[^recommendation]: A suggestion that something is especially suitable for a
+particular situation or person.
 
 [^appealto]: If something appeals to you, you like it or want it.
 
