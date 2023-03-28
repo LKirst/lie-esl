@@ -3,6 +3,9 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+toc:
+  min_level: 2
+  max_level: 3
 include:
   - checklists/
   - exercises/
