@@ -1,3 +1,9 @@
+---
+title: 'Learning English with Mr Liebermann'
+author: L. Liebermann
+date: '2023-02-12'
+---
+
 # Learning English with Mr Liebermann
 
 This website is a work in progress (= _Diese Website ist in Arbeit_). If you
