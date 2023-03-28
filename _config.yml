@@ -7,6 +7,9 @@ relative_links:
 toc:
   min_level: 2
   max_level: 3
-include:
-  - checklists/
-  - exercises/
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+
