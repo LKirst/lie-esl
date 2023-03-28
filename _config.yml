@@ -1,15 +1,7 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-toc
 relative_links:
   enabled: true
   collections: true
-toc:
-  min_level: 2
-  max_level: 3
-defaults:
-  - scope:
-      path: ""
-    values:
-      toc: true
-
+kramdown:
+  toc_levels: 2..3
