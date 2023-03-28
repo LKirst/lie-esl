@@ -55,6 +55,76 @@ peace).
 - analogy: The cartoon compares two unlike things (situations, people, actions,
 ...) to highlight a resemblance of a particular aspect.
 
+## Useful phrases
+
+### Describing the cartoon
+
+The cartoon ...
+
+- is about ...
+
+- deals with ...
+
+- depicts / shows ...
+
+What part of the cartoon are you talking about:
+
+- at the top / bottom
+
+- in the foreground / background
+
+- in the top left-hand corner / bottom right-hand corner
+
+- in the centre
+
+- above / below
+
+The speech bubble / thought bubble / caption / placard / sign ...
+
+- reads ...
+
+- says ...
+
+The words are printed in ...
+
+- bold
+
+- italics
+
+- capital letters
+
+### Analysing the cartoon
+
+Talking about stylistic devices:
+
+- The cartoonist / the cartoon uses XXX to ...
+
+- XXX symbolizes / stands for YYY.
+
+- XXX stands in (sharp) contrast to YYY.
+
+- The exaggerated / farcial features of XXX make her look / highlight YYY
+
+- The cartoon draws a comparison between XXX and YYY.
+
+The cartoon ...
+
+- reveals / suggests ...
+
+- alludes to ...
+
+- grabs the reader's attention with / by ...
+
+The cartoonist ...
+
+- makes fun of / criticizes / satirizes / ridicules / attacks ...
+
+- highlights / illustrates the problem of ...
+
+- tries to draw attention to ...
+
+- wants to convey the message that ...
+
 ## Exercise
 
 1. Take about 10 minutes to familiarize yourself with the current news stories
