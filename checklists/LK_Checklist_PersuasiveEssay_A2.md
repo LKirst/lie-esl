@@ -6,6 +6,9 @@ date: '2023-02-12'
 
 # Checklist: Persuasive Essay (A2, v1.2.0)
 
+1. Placeholder for TOC
+{:toc}
+
 ## Planning
 
 - You made a writing plan. The plan includes notes (not full sentences) for

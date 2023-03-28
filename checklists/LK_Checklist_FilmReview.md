@@ -6,6 +6,9 @@ date: '2023-03-26'
 
 # Checklist: Diary review (A2, v1.0.1)
 
+1. Placeholder for TOC
+{:toc}
+
 ## Content
 
 - Does the review have a heading?

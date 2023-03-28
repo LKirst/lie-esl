@@ -1,8 +1,10 @@
 # Learning English with Mr Liebermann
 
-This website is a work in progress (= _Diese Website ist in Arbeit_).
+This website is a work in progress (= _Diese Website ist in Arbeit_). If you
+notice mistakes or sections which need improvements, please let me know.
 
-If you notice mistakes or sections which need improvements, please let me know.
+1. Placeholder for TOC
+{:toc}
 
 ## Correction symbols
 

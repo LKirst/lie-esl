@@ -6,6 +6,9 @@ date: '2023-02-21'
 
 # Checklist: Diary entry (A2, v1.1.2)
 
+1. Placeholder for TOC
+{:toc}
+
 ## The writing plan
 
 - Does the plan include notes for the introduction (the beginning)?
