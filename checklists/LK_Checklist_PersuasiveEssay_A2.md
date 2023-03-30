@@ -29,7 +29,7 @@ example:
 - You use a wide range of **vocabulary** correctly and you **paraphrase**
 words you don't know. You don't use German.
 
-  - strong adjectives and adverbs
+  - **strong adjectives and adverbs**
 
   - comparative and superlative adjectives and adverbs
 

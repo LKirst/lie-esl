@@ -51,7 +51,38 @@ each paragraph deals with one idea?
 
 ## Language
 
-_Soon to come!_
+Hint: The language criteria are very similar to the criteria for a persuasive text.
+
+- You use a wide range of **grammatical structures** correctly. For
+example:
+
+  - conditional sentences: _If I were you, I'd ...; If you are interested in
+    XXX, you'll ..._
+
+  - relative clauses: _XXX, who / which ..., ...; the XYZ that ..._
+
+  - questions
+
+- You use a wide range of **vocabulary** correctly and you **paraphrase**
+words you don't know. You don't use German.
+
+  - **strong adjectives and adverbs**
+
+  - comparative and superlative adjectives and adverbs
+
+  - interesting nouns
+
+- You connect ideas with **transition words.** For example:
+
+  - Effect and consequence: _as a result, then, because, ..._
+
+  - Time and sequence: _as soon as, during, since, until, whenever, ..._
+
+  - Compare and contrast: _like, similar to, compared to, although, as XXX as
+    YYY, ..._
+
+  - Examples: _for example, for instance, such as, another example of XXX is
+    YYY, ...._
 
 [^release]: If something appeals to you, you find it attractive or interesting.
 
