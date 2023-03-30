@@ -1,7 +1,6 @@
 ---
 title: 'Learning English with Mr Liebermann'
 author: L. Liebermann
-date: '2023-02-12'
 ---
 
 # Learning English with Mr Liebermann
@@ -35,7 +34,11 @@ Research
 
 - [Cartoons](exercises/LK_Cartoons.md)
 
-- [Listening comprehension practice](exercises/LK_ListeningWebsites.md)
+[Listening comprehension practice](exercises/LK_ListeningWebsites.md)
+
+Wordlists
+
+- [Strong adjectives](wordlists/LK_StrongAdjectives.md)
 
 ## Checklists
 
