@@ -32,6 +32,8 @@ cartoons:
 
   - <https://www.cagle.com/cartoons/>
 
+  - <https://tribunecontentagency.com/catalog/> (you have to scroll down to the section "Editorial Cartoons" and click on a cartoonist to see the cartoons)
+
 ## Stylistic devices
 
 When you interpret a cartoon you should identify the stylistic devices the
@@ -117,7 +119,7 @@ The cartoon ...
 
 The cartoonist ...
 
-- makes fun of / criticizes / satirizes / ridicules / attacks ...
+- makes fun of / pokes fun at / criticizes / satirizes / ridicules / attacks ...
 
 - highlights / illustrates the problem of ...
 
