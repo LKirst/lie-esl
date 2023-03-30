@@ -57,6 +57,8 @@ peace).
 - analogy: The cartoon compares two unlike things (situations, people, actions,
 ...) to highlight a resemblance of a particular aspect.
 
+- juxtaposition: The cartoon places two or more things side by side to point out their differences.
+
 ## Useful phrases
 
 ### Describing the cartoon
