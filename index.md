@@ -34,7 +34,13 @@ Research
 
 - [Cartoons](exercises/LK_Cartoons.md)
 
+Skills
+
 [Listening comprehension practice](exercises/LK_ListeningWebsites.md)
+
+Grammar topics overview
+
+- [Grammar topics by year (Gymnasium, erste Fremdsprache)](LK_GrammarOverview.md)
 
 Wordlists
 
