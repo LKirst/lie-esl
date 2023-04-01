@@ -3,8 +3,6 @@ title: 'Learning English with Mr Liebermann'
 author: L. Liebermann
 ---
 
-# Learning English with Mr Liebermann
-
 This website is a work in progress (= _Diese Website ist in Arbeit_). If you
 notice mistakes or sections which need improvements, please let me know.
 
