@@ -8,7 +8,7 @@ date: '2023-02-12'
 
 - Has your email got a **subject line** (= _einen Betreff_), which
 summarizes the content of the email (= _der den Inhalt deiner Mail
-zusammenfasst_)?\ _subject: XYZ_
+zusammenfasst_): _subject: XYZ_
 
 - Has the email got a **greeting** (= _eine Begrüßung_), followed by a name
 and a comma (= _gefolgt von einem Namen und einem Komma_)?
@@ -21,15 +21,15 @@ and a comma (= _gefolgt von einem Namen und einem Komma_)?
 
 - Spelling:
 
-  - [ ] Does the first line of the email start with a **capital letter** (=
+  - Does the first line of the email start with a **capital letter** (=
      Großbuchstabe)
 
-  - [ ] Do all sentences start with a capital letter?
+  - Do all sentences start with a capital letter?
 
-  - [ ] Do all names of people, places, days and months start with a capital
+  - Do all names of people, places, days and months start with a capital
      letter?
 
-  - [ ] Did you write the word "I" with a capital letter?
+  - Did you write the word "I" with a capital letter?
 
 - Do you have an **introduction** (= _Einleitung_)? For your introduction,
 you can \...
