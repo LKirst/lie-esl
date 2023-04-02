@@ -9,3 +9,7 @@ relative_links:
 kramdown:
   toc_levels: 2..3
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# hide the RSS Feed link in the footer
+atom_feed:
+  hide: true
