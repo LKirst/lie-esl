@@ -71,7 +71,7 @@ sentences and do not introduce new ideas.
 points and restates the thesis statement in a new way.
 
 For the structure of a paragraph, see also the [checklist for writing a
-paragraph]({{ site.baseurl }}{% link checklists/LK_Checklist_Paragraph_A2.md
+paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 %}).
 
 ### Language (60%)

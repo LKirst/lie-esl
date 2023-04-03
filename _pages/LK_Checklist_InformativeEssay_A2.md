@@ -67,7 +67,7 @@ _beantwortet der Text die Frage / erfüllt der Text die Aufgabe die dir gegeben
 wurde_)?
 
 For the structure of a paragraph, see also the [checklist for writing a
-paragraph]({{ site.baseurl }}{% link checklists/LK_Checklist_Paragraph_A2.md
+paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 %}).
 
 ## Form

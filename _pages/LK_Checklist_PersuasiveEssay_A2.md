@@ -76,7 +76,7 @@ which help you **convince the reader of your argument**.
     sign a petition etc.)
 
 For the structure of a paragraph, see also the [checklist for writing a
-paragraph]({{ site.baseurl }}{% link checklists/LK_Checklist_Paragraph_A2.md
+paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 %}).
 
 ## Form
