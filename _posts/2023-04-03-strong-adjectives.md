@@ -1,17 +1,18 @@
 ---
-title: 'Strong adjectives'
+title: 'Extreme adjectives'
 date: 2023-04-03
 category: vocabulary
 ---
 
-## What are strong adjectives
+## What are extreme adjectives
 
-Strong adjectives are adjectives with which we do not use _very_ because they
-in themselves already have the meaning of _very_.
+Extreme adjectives (sometimes called strong adjectives) are adjectives with
+which we do not use _very_ because they in themselves already have the meaning
+of _very_.
 
 Here are some examples:
 
-| very + adjective | strong adjectives                                         |
+| very + adjective | extreme adjectives                                         |
 |------------------|-----------------------------------------------------------|
 | very big         | enormous, huge, vast                                      |
 | very small       | tiny                                                      |
@@ -29,18 +30,28 @@ Here are some examples:
 | very angry       | furious, enraged, incensed                                |
 | very pleased     | over the moon, floating on air                            |
 
-## When to use strong adjectives
+## When to use extreme adjectives
 
-Strong adjectives can make your writing more interesting.
+Strong adjectives can make your writing more interesting. 
 
 Use them when you have to persuade a reader in your writing assignment, when an
 assignment calls for your opinion, or when you want to show a strong feeling in
 a creative writing assignment.
 
-## Sources
+## Exercise
+
+Rewrite the following sentences with extreme adjectives.
+
+_We went to a football match last weekend. Even though it was very cold, we had
+a very good time. At half-time we had a very tasty pork pie and my father
+ordered something very bad to drink: Beef tea. He said he enjoyed it, but I
+took just a very small sip and I instantly knew he was lying._
+
+## Further readings
 
 - <https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/intensifiers>
 
 - <https://dictionaryblog.cambridge.org/2020/03/04/scorching-furious-and-delighted-extreme-adjectives-in-english-part-1/>
 
-- <https://7esl.com/strong-adjectives/>
+- <https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/adjectives-gradable-non-gradable>
+
