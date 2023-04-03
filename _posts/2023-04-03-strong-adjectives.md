@@ -33,9 +33,9 @@ Here are some examples:
 
 Strong adjectives can make your writing more interesting.
 
-Use them when you have to persuade a reader in your writing assignment, an assignment
-calls for your opinion, or you want to show a strong feeling in a creative
-writing assignment.
+Use them when you have to persuade a reader in your writing assignment, when an
+assignment calls for your opinion, or when you want to show a strong feeling in
+a creative writing assignment.
 
 ## Sources
 
