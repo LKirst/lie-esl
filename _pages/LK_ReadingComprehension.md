@@ -2,36 +2,14 @@
 title: Reading comprehension
 ---
 
+If you are looking for a book to read in your spare time, you should look for
+books at a suitable (= _geeignetem_) level. [Click
+here](_pages/LK_ProficiencyLevels.md) to find out about your level.
+
 ## Books
 
-If you are looking for a book to read in your spare time, you should look for
-books at a suitable (= _geeignetem_) level. If you are at the _Gymnasium_ in
-Bavaria, look for the following levels: 
-
-| Year (_Gymnasium_) | _Lernjahr_ | CEFR                                             |
-|--------------------|------------|--------------------------------------------------|
-| 5-6                | 1-2        | **A1**, Breakthrough                             |
-| 7-8                | 3-4        | **A2**, Waystage                                 |
-| 9-10               | 5-6        | **B1**, Threshold                                |
-| 11                 | 7          | B1/B2, Threshold/Vantage                         |
-| 12 _grundlegend_   | 8          | **B2**, Vantage                                  |
-| 12 _erhöht_        | 8          | B2/C1, Vantage/Effective Operational Proficiency |
-| 13 _grundlegend_   | 9          | B2/C1, Vantage/Effective Operational Proficiency |
-| 13 _erhöht_        | 9          | **C1**, Effective Operational Proficiency        |
-
-| Year at the _Gymnasium_ | Macmillan Readers                | Pearson   |
-|-------------------------|----------------------------------|-----------|
-| 5-6                     | Starter to Beginner              | Level 1   |
-| 7-8                     | Elementary to Pre-intermediate   | Level 2-3 |
-| 9-10                    | Pre-intermediate to Intermediate | Level 4   |
-| 11                      | Intermediate                     | Level 4-5 |
-| 12 _grundlegend_        | Upper intermediate               | Level 5   |
-| 12 _erhöht_             |                                  | Level 5-6 |
-| 13 _grundlegend_        |                                  | Level 5-6 |
-| 13 _erhöht_             |                                  | Level 6   |
-
-Different publishers: You have to use the **filters** on the following websites to
-get books with the right level for you.
+Use the **filters** on the following websites to get books with the right level
+for you.
 
 - Klett: <https://www.klett-sprachen.de/lektueren/englisch/c-31>
 

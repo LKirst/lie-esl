@@ -2,6 +2,9 @@
 title: Listening comprehension
 ---
 
+[Click here](_pages/LK_ProficiencyLevels.md) to find out which level you should
+look for when you pick an exercise.
+
 All levels:
 
 - <https://www.cambridgeenglish.org/learning-english/activities-for-learners/?skill=listening>
