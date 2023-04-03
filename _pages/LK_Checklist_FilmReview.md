@@ -56,6 +56,9 @@ example:
 
   - questions
 
+- You use the correct tenses. For summaries, we generally use the **present
+simple**.
+
 - You use a wide range of **vocabulary** correctly and you **paraphrase**
 words you don't know. You don't use German.
 
