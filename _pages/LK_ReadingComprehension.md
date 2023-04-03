@@ -4,8 +4,7 @@ title: Reading comprehension
 
 If you are looking for a book to read in your spare time, you should look for
 books at a suitable (= _geeignetem_) level. [Click here]({{ site.baseurl }}{%
-link _pages/L_pages/LK_ProficiencyLevels.md
-%}) to find out about your level.
+link _pages/LK_ProficiencyLevels.md %}) to find out about your level.
 
 ## Books
 

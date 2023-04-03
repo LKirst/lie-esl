@@ -2,9 +2,8 @@
 title: Listening comprehension
 ---
 
-[Click here]({{ site.baseurl }}{% link _pages/L_pages/LK_ProficiencyLevels.md
-%}) to find out which level you should
-look for when you pick an exercise.
+[Click here]({{ site.baseurl }}{% link _pages/LK_ProficiencyLevels.md %}) to
+find out which level you should look for when you pick an exercise.
 
 All levels:
 
