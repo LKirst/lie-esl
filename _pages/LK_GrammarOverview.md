@@ -8,6 +8,22 @@ author: L. Liebermann
 1. Placeholder for TOC
 {:toc}
 
+## Websites with practice exercises
+
+Here are some websites where you can search for practice exercieses:
+
+- Basic Grammar: <https://www.bbc.co.uk/learningenglish/english/basic-grammar>
+
+- Intermediate Grammar: <https://www.bbc.com/learningenglish/english/intermediate-grammar>
+
+- <https://www.englisch-hilfen.de/>
+
+- <https://www.perfect-english-grammar.com/grammar-exercises.html>
+
+- <https://learnenglishteens.britishcouncil.org/grammar>
+
+- <https://learnenglish.britishcouncil.org/grammar>
+
 ## Year 5
 
 - Nouns in the singular and (regular/irregular) plural

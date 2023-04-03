@@ -34,11 +34,13 @@ Research
 
 Skills
 
-[Listening comprehension practice](exercises/LK_ListeningWebsites.md)
+- [Listening comprehension](_pages/LK_ListeningWebsites.md)
 
-Grammar topics overview
+- [Reading comprehension](_pages/LK_ListeningComprehension.md)
 
-- [Grammar topics by year (Gymnasium, erste Fremdsprache)](LK_GrammarOverview.md)
+Grammar
+
+- [Grammar topics by year (Gymnasium, erste Fremdsprache)](_pages/LK_GrammarOverview.md)
 
 Wordlists
 
