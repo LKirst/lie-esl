@@ -1,9 +1,8 @@
 ---
 title: 'Strong adjectives'
-author: L. Liebermann
+date: 2023-04-03
+category: vocabulary
 ---
-
-# Strong adjectives
 
 ## What are strong adjectives
 
@@ -29,11 +28,10 @@ Here are some examples:
 | very hot         | boiling, scorching                                        |
 | very angry       | furious, enraged, incensed                                |
 | very pleased     | over the moon, floating on air                            |
-| 
 
 ## When to use strong adjectives
 
-Strong adjectives can make your writing more interesting. Here are some examples:
+Strong adjectives can make your writing more interesting.
 
 Use them when you have to persuade a reader in your writing assignment, an assignment
 calls for your opinion, or you want to show a strong feeling in a creative

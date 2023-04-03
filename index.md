@@ -41,10 +41,6 @@ Grammar
 
 - [Grammar topics by year (Gymnasium, erste Fremdsprache)](_pages/LK_GrammarOverview.md)
 
-Wordlists
-
-- [Strong adjectives](wordlists/LK_StrongAdjectives.md)
-
 ## Checklists
 
 Level A1 (year 5 - 6):
