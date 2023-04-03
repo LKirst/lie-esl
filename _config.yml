@@ -10,8 +10,23 @@ relative_links:
   collections: true
 kramdown:
   toc_levels: 2..3
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # hide the RSS Feed link in the footer
 atom_feed:
   hide: true
+
+# settings for the author side-bar
+author:
+  name: "Lukas Liebermann"
+  location: "Bavaria, Germany"
+
+# set the default layout
+pages:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
