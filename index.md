@@ -34,9 +34,9 @@ Research
 
 Skills
 
-- [Listening comprehension](_pages/LK_ListeningWebsites.md)
+- [Listening comprehension](_pages/LK_ListeningComprehension.md)
 
-- [Reading comprehension](_pages/LK_ListeningComprehension.md)
+- [Reading comprehension](_pages/LK_ReadingComprehension.md)
 
 Grammar
 
