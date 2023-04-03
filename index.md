@@ -18,18 +18,18 @@ use.
 
 Advice for all English lessons
 
-- [Required Materials](checklists/LK_RequiredMaterials.md): A list of all the
+- [Required Materials](_pages/LK_RequiredMaterials.md): A list of all the
 things I expect you to bring to our English lessons.
 
-- [Structure of an exercise book entry](checklists/LK_ExerciseBookEntry.md)
+- [Structure of an exercise book entry](_pages/LK_ExerciseBookEntry.md)
 
 Research
 
-- [Online dictionaries](exercises/LK_OnlineDictionaries.md)
+- [Online dictionaries](_pages/LK_OnlineDictionaries.md)
 
-- [Online news websites](exercises/LK_NewsWebsites.md)
+- [Online news websites](_pages/LK_NewsWebsites.md)
 
-- [Cartoons](exercises/LK_Cartoons.md)
+- [Cartoons](_pages/LK_Cartoons.md)
 
 Skills
 
@@ -49,25 +49,25 @@ Wordlists
 
 Level A1 (year 5 - 6):
 
-- [Personal Email](checklists/LK_Checklist_PersonalEmail_A1.md)
+- [Personal Email](_pages/LK_Checklist_PersonalEmail_A1.md)
 
 Level A2 (year 7 - 8):
 
-- [Writing a paragraph](checklists/LK_Checklist_Paragraph_A2.md)
+- [Writing a paragraph](_pages/LK_Checklist_Paragraph_A2.md)
 
-- [Diary Entry](checklists/LK_Checklist_DiaryEntry_A2.md)
+- [Diary Entry](_pages/LK_Checklist_DiaryEntry_A2.md)
 
-- [Informative Essay](checklists/LK_Checklist_InformativeEssay_A2.md)
+- [Informative Essay](_pages/LK_Checklist_InformativeEssay_A2.md)
 
-- [Persuasive Essay](checklists/LK_Checklist_PersuasiveEssay_A2.md)
+- [Persuasive Essay](_pages/LK_Checklist_PersuasiveEssay_A2.md)
 
-- [Email](checklists/LK_Checklist_Email_A2.md)
+- [Email](_pages/LK_Checklist_Email_A2.md)
 
-- [Film Review](checklists/LK_Checklist_FilmReview.md)
+- [Film Review](_pages/LK_Checklist_FilmReview.md)
 
 Level B1 (year 9 - 10):
 
-- [Comment](checklists/LK_Checklist_Comment_B1.md)
+- [Comment](_pages/LK_Checklist_Comment_B1.md)
 
-- [Cartoon Analysis](checklists/LK_Checklist_CartoonAnalysis_B1.md)
+- [Cartoon Analysis](_pages/LK_Checklist_CartoonAnalysis_B1.md)
 
