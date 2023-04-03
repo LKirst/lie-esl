@@ -23,10 +23,11 @@ author:
   location: "Bavaria, Germany"
 
 # set the default layout
-pages:
+defaults:
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      author_profile: true
