@@ -1,4 +1,6 @@
-# Required Materials for Mr Liebermann's English lessons
+---
+title: Required Materials for Mr Liebermann's English lessons
+---
 
 Please bring all of the following materials to every English lesson.
 

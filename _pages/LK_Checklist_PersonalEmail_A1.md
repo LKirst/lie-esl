@@ -1,10 +1,6 @@
 ---
-title: 'Personal Email'
-author: L. Liebermann
-date: '2023-02-12'
+title: 'Personal Email (A1)'
 ---
-
-# Checklist: Personal Email (A1, v1.2.0)
 
 - Has your email got a **subject line** (= _einen Betreff_), which
 summarizes the content of the email (= _der den Inhalt deiner Mail

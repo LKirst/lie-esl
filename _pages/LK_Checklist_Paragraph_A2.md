@@ -1,10 +1,6 @@
 ---
-title: 'Paragraph'
-author: L. Liebermann
-date: '2023-02-25'
+title: 'Writing a Body Paragraph'
 ---
-
-# Checklist: Writing a Body Paragraph (A2-B1, v.1.0.0)
 
 In essay assignments, every body paragraph should have three parts:
 

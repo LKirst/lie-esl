@@ -1,13 +1,7 @@
 ---
 title: 'Diary Entry'
-author: L. Liebermann
-date: '2023-02-21'
+toc: true
 ---
-
-# Checklist: Diary entry (A2, v1.1.2)
-
-1. Placeholder for TOC
-{:toc}
 
 ## The writing plan
 

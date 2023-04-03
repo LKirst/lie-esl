@@ -1,13 +1,7 @@
 ---
 title: 'Comment'
-author: L. Liebermann
-date: '2023-02-12'
+toc: true
 ---
-
-# Checklist: Comment (B1, v1.3.2)
-
-1. Placeholder for TOC
-{:toc}
 
 ## The writing plan
 

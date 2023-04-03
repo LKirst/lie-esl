@@ -1,13 +1,7 @@
 ---
 title: 'Cartoon Analysis'
-author: L. Liebermann
 date: '2023-02-22'
 ---
-
-# Checklist: Cartoon analysis (B1, v1.0.0)
-
-1. Placeholder for TOC
-{:toc}
 
 ## Language (60%)
 

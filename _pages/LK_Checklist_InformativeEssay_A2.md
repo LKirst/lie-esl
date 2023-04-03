@@ -1,13 +1,6 @@
 ---
 title: 'Informative Essay'
-author: L. Liebermann
-date: '2023-02-12'
 ---
-
-# Checklist: Informative Essay (A2, v1.1.1)
-
-1. Placeholder for TOC
-{:toc}
 
 ## Planning
 

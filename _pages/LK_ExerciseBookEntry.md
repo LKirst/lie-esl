@@ -1,4 +1,6 @@
-# Structure of an exercise book entry
+---
+title: Structure of an exercise book entry
+---
 
 Every exercise book entry should follow the same pattern:
 

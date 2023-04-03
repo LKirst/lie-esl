@@ -1,13 +1,6 @@
 ---
-title: 'Film review'
-author: L. Liebermann
-date: '2023-03-26'
+title: 'Film Review'
 ---
-
-# Checklist: Diary review (A2, v1.0.1)
-
-1. Placeholder for TOC
-{:toc}
 
 ## Content
 

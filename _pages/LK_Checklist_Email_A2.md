@@ -1,10 +1,6 @@
 ---
 title: 'Email'
-author: L. Liebermann
-date: '2023-02-22'
 ---
-
-# Checklist: Email (A2-B1; v3.0.2)
 
 - Does the email have a **subject line**, which summarizes the content of the
 email in a few words? subject: \_\_\_\_\_\_\_\_\_\_

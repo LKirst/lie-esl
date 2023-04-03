@@ -1,13 +1,7 @@
 ---
 title: 'Political cartoons'
-author: L. Liebermann
-date: '2023-03-23'
+toc: true
 ---
-
-# Political cartoons
-
-1. Placeholder for TOC
-{:toc}
 
 ## Free resources
 
