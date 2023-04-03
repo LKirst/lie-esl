@@ -95,12 +95,9 @@ meanwhile, \...*).
 
 [^1]: compelling /kəmˈpelɪŋ/ - that makes you think it is true
 
-[^2]: to rebut /rɪˈbʌt/ - to say or prove that a statement or criticism is
-false
+[^2]: to rebut /rɪˈbʌt/ - to say or prove that a statement or criticism is false
 
-[^3]: to vary /ˈveəri/ - to make changes to something to make it slightly
-different
+[^3]: to vary /ˈveəri/ - to make changes to something to make it slightly different
 
-[^4]: repetition /ˌrepəˈtɪʃn/ - the fact of doing or saying the same thing many
-times
+[^4]: repetition /ˌrepəˈtɪʃn/ - the fact of doing or saying the same thing many times
 
