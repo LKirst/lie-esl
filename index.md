@@ -11,7 +11,7 @@ notice mistakes or sections which need improvements, please let me know.
 ## Correction symbols
 
 You need to know what my correction symbols mean in order to make use of my
-corrections: [Click here](LK_CorrectionSymbols.md) for a list of the symbols I
+corrections: [Click here](_pages/LK_CorrectionSymbols.md) for a list of the symbols I
 use.
 
 ## Resources

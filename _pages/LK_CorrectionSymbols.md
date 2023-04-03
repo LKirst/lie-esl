@@ -1,12 +1,7 @@
 ---
 title: 'Correction Symbols'
-author: L. Liebermann
-date: '2023-02-12'
+toc: true
 ---
-
-# Correction Symbols
-
-Author: L. Liebermann
 
 ## Formatting
 
