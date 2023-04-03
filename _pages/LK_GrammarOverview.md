@@ -1,12 +1,7 @@
 ---
-title: 'Grammar topics by year'
-author: L. Liebermann
+title: 'Grammar topics by year (Gym, erste FS)'
+toc: true
 ---
-
-# Grammar topics by year (Gymnasium, erste Fremdsprache)
-
-1. Placeholder for TOC
-{:toc}
 
 ## Websites with practice exercises
 
