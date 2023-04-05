@@ -1,6 +1,7 @@
 ---
 title: 'Correction Symbols'
 toc: true
+last_modified_at: 2023-04-05
 ---
 
 ## Formatting
@@ -52,7 +53,8 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | German | You used a German word. If you do not know the English word, please use a paraphrase! | _My cat \*jagt mice._ |
 | ( ) or ~~crossed out~~ | Remove these words | _If I were you, ~~then~~ I would study more. I think your reaction was (very) extreme._ |
 | ?? | Difficult to read or understand | |
-| + | You used an interesting word or an interesting grammatical structure. | |
+| voc+ | You used an interesting word. | |
+| gr+ | You used an interesting grammatical structure. | |
 
 ## Content
 
@@ -63,4 +65,5 @@ If I underline a mistake with more than one line, I want to draw your attention 
 | cont | A phrase / sentence / section is meaningless, incorrect on the content-level or has no relation to the question / task. | |
 | logic | Logic on a language or content level | _I love marshmallows \*but I ate one anyway._ |
 | weak | Sentence or paragraph is vague or general or states the obvious. | |
+| cont+ | You made an interesting point, explained something well or showed creativity or cultural studies knowledge | |
 
