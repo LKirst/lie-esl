@@ -11,7 +11,7 @@ each paragraph deals with one idea?
 
 - First paragraph:
 
-  - Does the first paragraph contain your brief overall opinion of the film
+  - Does the first paragraph contain your brief[^brief] overall opinion of the film
     (in two to three sentences)?
 
   - Does the first paragraph give some basic facts like the names of the
@@ -79,6 +79,8 @@ words you don't know. You don't use German.
 
   - Examples: _for example, for instance, such as, another example of XXX is
     YYY, ...._
+
+[^brief]: A brief piece of writing does not contain too many words or details.
 
 [^release]: If something appeals to you, you find it attractive or interesting.
 
