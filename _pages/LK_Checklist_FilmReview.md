@@ -4,7 +4,8 @@ title: 'Film Review'
 
 ## Content
 
-- Does the review have a heading?
+- Does the review have a **descriptive** heading? (_Review_ on its own is not a
+descriptive heading.)
 
 - Does your review have a clear structure? Is it divided into paragraphs, where
 each paragraph deals with one idea?
