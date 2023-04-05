@@ -1,8 +1,22 @@
 markdown: kramdown
+
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
 include:
   ["_pages"]
 relative_links:
@@ -40,3 +54,4 @@ defaults:
       author_profile: true
       read_time: true
       related: true
+
