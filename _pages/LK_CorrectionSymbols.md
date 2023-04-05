@@ -9,13 +9,25 @@ last_modified_at: 2023-04-05
 For handwritten texts please follow these formatting guidelines:
 
 - Please **underline your headings**.
-- Please **skip every second line** (=_überspringe jede zweite Zeile_) within a paragraph and **skip three lines between paragraphs** to make it easier for yourself to insert corrections and to give me enough space for feedback!
-- Please write an **estimate (_Schätzung_) of your word count** underneath every text. You can estimate your word count by counting the number of words in one line and the number of lines in your text. Then, you multiply the two numbers.
-- Please **do not use end-of-line hyphenation** (= _Bitte trenne keine Silben am Zeilenende_). There is no harm in some empty space at the end of a line and you avoid getting end-of-line hyphenation wrong.
+
+- Please **skip every second line** (=_überspringe jede zweite Zeile_) within a
+paragraph and **skip three lines between paragraphs** to make it easier for
+yourself to insert corrections and to give me enough space for feedback!
+
+- Please write an **estimate (_Schätzung_) of your word count** underneath
+every text. You can estimate your word count by counting the number of words in
+one line and the number of lines in your text. Then, you multiply the two
+numbers.
+
+- Please **do not use end-of-line hyphenation** (= _Bitte trenne keine Silben
+am Zeilenende_). There is no harm in some empty space at the end of a line and
+you avoid getting end-of-line hyphenation wrong.
 
 ## Language
 
-If I underline a mistake with more than one line, I want to draw your attention to it. Please revise the underlying grammar rule or the cultural studies topic that you have misunderstood **thoroughly** (= _gründlich_).
+If I underline a mistake with more than one line, I want to draw your attention
+to it. Please revise the underlying grammar rule or the cultural studies topic
+that you have misunderstood **thoroughly** (= _gründlich_).
 
 ### Verb forms
 
