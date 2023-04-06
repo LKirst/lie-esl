@@ -1,4 +1,7 @@
+# markdown processor
 markdown: kramdown
+kramdown:
+  toc_levels: 2..3
 
 plugins:
   - jekyll-relative-links
@@ -19,11 +22,10 @@ whitelist:
 
 include:
   ["_pages"]
+
 relative_links:
   enabled: true
   collections: true
-kramdown:
-  toc_levels: 2..3
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
