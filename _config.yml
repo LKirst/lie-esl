@@ -57,8 +57,3 @@ defaults:
       read_time: true
       related: true
 
-# settings for the masthead
-main:
-  - title: "Posts"
-    url: /categories/
-

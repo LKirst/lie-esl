@@ -1,0 +1,5 @@
+# masthead
+main:
+  - title: "Posts"
+    url: /categories/
+
