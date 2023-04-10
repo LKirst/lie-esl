@@ -29,6 +29,10 @@ relative_links:
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+# JS
+head_scripts:
+  - /assets/js/exercise-custom-head-script.js
+
 # hide the RSS Feed link in the footer
 atom_feed:
   hide: true

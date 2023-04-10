@@ -1,0 +1,17 @@
+.gap-s {
+    width:10ch;
+    border:solid;
+    text-align:center;
+}
+
+.gap-m {
+    width:20ch;
+    border:solid;
+    text-align:center;
+}
+
+.gap-l {
+    width:25ch;
+    border:solid;
+    text-align:center;
+}
