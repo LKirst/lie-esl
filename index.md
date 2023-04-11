@@ -11,8 +11,8 @@ notice mistakes or sections which need improvements, please let me know.
 ## Correction symbols
 
 You need to know what my correction symbols mean in order to make use of my
-corrections: [Click here](_pages/LK_CorrectionSymbols.md) for a list of the symbols I
-use.
+corrections: [Click here](_pages/LK_CorrectionSymbols.md) for a list of the
+symbols I use.
 
 ## Resources
 
@@ -39,7 +39,8 @@ Skills
 
 Grammar
 
-- [Grammar topics by year (Gymnasium, erste Fremdsprache)](_pages/LK_GrammarOverview.md)
+- [Grammar topics by year (Gymnasium, erste
+Fremdsprache)](_pages/LK_GrammarOverview.md)
 
 ## Checklists
 

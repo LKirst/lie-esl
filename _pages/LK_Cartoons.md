@@ -26,7 +26,8 @@ cartoons:
 
   - <https://www.cagle.com/cartoons/>
 
-  - <https://tribunecontentagency.com/catalog/> (you have to scroll down to the section "Editorial Cartoons" and click on a cartoonist to see the cartoons)
+  - <https://tribunecontentagency.com/catalog/> (you have to scroll down to the
+  section "Editorial Cartoons" and click on a cartoonist to see the cartoons)
 
 ## Stylistic devices
 
@@ -51,7 +52,8 @@ peace).
 - analogy: The cartoon compares two unlike things (situations, people, actions,
 ...) to highlight a resemblance of a particular aspect.
 
-- juxtaposition: The cartoon places two or more things side by side to point out their differences.
+- juxtaposition: The cartoon places two or more things side by side to point
+out their differences.
 
 ## Useful phrases
 
@@ -115,7 +117,8 @@ The cartoon ...
 
 The cartoonist ...
 
-- makes fun of / pokes fun at / criticizes / satirizes / ridicules / attacks ...
+- makes fun of / pokes fun at / criticizes / satirizes / ridicules / attacks
+...
 
 - highlights / illustrates the problem of ...
 

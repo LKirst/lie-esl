@@ -19,13 +19,13 @@ for you.
 
 - Westermann:
 
-    - First readers: <https://www.westermann.de/reihe/FIRSTREAD/First-Readers-Lektueren-for-beginners>
+  - First readers: <https://www.westermann.de/reihe/FIRSTREAD/First-Readers-Lektueren-for-beginners>
 
-    - Diesterweg readers: <https://www.westermann.de/reihe/DIEREADERSI/Diesterweg-Readers-Sekundarstufe-I>
+  - Diesterweg readers: <https://www.westermann.de/reihe/DIEREADERSI/Diesterweg-Readers-Sekundarstufe-I>
 
-    - Neusprachliche Bibliothek: <https://www.westermann.de/suche?feinsatzzweck%5B0%5D=Lekt%C3%BCren+%2F+Interpretationen&ffach%5B0%5D=Englisch&fmarke%5B0%5D=Neusprachliche+Bibliothek&h=einsatzzweck.fach.marke&o=relevanz>
+  - Neusprachliche Bibliothek: <https://www.westermann.de/suche?feinsatzzweck%5B0%5D=Lekt%C3%BCren+%2F+Interpretationen&ffach%5B0%5D=Englisch&fmarke%5B0%5D=Neusprachliche+Bibliothek&h=einsatzzweck.fach.marke&o=relevanz>
 
-- Hueber: <https://shop.hueber.de/de/reihen-und-lehrwerke/macmillan-readers.html> 
+- Hueber: <https://shop.hueber.de/de/reihen-und-lehrwerke/macmillan-readers.html>
 
 ## Online exercises
 

@@ -81,7 +81,7 @@ Tenses
 
 ## Year 7
 
-- Adverbs: comparative, superlative; word order 
+- Adverbs: comparative, superlative; word order
 
 - Adjectives and adverbs: difference; adjectives after state verbs
 
