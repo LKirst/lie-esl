@@ -39,8 +39,7 @@ Skills
 
 Grammar
 
-- [Grammar topics by year (Gymnasium, erste
-Fremdsprache)](_pages/LK_GrammarOverview.md)
+- [Grammar topics by year](_pages/LK_GrammarOverview.md)
 
 ## Checklists
 
