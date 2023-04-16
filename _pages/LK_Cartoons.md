@@ -16,7 +16,11 @@ them to point you in the right direction.
 Here are three links to online newspapers without a paywall which publish
 cartoons:
 
-- Mainly British politics: <https://www.theguardian.com/cartoons/archive>
+- Mainly British politics:
+
+  - <https://www.theguardian.com/cartoons/archive>
+
+  - <https://www.telegraph.co.uk/opinion/cartoons/>
 
 - Mainly American politics:
 
@@ -28,6 +32,8 @@ cartoons:
 
   - <https://tribunecontentagency.com/catalog/> (you have to scroll down to the
   section "Editorial Cartoons" and click on a cartoonist to see the cartoons)
+
+  - <https://www.cartoonstock.com/collections/editorial-cartoons>
 
 ## Stylistic devices
 
