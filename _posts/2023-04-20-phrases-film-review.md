@@ -27,7 +27,7 @@ category: vocabulary
 
 ## Plot
 
-- The script's writing may be exellent / poor.
+- The script's writing may be excellent / poor.
 
 - The story may be exciting / boring / thrilling / amusing / (un)realistic / exaggerated / unbelievable / confusing / entertaining / full of tension.
 
