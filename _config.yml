@@ -1,3 +1,6 @@
+# Site Settings
+name: &name "Lukas Liebermann" # &name is a YAML anchor which can be *referenced later
+
 # markdown processor
 markdown: kramdown
 kramdown:
@@ -37,9 +40,9 @@ head_scripts:
 atom_feed:
   hide: true
 
-# settings for the author side-bar
+# Site Author
 author:
-  name: "Lukas Liebermann"
+  name: *name # *name is a YAML reference pointing to the &anchor earlier
   location: "Bavaria, Germany"
 
 # set the default layout
