@@ -70,4 +70,3 @@ your views with explanations and examples?
 [^1]: to vary /ˈveəri/ - to make changes to something to make it slightly different
 
 [^2]: repetition /ˌrepəˈtɪʃn/ - the fact of doing or saying the same thing many times
-

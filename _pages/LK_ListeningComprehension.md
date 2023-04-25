@@ -17,7 +17,7 @@ All levels:
 
 - <https://elllo.org/english/levels/index.htm>
 
-  -  Elllo has recordings of both native speakers (= _Sprecher, die Englisch
+  - Elllo has recordings of both native speakers (= _Sprecher, die Englisch
   als Erstsprache sprechen_) and and speakers who speak English as a second
   language (= _Sprecher, die Englisch als Zweitsprache sprechen_).
 
@@ -38,4 +38,3 @@ A1 - A2:
 B1 - B2:
 
 - <https://www.bbc.co.uk/learningenglish/english/features/6-minute-english>
-

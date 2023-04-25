@@ -9,7 +9,8 @@ Here are some websites where you can search for practice exercieses:
 
 - Basic Grammar: <https://www.bbc.co.uk/learningenglish/english/basic-grammar>
 
-- Intermediate Grammar: <https://www.bbc.com/learningenglish/english/intermediate-grammar>
+- Intermediate Grammar:
+<https://www.bbc.com/learningenglish/english/intermediate-grammar>
 
 - <https://www.englisch-hilfen.de/>
 
@@ -33,11 +34,13 @@ Here are some websites where you can search for practice exercieses:
 
 - Possessive determiners
 
-- Indefinite pronouns and determiners: some, any; somebody, nobody; someone, anyone, no one; something, anything, nothing
+- Indefinite pronouns and determiners: some, any; somebody, nobody; someone,
+anyone, no one; something, anything, nothing
 
 - Word order: place before time; S-V-O in the declarative sentence
 
-- Subordinate clauses (esp. temporal and causal); that-clause as the direct object
+- Subordinate clauses (esp. temporal and causal); that-clause as the direct
+object
 
 - Negation
 
@@ -77,7 +80,8 @@ Tenses
 
 - Future: going-to future, will future, timetable future
 
-- Conditional type I sentences: present tense - will future / can / imperative; present tense - present tense
+- Conditional type I sentences: present tense - will future / can / imperative;
+present tense - present tense
 
 ## Year 7
 
@@ -109,7 +113,11 @@ Tenses
 
 - Adverbs: word order, use
 
-- Gerund as subject; infinitive and gerund after certain prepositions, expressions and verbs (including where there is a change in meaning), esp. in order to, it's X (for sb.) to, the first to do sth., capapble of doing sth., look forward to doing sth., it's no use doing sth. avoid doing sth., stop doing / to do sth., remember doing / to do sth.
+- Gerund as subject; infinitive and gerund after certain prepositions,
+expressions and verbs (including where there is a change in meaning), esp. in
+order to, it's X (for sb.) to, the first to do sth., capapble of doing sth.,
+look forward to doing sth., it's no use doing sth. avoid doing sth., stop doing
+/ to do sth., remember doing / to do sth.
 
 - Verbs with two objects
 
@@ -117,7 +125,8 @@ Tenses
 
 ## Year 9
 
-- Relative clauses: non-defining; relative clauses which refer to a whole clause
+- Relative clauses: non-defining; relative clauses which refer to a whole
+clause
 
 - Modal verbs: would, used to
 

@@ -71,4 +71,3 @@ paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 paragraphs**.
 
 [^1]: estimate: Schätzung
-

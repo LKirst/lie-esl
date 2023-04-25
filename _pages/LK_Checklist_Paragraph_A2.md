@@ -15,4 +15,3 @@ clearly link to the topic sentence and not introduce new a new idea.
 the main idea of the paragraph or makes a link to the next paragraph.
 
 After every paragraph, skip two more lines!
-

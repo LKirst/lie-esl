@@ -52,4 +52,3 @@ home, I took a XXX _(<-> long)_ shower.
 - ADV. + VERB: I XXX advise you to pay attention in your English lessons.
 
 - VERB + PREP.: Do you agree XXX her?
-

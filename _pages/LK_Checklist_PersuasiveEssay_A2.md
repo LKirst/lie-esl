@@ -22,7 +22,7 @@ example:
 - You use a wide range of **vocabulary** correctly and you **paraphrase**
 words you don't know. You don't use German.
 
-  - **strong adjectives and adverbs**
+  - strong **adjectives and adverbs**
 
   - comparative and superlative adjectives and adverbs
 
@@ -82,4 +82,3 @@ paragraphs**.
 [^1]: anecdote: a short interesting or funny story about a real person or event
 
 [^2]: estimate: Schätzung
-

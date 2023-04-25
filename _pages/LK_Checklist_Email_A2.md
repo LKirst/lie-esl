@@ -53,4 +53,3 @@ you were given?
 - Did you **sign** your email?
 
 [^1]: recipient = the person you are writing to
-

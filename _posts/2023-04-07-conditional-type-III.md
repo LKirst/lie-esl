@@ -92,4 +92,3 @@ Soon to come.
 The exercises have been made using a free script from [Random Idea
 English](http://random-idea-english.blogspot.com).
 {: .small}
-

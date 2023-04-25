@@ -30,4 +30,3 @@ homework
 You only have to bring the vocabulary book if Mr Liebermann asks you to:
 
 - 1 vocabulary book with **three columns** (= *drei Spalten*)
-

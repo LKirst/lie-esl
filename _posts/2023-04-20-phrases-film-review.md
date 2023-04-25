@@ -6,7 +6,8 @@ category: vocabulary
 
 ## Basic facts and summary
 
-- \[NAME OF THE FILM\] is a comedy / thriller / romance / horror / science fiction / western / historical / fantasy / adventure film.
+- \[NAME OF THE FILM\] is a comedy / thriller / romance / horror / science
+fiction / western / historical / fantasy / adventure film.
 
 - It was written / directed by XXX.
 
@@ -23,13 +24,15 @@ category: vocabulary
 
 - Music may contribute to the mood / atmosphere of a scene.
 
-- The soundtrack may set the scene / build tension / show a character's emotions / connect scenes.
+- The soundtrack may set the scene / build tension / show a character's
+emotions / connect scenes.
 
 ## Plot
 
 - The script's writing may be excellent / poor.
 
-- The story may be exciting / boring / thrilling / amusing / (un)realistic / exaggerated / unbelievable / confusing / entertaining / full of tension.
+- The story may be exciting / boring / thrilling / amusing / (un)realistic /
+exaggerated / unbelievable / confusing / entertaining / full of tension.
 
 - The story may have unexpected plot twists / unexpected moments.
 
@@ -39,11 +42,10 @@ category: vocabulary
 
 - This film will change the way you thinkg about XXX.
 
-- I highly / strongly / definitely recommend this film. 
+- I highly / strongly / definitely recommend this film.
 
 - I (certainly) wouldn't recommend this film (because ...)
 
 ## Sources
 
 <https://griterasmusplus.eu/wp-content/uploads/2020/06/Phrases-for-writing-a-film-review.pdf>
-

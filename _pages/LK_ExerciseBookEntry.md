@@ -21,4 +21,3 @@ paragraphs.
 
 - After your exercise book entry before the next entry, please skip at least
 three lines.
-

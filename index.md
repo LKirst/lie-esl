@@ -66,4 +66,3 @@ Level B1 (year 9 - 10):
 - [Comment](_pages/LK_Checklist_Comment_B1.md)
 
 - [Cartoon Analysis](_pages/LK_Checklist_CartoonAnalysis_B1.md)
-

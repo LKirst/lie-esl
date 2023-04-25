@@ -78,4 +78,3 @@ that you have misunderstood **thoroughly** (= _gründlich_).
 | logic | Logic on a language or content level | _I love marshmallows \*but I ate one anyway._ |
 | weak | Sentence or paragraph is vague or general or states the obvious. | |
 | cont+ | You made an interesting point, explained something well or showed creativity or cultural studies knowledge | |
-

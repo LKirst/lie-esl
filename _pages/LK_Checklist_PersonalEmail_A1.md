@@ -65,4 +65,3 @@ Are you ...?_) and some **friendly words?**
   - Common mistake: ~~Greetings,~~ is NOT an English closing.
 
 - Did you **sign** (= _unterschrieben_) your email?
-

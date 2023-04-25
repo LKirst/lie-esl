@@ -5,7 +5,7 @@ title: Levels of Proficiency
 Look at the following tables to find out what your English level should be.
 
 If you are trying to fill knowledge gaps, you may want to look for material
-below the level you you should have according to the table (=_ wenn du
+below the level you you should have according to the table (=_wenn du
 versuchst Wissenslücken zu füllen, kann es Sinn machen, dass du auf einem
 Niveau unter dem Niveau ansetzt, dass du laut der Tabelle unten haben
 solltes_).
@@ -31,4 +31,3 @@ solltes_).
 | 12 _erhöht_        |                                  | Level 5-6 |
 | 13 _grundlegend_   |                                  | Level 5-6 |
 | 13 _erhöht_        |                                  | Level 6   |
-

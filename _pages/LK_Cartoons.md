@@ -144,4 +144,3 @@ cartoons you see.
 3. Pick a cartoon which you think you understand based on your research and
 write a cartoon analysis. Make sure to explain **how** the cartoonist makes a
 point (see the stylistic devices listed above).
-

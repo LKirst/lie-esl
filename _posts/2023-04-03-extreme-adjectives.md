@@ -32,7 +32,7 @@ Here are some examples:
 
 ## When to use extreme adjectives
 
-Strong adjectives can make your writing more interesting. 
+Strong adjectives can make your writing more interesting.
 
 Use them when you have to persuade a reader in your writing assignment, when an
 assignment calls for your opinion, or when you want to show a strong feeling in
@@ -54,4 +54,3 @@ took just a very small sip and I instantly knew he was lying._
 - <https://dictionaryblog.cambridge.org/2020/03/04/scorching-furious-and-delighted-extreme-adjectives-in-english-part-1/>
 
 - <https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/adjectives-gradable-non-gradable>
-
