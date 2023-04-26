@@ -84,10 +84,8 @@ you don't know. You don't use German.
 
 [^release]: If something appeals to you, you find it attractive or interesting.
 
-[^giveaway]: If you give away information you tell somebody about information
-you should keep a secret.
+[^giveaway]: If you give away information you tell somebody about information you should keep a secret.
 
-[^recommendation]: A suggestion that something is especially suitable for a
-particular situation or person.
+[^recommendation]: A suggestion that something is especially suitable for a particular situation or person.
 
 [^appealto]: If something appeals to you, you like it or want it.
