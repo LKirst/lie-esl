@@ -47,6 +47,8 @@ Level A1 (year 5 - 6):
 
 - [Personal Email](_pages/LK_Checklist_PersonalEmail_A1.md)
 
+- [Narrative Writing](_pages/LK_Checklist_NarrativeWriting_A1.md)
+
 Level A2 (year 7 - 8):
 
 - [Writing a paragraph](_pages/LK_Checklist_Paragraph_A2.md)
