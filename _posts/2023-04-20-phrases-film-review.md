@@ -40,7 +40,7 @@ exaggerated / unbelievable / confusing / entertaining / full of tension.
 
 - If you like XXX, this is the film for you.
 
-- This film will change the way you thinkg about XXX.
+- This film will change the way you think about XXX.
 
 - I highly / strongly / definitely recommend this film.
 
