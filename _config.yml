@@ -1,5 +1,6 @@
 # Site Settings
 name: &name "Lukas Liebermann" # &name is a YAML anchor which can be *referenced later
+title: "LIE-ESL"
 
 # markdown processor
 markdown: kramdown
