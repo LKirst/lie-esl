@@ -2,11 +2,18 @@
 name: &name "Lukas Liebermann" # &name is a YAML anchor which can be *referenced later
 title: "LIE-ESL"
 
-# markdown processor
+# Markdown Processing
 markdown: kramdown
 kramdown:
   toc_levels: 2..3
 
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
