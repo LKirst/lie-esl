@@ -23,12 +23,14 @@ dir nicht alle Möglichkeiten der Übersetzung vorgeschlagen.*
 
 - <https://dictionary.cambridge.org/dictionary/learner-english/>
 
-- <https://www.macmillandictionary.com/dictionary/>
-
 - <https://www.oxfordlearnersdictionaries.com/>: _Gibt es das gleiche Wort in
 unterschiedlichen Wortarten (z.B. to cook und a cook - kochen und der Koch),
 musst du, je nachdem welche Wortart zuerst angezeigt wird, unter "Other
 results" die richtige Wortart auswählen._
+
+- <https://www.macmillandictionary.com/dictionary/>: As the Oxford Learner's
+Dictionary, the Macmillan Dictionary separates different word forms. So _to
+cook_ will be a different entry from _a cook_.
 
 - <https://www.ldoceonline.com/dictionary/>: The Longman Dictionary of
 Contemporary English has the advantage that it shows you **collocations** for
