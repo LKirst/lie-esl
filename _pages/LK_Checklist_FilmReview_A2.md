@@ -1,5 +1,6 @@
 ---
 title: 'Film Review'
+last_modified_at: 2023-05-09 
 ---
 
 ## Content
@@ -8,32 +9,32 @@ title: 'Film Review'
 descriptive heading.)
 
 - Does your review have a clear structure? Is it divided into paragraphs, where
-each paragraph deals with one idea?
+each **paragraph** deals with one idea?
 
 - First paragraph:
 
   - Does the first paragraph contain your brief[^brief] overall opinion of the
-  film (in two to three sentences)?
+    film (in two to three sentences)?
 
-  - Does the first paragraph give some basic facts like the names of the actors
-  and the year of release[^release]?
+  - Does the first paragraph give some basic facts like the title of the film
+    (underlined), the names of the actors and the year of release[^release]?
 
 - Second paragraph:
 
-  - Do you provide a summary of the plot.
+  - Do you provide a **short** summary of the plot.
 
   - Do you provide enough detail so your reader knows what the film is about
-  but not give away[^giveaway] the ending.
+    but not give away[^giveaway] the ending.
 
-- Third paragraph (the most important part of your review!):
+- Third paragraph (the **most important part** of your review!):
 
-  - Do you give your opinion and **explain** it?
+  - Do you **give your opinion** and **explain** it?
 
-  - Do you refer to concrete evidence or examples from the film?
+  - Do you give concrete examples from the film when you present your opinion?
 
-  - Do you consider different aspects (i.e. two or more), such as acting, the
-  music and sound effects, special effects, how well the dialogue is written,
-  how entertaining the plot is ...
+  - Do you consider **different aspects** (i.e. two or more), such as acting,
+    the music and sound effects, special effects, how well the dialogue is
+    written, how entertaining the plot is ...
 
 - Final paragraph:
 
