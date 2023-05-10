@@ -1,6 +1,6 @@
 ---
 title: 'Film Review'
-last_modified_at: 2023-05-10 
+last_modified_at: 2023-05-09 
 ---
 
 ## Content
@@ -83,7 +83,7 @@ you don't know. You don't use German.
 
 [^brief]: A brief piece of writing does not contain too many words or details.
 
-[^release]: When a company releases a film, it becomes available so that people can buy it or see it.
+[^release]: If something appeals to you, you find it attractive or interesting.
 
 [^giveaway]: If you give away information you tell somebody about information you should keep a secret.
 
