@@ -119,11 +119,9 @@ Tenses
 
 - Conditional sentence type III
 
-  - Only type III:
-  <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix.htm>
+  - Only type III: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix.htm>
 
-  - Only type III:
-  <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix2.htm>
+  - Only type III: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix2.htm>
 
   - Type I - III: <https://www.englisch-hilfen.de/uebungen/if_saetze/mix3.htm>
 
