@@ -83,6 +83,10 @@ Tenses
 - Conditional type I sentences: present tense - will future / can / imperative;
 present tense - present tense
 
+  - <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_1_mix.htm>
+
+  - <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_1_mix2.htm>
+
 ## Year 7
 
 - Adverbs: comparative, superlative; word order
@@ -105,7 +109,29 @@ Tenses
 
 - Conditional / conditional perfect
 
-- Conditional sentence type II and III; mixed conditionals
+- Conditional sentence type II
+
+  - Only type II: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_2_mix.htm>
+
+  - Only type II: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_2_mix2.htm>
+
+  - Type I and II: <https://www.englisch-hilfen.de/uebungen/if_saetze/mix2.htm>
+
+- Conditional sentence type III
+
+  - Only type III:
+  <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix.htm>
+
+  - Only type III:
+  <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix2.htm>
+
+  - Type I - III: <https://www.englisch-hilfen.de/uebungen/if_saetze/mix3.htm>
+
+  - Type I - III: <https://www.englisch-hilfen.de/uebungen/if_saetze/mix4.htm>
+
+  - Type I - III: <https://www.perfect-english-grammar.com/first-second-third-conditionals-exercise.html>
+
+- Mixed conditionals
 
 ## Year 8
 
