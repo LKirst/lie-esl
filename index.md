@@ -37,34 +37,10 @@ Skills
 
 - [Reading comprehension](_pages/LK_ReadingComprehension.md)
 
+- [Text production]()
+
 Grammar
 
 - [Grammar topics by year](_pages/LK_GrammarOverview.md)
 
-## Checklists
 
-Level A1 (year 5 - 6):
-
-- [Personal Email](_pages/LK_Checklist_PersonalEmail_A1.md)
-
-- [Narrative Writing](_pages/LK_Checklist_NarrativeWriting_A1.md)
-
-Level A2 (year 7 - 8):
-
-- [Writing a paragraph](_pages/LK_Checklist_Paragraph_A2.md)
-
-- [Diary Entry](_pages/LK_Checklist_DiaryEntry_A2.md)
-
-- [Informative Essay](_pages/LK_Checklist_InformativeEssay_A2.md)
-
-- [Persuasive Essay](_pages/LK_Checklist_PersuasiveEssay_A2.md)
-
-- [Email](_pages/LK_Checklist_Email_A2.md)
-
-- [Film Review](_pages/LK_Checklist_FilmReview_A2.md)
-
-Level B1 (year 9 - 10):
-
-- [Comment](_pages/LK_Checklist_Comment_B1.md)
-
-- [Cartoon Analysis](_pages/LK_Checklist_CartoonAnalysis_B1.md)
