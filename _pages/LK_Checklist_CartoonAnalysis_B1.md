@@ -3,7 +3,7 @@ title: 'Cartoon Analysis'
 date: '2023-02-22'
 ---
 
-## Language (60%)
+## Language
 
 - You use the **first person** and **different verbs and phrases to express
 your opinion** in the **last paragraph** where you comment on the cartoon. In
@@ -32,39 +32,39 @@ meanwhile, \...*).
 =\> they have; won't =\> will not; isn't =\> is not*) and you use **no slang or
 colloquialisms**.
 
-## Content (40%)
+## Content
 
 - Introductory sentence:
 
-  - Did you name the source (e.g. the newspaper in which the cartoon was
+  - Did you name the **source** (e.g. the newspaper in which the cartoon was
     published) and when it was published?
 
-  - Did you name the cartoonist and the title of the cartoon?
+  - Did you name the **cartoonist** and the **title** of the cartoon?
 
-  - Did you state in one sentence what the cartoon is about; what its main
-    topic is?
+  - Did you state in one sentence what the cartoon is about; what its **main
+    topic** is?
 
 - Description:
 
-  - Did you describe the cartoon systematically in its significant details
+  - Did you describe the cartoon systematically in its **significant details**
     (the details you think are relevant for your interpretation later)?
 
-  - Did you describe what people, events or trends the cartoon refers to?
+  - Did you describe what **people, events or trends** the cartoon refers to?
 
-  - Did you describe labels, speech and thought bubbles, and captions.
+  - Did you describe **labels, speech and thought bubbles, and captions**?
 
 - Analysis and interpretation:
 
-  - Did you explain the issue to which the cartoon refers? If the cartoon
+  - Did you **explain** the issue to which the cartoon refers? If the cartoon
     depicts well-known people, did you explain their role in connection to the
     topic of the cartoon?
 
-  - Did you explain what stylistic devices (e.g. symbols, comparisons, irony
-    or exaggeration) the cartoon uses and to what effect the cartoon uses them?
+  - Did you explain what **stylistic devices** (e.g. symbols, comparisons, irony
+    or exaggeration) the cartoon uses and **to what effect** the cartoon uses them?
 
-  - Did you explain what opinion or message the cartoonist presents?
+  - Did you explain what **opinion or message** the cartoonist presents?
 
-- Comment: Did you state your opinions on the topic in question an support
+- Comment: Did you state **your opinions** on the topic in question an support
 your views with explanations and examples?
 
 [^1]: to vary /ˈveəri/ - to make changes to something to make it slightly different
