@@ -1,11 +1,11 @@
 ---
 title: Narrative writing (A1)
-last_modified_at: 2023-04-26
+last_modified_at: 2023-05-19
 ---
 
 ## Content and structure
 
-You start a new paragraph for every new idea and for every change of time or
+You start a new **paragraph** for every new idea and for every change of time or
 place.
 
 Your story has the following parts:
@@ -24,10 +24,10 @@ characters**.
 the tension**[^tension]. We call the point of the highest tension in a
 plot[^plot] the climax.
 
-5. Falling action: After the climax, life in your story gets back to normal (or
+5. Falling action: After the climax, life in your story gets **back to normal** (or
 to a new normal).
 
-6. Resolution: You bring your story to an end and show how things have changed.
+6. Resolution: You **bring your story to an end** and show how things have changed.
 
 ## Language
 
@@ -55,9 +55,9 @@ to a new normal).
 - You use a wide range of **vocabulary** correctly and you **paraphrase** words
 you don't know. You don't use German.
 
-  - different adjectives
+  - You use different adjectives.
 
-  - interesting verbs and nouns
+  - You use interesting verbs and nouns.
 
 [^catchattention]: to catch sb's attention = make someone interested
 
