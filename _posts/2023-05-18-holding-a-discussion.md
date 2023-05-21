@@ -7,14 +7,14 @@ category: vocabulary
 
 In class or in exams you will often be asked to discuss an issue. One of your
 goals in this context is to keep the discussion going and to respond to what
-others say. For example, the **examination grid for B1 oral exams in Bavaria** has
-one criterion called "Gesprächsfähigkeit/Strategie" with the following
+others say. For example, the **examination grid for B1 oral exams in Bavaria**
+has one criterion called "Gesprächsfähigkeit/Strategie" with the following
 description:
 
-- flexible and spontaneous interaction with interlocutors[^interlocutor], if necessary using
-appropriate strategies skilfully (= _flexible, auch spontane Interaktion mit
-den Gesprächspartnern, ggf. unter geschickter Verwendung **geeigneter
-Strategien**_)
+- flexible and spontaneous interaction with interlocutors[^interlocutor], if
+necessary using appropriate strategies skilfully (= _flexible, auch spontane
+Interaktion mit den Gesprächspartnern, ggf. unter geschickter Verwendung
+**geeigneter Strategien**_)
 
 - successful reponse to the interlocutors' contributions (= _**gelungenes
 Eingehen** auf die Beiträge der Gesprächspartner_)
@@ -32,8 +32,8 @@ argument more interesting."
 
 If you want you can openly tell the others about your strategy. For example,
 you could say: "Let me play the devil's advocate. People who disagree with what
-you just said might reply to you XYZ. What would your response be?" This may help you
-if the opinion you will present is unpopular.
+you just said might reply to you XYZ. What would your response be?" This may
+help you if the opinion you will present is unpopular.
 
 ## Asking questions
 
@@ -60,14 +60,14 @@ Or you may want to ask them about solutions to a problem:
 
 - What examples can you think of XYZ?
 
-## Reacting to other points 
+## Reacting to other points
 
 In a true discussion (as opposed to a series of monologues), people react to
 each other. To be able to react to the other people in the discussion you have
 to first listen, and then, when you speak, try to reference what others have
 said.
 
-The simplest way of doing so is to agree or disagree: 
+The simplest way of doing so is to agree or disagree:
 
 - I (completely) agree (with you on XYZ).
 
@@ -83,8 +83,8 @@ The simplest way of doing so is to agree or disagree:
 
 - I'm afraid I disagree ...
 
-You can then continue to support or refute[^refute] the other person's argument while
-(repeatedly) referring back to what they said.
+You can then continue to support or refute[^refute] the other person's argument
+while (repeatedly) referring back to what they said.
 
 If you only want to partially agree or disagree, you can use one of the
 following phrases.
@@ -111,9 +111,9 @@ argument: For every argument you make, try to give concrete and detailed
 examples.
 
 I decided to include it in this post because concrete examples give other
-people in the discussion more opportunities to react. They can ask you questions
-about your example, add a different example of their own to support your
-argument, or use your example to refute your argument.
+people in the discussion more opportunities to react. They can ask you
+questions about your example, add a different example of their own to support
+your argument, or use your example to refute your argument.
 
 ## Exercise
 

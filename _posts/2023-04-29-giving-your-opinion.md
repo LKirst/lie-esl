@@ -47,7 +47,7 @@ A great way to practice expressing opinion are _Would you rather_ questions.
 Ask a friend to discuss one of the following questions with you and try to use
 three to five new phrases you have learned:
 
-- Would your rather be the smartest or the fastest person in the world? 
+- Would your rather be the smartest or the fastest person in the world?
 
 - Would you rather live somewhere where it is only summer all year long or live
   where it is constantly winter?
