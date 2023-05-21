@@ -48,7 +48,23 @@ object
 
 - Interrogative pronouns
 
-- Auxiliary verbs: be, have (got), do; can, must, needn't, mustn't
+- Auxiliary verbs (Part I): be, have (got), do
+
+- Auxiliary verbs (Part II): can
+
+  - _can_ or _can't_:
+  <https://www.englisch-hilfen.de/en/exercises/modals/can2.htm>
+
+  - _can_ and _can't_ in questions:
+  <https://www.englisch-hilfen.de/en/exercises/questions/can3.htm>
+
+  - _can_ in sentences, questions and negations:
+  <https://www.englisch-hilfen.de/en/exercises/modals/can4.htm>
+
+- Auxiliary verbs (Part III): must, needn't, mustn't
+
+  - _mustn't_ or _needn't_:
+  <https://www.englisch-hilfen.de/en/exercises/modals/must_not_need_not.htm>
 
 Tenses
 
