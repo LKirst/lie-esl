@@ -4,7 +4,7 @@ permalink: /checklists/
 author_profile: true
 ---
 
-## Level A1 (year 5 - 6)
+## Level A1
 
 - [Personal Email]({{ site.baseurl }}{% link
   _pages/LK_Checklist_PersonalEmail_A1.md %})
@@ -12,7 +12,7 @@ author_profile: true
 - [Narrative Writing]({{ site.baseurl }}{% link
   _pages/LK_Checklist_NarrativeWriting_A1.md %})
 
-## Level A2 (year 7 - 8):
+## Level A2
 
 - [Writing a paragraph]({{ site.baseurl }}{% link
   _pages/LK_Checklist_Paragraph_A2.md %})
@@ -31,7 +31,7 @@ author_profile: true
 - [Film Review]({{ site.baseurl }}{% link _pages/LK_Checklist_FilmReview_A2.md
   %})
 
-## Level B1 (year 9 - 10):
+## Level B1
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
 
