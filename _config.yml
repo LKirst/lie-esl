@@ -32,7 +32,11 @@ whitelist:
   - jekyll-include-cache
 
 include:
-  ["_pages"]
+  - _pages
+exclude:
+  - "*.sh"
+  - Gemfile
+  - README
 
 relative_links:
   enabled: true
