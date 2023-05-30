@@ -56,6 +56,11 @@ atom_feed:
 author:
   name: *name # *name is a YAML reference pointing to the &anchor earlier
   location: "Bavaria, Germany"
+  bio: "I am an ESL teacher and educational psychologist."
+  links:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://fosstodon.org/@lliebermann"
 
 # set the default layout
 defaults:
