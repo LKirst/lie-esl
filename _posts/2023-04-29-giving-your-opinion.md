@@ -3,6 +3,7 @@ title: 'Giving your opinion'
 date: 2023-04-20
 last_modified_at: 2023-05-18
 category: vocabulary
+toc: true
 ---
 
 ## Common phrases for presenting your opinion

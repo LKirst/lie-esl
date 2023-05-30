@@ -3,6 +3,7 @@ title: 'Holding a discussion'
 date: 2023-05-18
 last_modified_at: 2023-05-18
 category: vocabulary
+toc: true
 ---
 
 In class or in exams you will often be asked to discuss an issue. One of your
