@@ -37,6 +37,6 @@ Skills
 
 - [Reading comprehension](_pages/LK_ReadingComprehension.md)
 
-- [Text production](_pages/Checklists.md)
+- [Text production checklists](_pages/Checklists.md)
 
 - [Grammar](_pages/LK_GrammarOverview.md)
