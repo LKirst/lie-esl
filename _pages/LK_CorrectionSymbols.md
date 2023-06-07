@@ -2,6 +2,7 @@
 title: 'Correction Symbols'
 toc: true
 last_modified_at: 2023-04-05
+permalink: /correction-symbols/
 ---
 
 ## Formatting

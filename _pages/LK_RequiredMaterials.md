@@ -1,5 +1,6 @@
 ---
 title: Required Materials for Mr Liebermann's English lessons
+permalink: /materials/
 ---
 
 Please bring all of the following materials to every English lesson.

@@ -1,6 +1,7 @@
 ---
 title: 'Online Dictionaries'
 toc: true
+permalink: /dictionaries/
 ---
 
 There is a compact bilingual dictionary (= *einsprachiges Wörterbuch*) at the

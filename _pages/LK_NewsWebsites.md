@@ -1,5 +1,6 @@
 ---
 title: 'News websites without a paywall'
+permalink: /news/
 ---
 
 There are many great free online news websites. Here are some suggestions:

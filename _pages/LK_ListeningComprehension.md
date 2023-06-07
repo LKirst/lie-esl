@@ -1,5 +1,6 @@
 ---
 title: Listening comprehension
+permalink: /listening/
 ---
 
 [Click here]({{ site.baseurl }}{% link _pages/LK_ProficiencyLevels.md %}) to

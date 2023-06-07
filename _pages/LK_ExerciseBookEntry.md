@@ -1,6 +1,7 @@
 ---
 title: Structure of an exercise book entry
 last_modified_at: 2023-06-07
+permalink: /exercise-book-entry/
 ---
 
 Every exercise book entry should follow the same pattern:

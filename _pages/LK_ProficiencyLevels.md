@@ -1,5 +1,6 @@
 ---
 title: Levels of Proficiency
+permalink: /proficiency/
 ---
 
 Look at the following tables to find out what your English level should be.

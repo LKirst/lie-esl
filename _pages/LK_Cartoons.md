@@ -1,6 +1,7 @@
 ---
 title: 'Political cartoons'
 toc: true
+permalink: /political-cartoons/
 ---
 
 ## Free resources

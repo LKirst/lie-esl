@@ -1,6 +1,7 @@
 ---
 title: 'Grammar topics by year (Gym, erste FS)'
 toc: true
+permalink: /grammar/
 ---
 
 ## Websites with practice exercises

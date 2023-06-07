@@ -1,5 +1,6 @@
 ---
 title: Reading comprehension
+permalink: /reading/
 ---
 
 If you are looking for a book to read in your spare time, you should look for
