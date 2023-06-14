@@ -13,21 +13,21 @@ Your story has the following parts:
 1. Your story has a **title** which catches the reader's
 attention[^catchattention].
 
-2. Exposition: You you tell your reader what they need to know so they can
+2. **Exposition**: You you tell your reader what they need to know so they can
 understand your story. Who are your **main characters**? Where and when does
 your story happen (= the **setting**)?
 
-3. Conflict: Something happens in your story which creates **a problem for your
+3. **Conflict**: Something happens in your story which creates **a problem for your
 characters**.
 
-4. Rising action and climax: Some events follow, which **increase[^increase]
+4. **Rising action and climax**: Some events follow, which **increase[^increase]
 the tension**[^tension]. We call the point of the highest tension in a
 plot[^plot] the climax.
 
-5. Falling action: After the climax, life in your story gets **back to normal** (or
+5. **Falling action**: After the climax, life in your story gets **back to normal** (or
 to a new normal).
 
-6. Resolution: You **bring your story to an end** and show how things have changed.
+6. **Resolution**: You **bring your story to an end** and show how things have changed.
 
 ## Language
 
