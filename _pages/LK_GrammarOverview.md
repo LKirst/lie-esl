@@ -29,7 +29,19 @@ Here are some websites where you can search for practice exercieses:
 
 - Personal pronouns
 
-- Much, many, a log of, lots of
+- Quantifiers: _Much_, _many_, _a lot of_, _lots of_
+
+  - _much_, _many_:
+
+    - [Questions](https://www.englisch-hilfen.de/uebungen/knifflige_woerter/much_many4.htm)
+
+    - [Negations](https://www.englisch-hilfen.de/en/exercises/confusing_words/much_many5.htm)
+
+  - [_much_, _many_, _a lot of_, _a
+    few_](<https://test-english.com/grammar-points/a1/much-many-lot-little-few/>)
+
+  - [_a few_, _a
+    little_](https://www.englisch-hilfen.de/uebungen/knifflige_woerter/few_little3.htm)
 
 - Demonstrative pronouns
 
@@ -37,6 +49,14 @@ Here are some websites where you can search for practice exercieses:
 
 - Indefinite pronouns and determiners: some, any; somebody, nobody; someone,
 anyone, no one; something, anything, nothing
+
+  - _some_ or _any_: [exercise
+    1](https://www.englisch-hilfen.de/en/exercises/confusing_words/some_any.htm),
+    [exercise
+    2](https://www.englisch-hilfen.de/en/exercises/confusing_words/some_any2.htm)
+
+  - [Something, someone, somwhere, anything, anyone,
+    anywhere](https://www.englisch-hilfen.de/en/exercises/confusing_words/something_anything.htm)
 
 - Word order: place before time; S-V-O in the declarative sentence
 
@@ -53,25 +73,33 @@ object
 
 - Auxiliary verbs (Part II): can
 
-  - _can_ or _can't_:
-  <https://www.englisch-hilfen.de/en/exercises/modals/can2.htm>
+  - [_can_ or
+    _can't_](https://www.englisch-hilfen.de/en/exercises/modals/can2.htm)
 
-  - _can_ and _can't_ in questions:
-  <https://www.englisch-hilfen.de/en/exercises/questions/can3.htm>
+  - [_can_ and _can't_ in questions](https://www.englisch-hilfen.de/en/exercises/questions/can3.htm)
 
-  - _can_ in sentences, questions and negations:
-  <https://www.englisch-hilfen.de/en/exercises/modals/can4.htm>
+  - [_can_ in sentences, questions and negations](https://www.englisch-hilfen.de/en/exercises/modals/can4.htm)
 
 - Auxiliary verbs (Part III): must, needn't, mustn't
 
-  - _mustn't_ or _needn't_:
-  <https://www.englisch-hilfen.de/en/exercises/modals/must_not_need_not.htm>
+  - [_mustn't_ or _needn't_](https://www.englisch-hilfen.de/en/exercises/modals/must_not_need_not.htm)
 
 Tenses
 
 - Present tense simple / present tense progressive
 
 - Simple past
+
+  - [Regular forms](https://www.englisch-hilfen.de/uebungen/zeiten/simple_past_ed.htm)
+
+  - [Regular forms exercise 2](https://www.englisch-hilfen.de/uebungen/zeiten/simple_past_ed2.htm)
+
+  - [Regular forms of verbs ending in -y](https://www.englisch-hilfen.de/uebungen/zeiten/verben_auf_y_im_simple_past.htm)
+
+  - [Regular
+  verbs (cloze)](https://www.englisch-hilfen.de/uebungen/zeiten/simple_past_aussage.htm)
+
+  - [Regular and irregular verbs (cloze)](https://www.englisch-hilfen.de/uebungen/zeiten/simple_past_aussage2.htm)
 
 ## Year 6
 
