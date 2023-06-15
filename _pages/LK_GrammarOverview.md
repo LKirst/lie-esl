@@ -99,6 +99,9 @@ Tenses
   - [Regular
   verbs (cloze)](https://www.englisch-hilfen.de/uebungen/zeiten/simple_past_aussage.htm)
 
+  - [_was_ or
+  _were_](https://www.englisch-hilfen.de/uebungen/zeiten/was_were.htm)
+
   - [Regular and irregular verbs (cloze)](https://www.englisch-hilfen.de/uebungen/zeiten/simple_past_aussage2.htm)
 
 ## Year 6
