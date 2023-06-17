@@ -1,5 +1,5 @@
 ---
-title: 'Grammar topics by year (Gym, erste FS)'
+title: 'Grammar'
 toc: true
 permalink: /grammar/
 ---
@@ -22,7 +22,16 @@ grammar](https://www.bbc.com/learningenglish/english/intermediate-grammar)
 
 - [Learn English - British Council: Grammar](https://learnenglish.britishcouncil.org/grammar)
 
-## Year 5
+## Overview of grammar topics by year
+
+The following progression of grammar topics follows the Bavarian Lehrplan PLUS
+for Gymnasium (_erste Fremdsprache_):
+
+<div style="margin-left: 2em; text-indent:-2em;">
+  ISB. <i>LehrplanPLUS - Gymnasium—Fachlehrpläne</i>. Retrieved 17 June 2023, from <a href="https://www.lehrplanplus.bayern.de/schulart/gymnasium/inhalt/fachlehrplaene">https://www.lehrplanplus.bayern.de/schulart/gymnasium/inhalt/fachlehrplaene</a>
+</div>
+
+### Year 5
 
 - Nouns in the singular and (regular/irregular) plural
 
@@ -105,7 +114,7 @@ Tenses
 
   - [Regular and irregular verbs (cloze)](https://www.englisch-hilfen.de/uebungen/zeiten/simple_past_aussage2.htm)
 
-## Year 6
+### Year 6
 
 - Indefinite determiner and pronouns
 
@@ -136,7 +145,7 @@ present tense - present tense
 
   - [exercise 2](https://www.englisch-hilfen.de/uebungen/if_saetze/typ_1_mix2.htm)
 
-## Year 7
+### Year 7
 
 - Adverbs: comparative, superlative; word order
 
@@ -181,7 +190,7 @@ Tenses
 
 - Mixed conditionals
 
-## Year 8
+### Year 8
 
 - Nouns:articles; nominalized adjective; agreement
 
@@ -197,7 +206,7 @@ look forward to doing sth., it's no use doing sth. avoid doing sth., stop doing
 
 - Passive in different tenses
 
-## Year 9
+### Year 9
 
 - Relative clauses: non-defining; relative clauses which refer to a whole
 clause
@@ -215,7 +224,3 @@ clause
 Tenses
 
 - Time sequence: overview of tense and aspect; overview of tenses express
-
-## Source
-
-<https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/>
