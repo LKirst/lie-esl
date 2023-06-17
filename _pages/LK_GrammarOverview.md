@@ -8,18 +8,19 @@ permalink: /grammar/
 
 Here are some websites where you can search for practice exercieses:
 
-- Basic Grammar: <https://www.bbc.co.uk/learningenglish/english/basic-grammar>
+- [BBC Learning English - basic
+grammar](https://www.bbc.co.uk/learningenglish/english/basic-grammar)
 
-- Intermediate Grammar:
-<https://www.bbc.com/learningenglish/english/intermediate-grammar>
+- [BBC Learning English - intermediate
+grammar](https://www.bbc.com/learningenglish/english/intermediate-grammar)
 
-- <https://www.englisch-hilfen.de/>
+- [Englisch Hilfen](https://www.englisch-hilfen.de/)
 
-- <https://www.perfect-english-grammar.com/grammar-exercises.html>
+- [Perfect English Grammar](https://www.perfect-english-grammar.com/grammar-exercises.html)
 
-- <https://learnenglishteens.britishcouncil.org/grammar>
+- [Learn English Teens - British Council: Grammr](https://learnenglishteens.britishcouncil.org/grammar)
 
-- <https://learnenglish.britishcouncil.org/grammar>
+- [Learn English - British Council: Grammar](https://learnenglish.britishcouncil.org/grammar)
 
 ## Year 5
 
@@ -131,9 +132,9 @@ Tenses
 - Conditional type I sentences: present tense - will future / can / imperative;
 present tense - present tense
 
-  - <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_1_mix.htm>
+  - [exercise 1](https://www.englisch-hilfen.de/uebungen/if_saetze/typ_1_mix.htm)
 
-  - <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_1_mix2.htm>
+  - [exercise 2](https://www.englisch-hilfen.de/uebungen/if_saetze/typ_1_mix2.htm)
 
 ## Year 7
 
@@ -159,23 +160,24 @@ Tenses
 
 - Conditional sentence type II
 
-  - Only type II: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_2_mix.htm>
+  - Only type II: [exercise
+  1](https://www.englisch-hilfen.de/uebungen/if_saetze/typ_2_mix.htm),
+  [exercise
+  2](https://www.englisch-hilfen.de/uebungen/if_saetze/typ_2_mix2.htm)
 
-  - Only type II: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_2_mix2.htm>
-
-  - Type I and II: <https://www.englisch-hilfen.de/uebungen/if_saetze/mix2.htm>
+  - [Type I and II](https://www.englisch-hilfen.de/uebungen/if_saetze/mix2.htm)
 
 - Conditional sentence type III
 
-  - Only type III: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix.htm>
+  - Only type III: [exercise
+  1](https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix.htm),
+  [exercise
+  2](https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix2.htm)
 
-  - Only type III: <https://www.englisch-hilfen.de/uebungen/if_saetze/typ_3_mix2.htm>
-
-  - Type I - III: <https://www.englisch-hilfen.de/uebungen/if_saetze/mix3.htm>
-
-  - Type I - III: <https://www.englisch-hilfen.de/uebungen/if_saetze/mix4.htm>
-
-  - Type I - III: <https://www.perfect-english-grammar.com/first-second-third-conditionals-exercise.html>
+  - Type I - III: [exercise
+  1](https://www.englisch-hilfen.de/uebungen/if_saetze/mix3.htm), [exercise
+  2](https://www.englisch-hilfen.de/uebungen/if_saetze/mix4.htm), [exercise
+  3](https://www.perfect-english-grammar.com/first-second-third-conditionals-exercise.html)
 
 - Mixed conditionals
 
