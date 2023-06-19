@@ -188,7 +188,12 @@ Tenses
   2](https://www.englisch-hilfen.de/uebungen/if_saetze/mix4.htm), [exercise
   3](https://www.perfect-english-grammar.com/first-second-third-conditionals-exercise.html)
 
-- Mixed conditionals
+- Mixed conditionals: [exercise
+1](https://elt.oup.com/student/solutions/upperint/grammar/grammar_09_022e?cc=de&selLanguage=en),
+[exercise 2 (go to _Grammar test 2_ at the end of the
+page)](https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/conditionals-third-mixed),
+[exercise
+3](https://www.ecenglish.com/learnenglish/lessons/third-conditionals-and-mixed-conditionals)
 
 ### Year 8
 
