@@ -14,31 +14,36 @@ will not give you examples how to use a word in context.
 verwende __nicht__ die Textübersetzung, sondern das Wörterbuch, sonst werden
 dir nicht alle Möglichkeiten der Übersetzung vorgeschlagen.*
 
-- <https://en.pons.com/translate>
+- [https://en.pons.com/translate](PONS)
 
-- <https://www.collinsdictionary.com/de/worterbuch/englisch-deutsch>
+- [https://www.collinsdictionary.com/de/worterbuch/englisch-deutsch](Collins
+Deutsches Wörterbuch)
 
 ## Monolingual online dictionaries
 
-- <https://www.collinsdictionary.com/de/worterbuch/englisch>
+- [https://www.collinsdictionary.com/dictionary/english](Collins English
+Dictionary)
 
-- <https://dictionary.cambridge.org/dictionary/learner-english/>
+- [https://dictionary.cambridge.org/dictionary/learner-english/](Cambridge
+Dictionary)
 
-- <https://www.oxfordlearnersdictionaries.com/>: _Gibt es das gleiche Wort in
-unterschiedlichen Wortarten (z.B. to cook und a cook - kochen und der Koch),
-musst du, je nachdem welche Wortart zuerst angezeigt wird, unter "Other
-results" die richtige Wortart auswählen._
+- [https://www.oxfordlearnersdictionaries.com/](Oxford Learner's Dictionary):
+_Gibt es das gleiche Wort in unterschiedlichen Wortarten (z.B. to cook und a
+cook - kochen und der Koch), musst du, je nachdem welche Wortart zuerst
+angezeigt wird, unter "Other results" die richtige Wortart auswählen._
 
-- <https://www.macmillandictionary.com/dictionary/>: As the Oxford Learner's
-Dictionary, the Macmillan Dictionary separates different word forms. So _to
-cook_ will be a different entry from _a cook_.
+- [https://www.macmillandictionary.com/dictionary/](Macmillan English
+Dictionary): As the Oxford Learner's Dictionary, the Macmillan Dictionary
+separates different word forms. So _to cook_ will be a different entry from _a
+cook_.
 
-- <https://www.ldoceonline.com/dictionary/>: The Longman Dictionary of
-Contemporary English has the advantage that it shows you **collocations** for
-many words you look up (see for an explanation of _collocation_).
+- [https://www.ldoceonline.com/dictionary/](Longman Dictionary): The Longman
+Dictionary of Contemporary English has the advantage that it shows you
+**collocations** for many words you look up (see for an explanation of
+_collocation_).
 
-- <https://www.merriam-webster.com/dictionary/>: This dictionary focuses on
-**American English**.
+- [https://www.merriam-webster.com/dictionary/](Merriam-Webster): This
+dictionary focuses on **American English**.
 
 ## Collocation Dictionaries
 
