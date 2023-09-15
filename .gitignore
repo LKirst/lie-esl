@@ -4,6 +4,9 @@ test.md
 # PDFs
 *.pdf
 
+# venv environment
+.lie-esl
+
 ### Jekyll
 _site/
 .sass-cache/
