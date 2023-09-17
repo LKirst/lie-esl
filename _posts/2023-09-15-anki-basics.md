@@ -1,5 +1,5 @@
 ---
-title: 'Anki: The basics'
+title: 'Anki - Part 1: The basics'
 date: 2023-09-15
 category: vocabulary
 ---
