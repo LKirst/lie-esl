@@ -31,7 +31,7 @@ author_profile: true
 - [Film Review]({{ site.baseurl }}{% link _pages/LK_Checklist_FilmReview_A2.md
   %})
 
-## Level B1
+## Level B1-B2
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
 

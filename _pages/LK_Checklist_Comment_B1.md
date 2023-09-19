@@ -36,7 +36,7 @@ paragraphs**.
 
 ## Grading Criteria
 
-### Content and Structure (40%)
+### Content and Structure
 
 Content
 
@@ -68,7 +68,7 @@ For the structure of a paragraph, see also the [checklist for writing a
 paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 %}).
 
-### Language (60%)
+### Language
 
 - You use the **first person** and **different verbs and phrases to express
 your opinion**.
