@@ -1,5 +1,5 @@
 ---
-title: 'Comment'
+title: 'Discussion Essay'
 toc: true
 ---
 
@@ -12,11 +12,11 @@ plan it ...
 
 - briefly explain the issue
 
-- lead up to a thesis statement, which sums up your opinion about the
-subject on which you were asked
+- lead up to a thesis statement, which presents both sides of the issue
 
-Does your plan include notes for the body of your text? For every paragraph,
-you should have notes for ...
+Does your plan include notes for the body of your text? You should have **at
+least two body paragraphs (one for each side of the issue)**. For every
+paragraph, you should have notes for ...
 
 - the main argument of the paragraph
 
@@ -40,13 +40,20 @@ paragraphs**.
 
 Content
 
-- Your comment has a descriptive **heading.**
+- Your essay has a descriptive **heading.**
 
-- You present **your personal opinion with compelling[^1] arguments** and
-answer the question you were asked / **fulfil the task you were given**.
+- You present **two perspectives on an issue with compelling[^1] arguments**
+  and answer the question you were asked / **fulfil the task you were
+  given**.The simplest structure of a discussion essay with two body
+  paragraphs is: 
 
-- You support your opinion with **detailed explanations** and **evidence**.
-Depending on your task, you rebut[^2] reasons against your argument.
+  Body paragraph 1: the view you don't agree with 
+
+  Body paragraph 2: the view you agree with
+
+- You support both perspectives with **detailed explanations** and
+  **evidence**. Depending on your task, you rebut[^2] reasons for
+  the perspective you do not agree with.
 
 Structure
 
@@ -56,12 +63,12 @@ should be **approximately 10-20% of your word count**.
 
 - You divide your text into **paragraphs**, and for every body paragraph,
 the **topic sentence** (first sentence of the paragraph) presents **one
-claim**, related to the thesis statement.
+claim**, related to the thesis statement. 
 
 - The **supporting sentences** of every body paragraph support the topic
 sentences and do not introduce new ideas.
 
-- The comment ends in a **concluding paragraph**, which sums up the main
+- The essay ends in a **concluding paragraph**, which sums up the main
 points and restates the thesis statement in a new way.
 
 For the structure of a paragraph, see also the [checklist for writing a
@@ -71,12 +78,12 @@ paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 ### Language
 
 - You use the **first person** and **different verbs and phrases to express
-your opinion**.
+  your opinion**.
 
-  **Talk to your teacher** about where in your comment you should present
+  **Talk to your teacher** about where in your essay you should present
   your personal opinion using first-person pronouns. They may expect you to write
-  about your personal opinion **throughout** your comment **or** to only present
-  it **in the conclusion** of your comment.
+  about your personal opinion **throughout** your essay **or** to only present
+  it **in the conclusion** of your essay.
   {: .notice--warning} 
 
 - You use a wide range of **sentence structures correctly**, e.g.
@@ -88,7 +95,7 @@ vary[^3] formulation to avoid frequent repetition[^4] and you find
 mistakes.
 
 - You use the **correct tenses**. Generally, the present tense is used in
-comments unless you talk about events in the past.
+essays unless you talk about events in the past.
 
 - You connect ideas with **different linking / transition words**,
 including different subordinating conjunctions (e.g. *although, wherever, so

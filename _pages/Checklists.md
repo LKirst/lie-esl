@@ -35,5 +35,8 @@ author_profile: true
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
 
+- [Discussion essay]({{ site.baseurl }}{% link
+  _pages/LK_Checklist_DiscussionEssay_B1.md %})
+
 - [Cartoon Analysis]({{ site.baseurl }}{% link
   _pages/LK_Checklist_CartoonAnalysis_B1.md %})
