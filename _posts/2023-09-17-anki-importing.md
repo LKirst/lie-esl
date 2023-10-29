@@ -1,7 +1,7 @@
 ---
 title: 'Anki - Part 2: Importing and browsing'
 date: 2023-09-17
-category: vocabulary
+category: tools
 ---
 
 ## Importing notes

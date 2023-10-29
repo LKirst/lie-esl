@@ -1,7 +1,7 @@
 ---
 title: 'Anki - Part 1: The basics'
 date: 2023-09-15
-category: vocabulary
+category: tools
 ---
 
 Anki is a powerful flash cards app. While it may seem intimidating at first,

@@ -1,7 +1,7 @@
 ---
 title: 'Anki - Part 3: Number of cards to study per day'
 date: 2023-09-17
-category: vocabulary
+category: tools
 ---
 
 Anki lets you chose the number of cards you want to learn every day. Here is
