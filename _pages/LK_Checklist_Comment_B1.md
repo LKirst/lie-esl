@@ -5,15 +5,7 @@ toc: true
 
 ## The writing plan
 
-Does your plan include notes for the introduction? Does the introduction as you
-plan it ...
-
-- catch the readers attention
-
-- briefly explain the issue
-
-- lead up to a thesis statement, which sums up your opinion about the
-subject on which you were asked
+Does your plan include notes for the introduction? 
 
 Does your plan include notes for the body of your text? For every paragraph,
 you should have notes for ...
@@ -41,6 +33,15 @@ paragraphs**.
 Content
 
 - Your comment has a descriptive **heading.**
+
+- Does your introduction ...
+
+  catch the reader's attention
+
+  briefly explain the issue
+
+  lead up to a thesis statement, which sums up your opinion about the
+  subject on which you were asked
 
 - You present **your personal opinion with compelling[^1] arguments** and
 answer the question you were asked / **fulfil the task you were given**.

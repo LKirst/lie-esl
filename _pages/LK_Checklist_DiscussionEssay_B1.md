@@ -5,14 +5,7 @@ toc: true
 
 ## The writing plan
 
-Does your plan include notes for the introduction? Does the introduction as you
-plan it ...
-
-- catch the readers attention
-
-- briefly explain the issue
-
-- lead up to a thesis statement, which presents both sides of the issue
+Does your plan include notes for the introduction?
 
 Does your plan include notes for the body of your text? You should have **at
 least two body paragraphs (one for each side of the issue)**. For every
@@ -41,6 +34,14 @@ paragraphs**.
 Content
 
 - Your essay has a descriptive **heading.**
+
+- Does your introduction ...
+
+  catch the reader's attention
+
+  briefly explain the issue
+
+  lead up to a thesis statement, which presents both sides of the issue
 
 - You present **two perspectives on an issue with compelling[^1] arguments**
   and answer the question you were asked / **fulfil the task you were
@@ -76,15 +77,6 @@ paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 %}).
 
 ### Language
-
-- You use the **first person** and **different verbs and phrases to express
-  your opinion**.
-
-  **Talk to your teacher** about where in your essay you should present
-  your personal opinion using first-person pronouns. They may expect you to write
-  about your personal opinion **throughout** your essay **or** to only present
-  it **in the conclusion** of your essay.
-  {: .notice--warning} 
 
 - You use a wide range of **sentence structures correctly**, e.g.
 conditional sentences, relative clauses, and subordinate clauses.
