@@ -4,6 +4,8 @@ permalink: /checklists/
 author_profile: true
 ---
 
+## All levels
+
 ## Level A1
 
 - [Personal Email]({{ site.baseurl }}{% link
@@ -13,9 +15,6 @@ author_profile: true
   _pages/LK_Checklist_NarrativeWriting_A1.md %})
 
 ## Level A2
-
-- [Writing a paragraph]({{ site.baseurl }}{% link
-  _pages/LK_Checklist_Paragraph_A2.md %})
 
 - [Diary Entry]({{ site.baseurl }}{% link _pages/LK_Checklist_DiaryEntry_A2.md
   %})
@@ -31,11 +30,17 @@ author_profile: true
 - [Film Review]({{ site.baseurl }}{% link _pages/LK_Checklist_FilmReview_A2.md
   %})
 
+- [Writing a Body Paragraph]({{ site.baseurl }}{% link
+  _pages/LK_Checklist_Paragraph_A2.md %})
+
 ## Level B1-B2
+
+- [Writing a Thesis Statement]({{ site.baseurl }}{% link
+  _pages/LK_Checklist_ThesisStatement_B1.md %})
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
 
-- [Discussion essay]({{ site.baseurl }}{% link
+- [Discussion Essay]({{ site.baseurl }}{% link
   _pages/LK_Checklist_DiscussionEssay_B1.md %})
 
 - [Cartoon Analysis]({{ site.baseurl }}{% link
