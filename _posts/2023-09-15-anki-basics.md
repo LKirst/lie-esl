@@ -77,7 +77,7 @@ front*.
 
 3. Select the word "example" in the *Text* field and press the button with the
    *\[...\]* on it in the row of buttons above the *Text* field. The first line
-   of your *Text* should now read "Let me give you an {{c1::example}}."
+   of your *Text* should now read "Let me give you an \{\{c1::example\}\}."
 
 4. In the field *Tags* enter a tag which will help you filter your notes later.
    For example, you could enter the name of the textbook chapter. For now,
