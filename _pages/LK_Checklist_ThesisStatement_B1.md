@@ -27,7 +27,7 @@ not present two separate ideas in one thesis statement.
  
    - Subtopic 2 (topic sentence of the second body paragraph): *The incidence of
      diseases related to a diet high in sugar could be reduced if the government
-     introce warning labels on sugary drinks.*
+     introced warning labels on sugary drinks.*
  
 2. Example: *The platform and and financial resources which sports superstars
    have amplify their impact as role models, both positively and negatively.*
