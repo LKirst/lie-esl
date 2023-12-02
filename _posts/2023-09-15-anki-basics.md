@@ -44,7 +44,7 @@ which is not developed by the author of Anki but which you can synchronize with
 AnkiWeb.
 
 For the **iPhone and iPad**, there is an app by the author or Anki:
-[AnkiMobile](https://play.google.com/store/apps/details?id=com.ichi2.anki).
+[AnkiMobile](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387).
 It costs \$24.99. As I said above, you can always use AnkiWebb in the browser
 instead.
 
