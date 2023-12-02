@@ -9,9 +9,9 @@ you will learn to love it if you give it a chance.
 
 ## How to install the desktop/laptop app
 
-Anki is free on Windows and Mac: <https://apps.ankiweb.net/>
+Anki is free on Windows and Mac:
 
-- Download the Qt6 version of Anki from https://apps.ankiweb.net.
+- Download the Qt6 version of Anki from <https://apps.ankiweb.net>.
 
 - On Windows: Double-click on the installer which you downloaded. Once Anki is
   installed, double-click on the new star icon on your desktop to start Anki.
@@ -21,8 +21,8 @@ Anki is free on Windows and Mac: <https://apps.ankiweb.net/>
 
 ## Synchronizing with AnkiWeb
 
-If you want to study your vocabulary in your browser or synchronize your
-vocabulary with a second device, create a free account for AnkiWeb:
+If you want to study your cards in your browser or synchronize your
+cards with a second device, create a free account for AnkiWeb:
 <https://ankiweb.net/account/signup> 
 
 To synchronize the Anki app with AnkiWeb, click the *sync* button in the app.
@@ -45,7 +45,8 @@ AnkiWeb.
 
 For the **iPhone and iPad**, there is an app by the author or Anki:
 [AnkiMobile](https://play.google.com/store/apps/details?id=com.ichi2.anki).
-It costs \$24.99.
+It costs \$24.99. As I said above, you can always use AnkiWebb in the browser
+instead.
 
 ## Create your first flash cards
 
