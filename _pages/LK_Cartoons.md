@@ -36,6 +36,9 @@ cartoons:
 
   - <https://www.cartoonstock.com/collections/editorial-cartoons>
 
+- Both British and American politics:
+  <https://mastodonapp.uk/@PoliticalCartoon>
+
 ## Stylistic devices
 
 When you interpret a cartoon you should identify the stylistic devices the
