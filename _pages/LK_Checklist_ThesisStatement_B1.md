@@ -13,9 +13,11 @@ paragraph starts with a topic sentence. The thesis statement is for your entire
 text what your topic sentence is for one body paragraph. A thesis statement
 presents the main idea of your essay.
 
-A strong thesis statement states **one main idea**. This idea can have
-subtopics which you then develop in different body paragraphs but you should
-not present two separate ideas in one thesis statement.
+A strong thesis statement states **one main idea of your text**. This idea can have
+**subtopics** which you then develop in different body paragraphs, but you should
+not present two unrelated ideas in one thesis statement.
+
+Here are two examples:
 
 1. Example: *The German government should take measures to prevent the adverse
    effects of sugary drinks on public health by introducing a sugar tax and
@@ -40,6 +42,12 @@ not present two separate ideas in one thesis statement.
      superstars abuse their priviliged position, they set a very visible bad
      example for their fans.* 
 
-A strong thesis statement should not be **too general**. If a thesis statement
+A strong thesis statement **should not be too general**. If a thesis statement
 is too broad, you can not sufficiently support it in the main body and your
 reader cannot tell from your thesis statement what your essay will be about.
+
+## Further reading (with useful examples)
+
+- <https://wts.indiana.edu/writing-guides/how-to-write-a-thesis-statement.html>
+
+- <https://www.grammarly.com/blog/thesis-statement/>
