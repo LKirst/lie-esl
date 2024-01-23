@@ -1,8 +1,11 @@
 ---
-title: 'Writing a Thesis Statement'
+title: 'Stating the topic of an essay'
 ---
 
-If you attend a Fachoberschule or a Berufsoberschule in Bavaria, please skip to the end of this post.
+## Thesis statement
+
+If you attend a Fachoberschule or a Berufsoberschule in Bavaria, please skip to
+the end of this post.
 {: .notice--warning}
 
 An introduction should make your reader interested in the topic of the text and
@@ -20,21 +23,21 @@ A strong thesis statement states **one main idea of your text**. This idea can h
 **subtopics** which you then develop in different body paragraphs, but you should
 not present two unrelated ideas in one thesis statement.
 
-Here are two examples:
+Here are some examples:
 
 1. Example: *The German government should take measures to prevent the adverse
    effects of sugary drinks on public health by introducing a sugar tax and
    warning labels.* 
 
    - Subtopic 1 (topic sentence of the first body paragraph): *The government
-     should proactively address the health concerns related to the the
+     should proactively address the health concerns related to the
      consumption of sugary drinks by introducing a sugar tax*.
  
    - Subtopic 2 (topic sentence of the second body paragraph): *The incidence of
      diseases related to a diet high in sugar could be reduced if the government
-     introced warning labels on sugary drinks.*
+     introduced warning labels on sugary drinks.*
  
-2. Example: *The platform and and financial resources which sports superstars
+2. Example: *The platform and financial resources which sports superstars
    have amplify their impact as role models, both positively and negatively.*
 
    - Subtopic 1 (topic sentence of the first body paragraph): *If athletes
@@ -42,22 +45,68 @@ Here are two examples:
      back to their community, they can serve as positive role models.*
   
    - Subtopic 2 (topic sentence of the second body paragraph): *If sports
-     superstars abuse their priviliged position, they set a very visible bad
+     superstars abuse their privileged position, they set a very visible bad
      example for their fans.* 
+
+3. Example: *While some argue that the juvenile justice system should prioritize
+   punishment as a deterrent, others contend that sentences focussed on
+   rehabilitation are more effective at reducing juvenile delinquency.*
+
+   - Subtopic 1 (topic sentence of the first body paragraph): *Punishment can
+     deter young people from committing crimes by showing them that criminal
+     behaviour has negative consequences for them.*
+
+   - Subtopic 2 (topic sentence of the second body paragraph): *While punishment
+     may make crime less attractive, rehabilitation is more effective because
+     it teaches young offenders alternative behaviour.*
 
 A strong thesis statement **should not be too general**. If a thesis statement
 is too broad, you can not sufficiently support it in the main body and your
 reader cannot tell from your thesis statement what your essay will be about.
 
-## Fachoberschule / Berufsoberschule
-
-If you attend a Fachoberschule or a Berufsoberschule, you
-should not end your introduction in a thesis statement, but
-rather end your introduction with a **paraphrase of the essay
-question**.
-
-## Further reading (with useful examples)
+Further reading (with useful examples):
 
 - <https://wts.indiana.edu/writing-guides/how-to-write-a-thesis-statement.html>
 
 - <https://www.grammarly.com/blog/thesis-statement/>
+
+## Fachoberschule / Berufsoberschule
+
+If you attend a Fachoberschule or a Berufsoberschule, you should **not** end
+your introduction with a thesis statement, but rather with a **paraphrase of
+the topic of your essay as a direct or indirect question**.
+
+Here are some phrases you can use to introduce the question:
+
+- ..., which **raises the question** as to whether ...
+
+- ...., which **warrants the question** ...
+
+- The contrast between ... and ... **prompts us to question** ...
+
+- **Faced with** ..., we are **compelled to ask ourselves** ...
+
+Examples: 
+
+- Task: Write a comment on whether sugary drinks should have warning labels
+  and higher taxes.
+
+  End of the introduction: The adverse health effects of a diet high
+  in sugar warrant the question of whether Germany should put a tax on sugary
+  drinks and require warning labels on such beverages.
+
+- Task: Discuss whether sports superstars are suitable role models for young
+  people.
+
+  End of the introduction: Prominent examples of athletes falling short of the
+  high standards we set for role models prompt us to question to what extent
+  children and adolescents should look to athletes for guidance and
+  inspiration.
+
+- Task: Discuss whether the juvenile justice system should focus on
+  rehabilitation over punishment.
+
+  End of the introduction: There is a high rate of young offenders in the U.S.
+  who are rearrested within three years of their release from incarceration.
+  This raises the question of whether it may be more important to rehabilitate
+  juvenile delinquents than to punish them.
