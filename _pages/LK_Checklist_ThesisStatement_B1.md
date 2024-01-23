@@ -91,22 +91,22 @@ Examples:
 - Task: Write a comment on whether sugary drinks should have warning labels
   and higher taxes.
 
-  End of the introduction: The adverse health effects of a diet high
+  End of the introduction: *The adverse health effects of a diet high
   in sugar warrant the question of whether Germany should put a tax on sugary
-  drinks and require warning labels on such beverages.
+  drinks and require warning labels on such beverages.*
 
 - Task: Discuss whether sports superstars are suitable role models for young
   people.
 
-  End of the introduction: Prominent examples of athletes falling short of the
+  End of the introduction: *Prominent examples of athletes falling short of the
   high standards we set for role models prompt us to question to what extent
   children and adolescents should look to athletes for guidance and
-  inspiration.
+  inspiration.*
 
 - Task: Discuss whether the juvenile justice system should focus on
   rehabilitation over punishment.
 
-  End of the introduction: There is a high rate of young offenders in the U.S.
+  End of the introduction: *There is a high rate of young offenders in the U.S.
   who are rearrested within three years of their release from incarceration.
   This raises the question of whether it may be more important to rehabilitate
-  juvenile delinquents than to punish them.
+  juvenile delinquents than to punish them.*
