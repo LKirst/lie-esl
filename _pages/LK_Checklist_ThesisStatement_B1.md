@@ -2,6 +2,9 @@
 title: 'Writing a Thesis Statement'
 ---
 
+If you attend a Fachoberschule or a Berufsoberschule in Bavaria, please skip to the end of this post.
+{: .notice--warning}
+
 An introduction should make your reader interested in the topic of the text and
 lead up to a thesis statement. The most important sentence of your introduction
 is the thesis statement at the end of your introduction.
@@ -45,6 +48,13 @@ Here are two examples:
 A strong thesis statement **should not be too general**. If a thesis statement
 is too broad, you can not sufficiently support it in the main body and your
 reader cannot tell from your thesis statement what your essay will be about.
+
+## Fachoberschule / Berufsoberschule
+
+If you attend a Fachoberschule or a Berufsoberschule, you
+should not end your introduction in a thesis statement, but
+rather end your introduction with a **paraphrase of the essay
+question**.
 
 ## Further reading (with useful examples)
 
