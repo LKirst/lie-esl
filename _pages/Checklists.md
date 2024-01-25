@@ -35,7 +35,7 @@ author_profile: true
 
 ## Level B1-B2
 
-- [Writing a Thesis Statement]({{ site.baseurl }}{% link
+- [Stating the topic at the end of the introduction]({{ site.baseurl }}{% link
   _pages/LK_Checklist_ThesisStatement_B1.md %})
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
