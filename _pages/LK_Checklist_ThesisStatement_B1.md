@@ -1,11 +1,12 @@
 ---
 title: 'Stating the topic of an essay'
+toc: true
 ---
 
 ## Thesis statement
 
-If you attend a Fachoberschule or a Berufsoberschule in Bavaria, please skip to
-the end of this post.
+If you attend a **Fachoberschule or a Berufsoberschule** in Bavaria, please skip to
+the [end of this post](#fosbos-topicquestion).
 {: .notice--warning}
 
 An introduction should make your reader interested in the topic of the text and
@@ -70,7 +71,7 @@ Further reading (with useful examples):
 
 - <https://www.grammarly.com/blog/thesis-statement/>
 
-## Fachoberschule / Berufsoberschule
+## Fachoberschule / Berufsoberschule {#fosbos-topicquestion}
 
 If you attend a Fachoberschule or a Berufsoberschule, you should **not** end
 your introduction with a thesis statement, but rather with a **paraphrase of
