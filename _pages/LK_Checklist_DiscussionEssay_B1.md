@@ -52,6 +52,10 @@ Content
   **evidence**. Depending on your task, you rebut[^2] reasons for
   the perspective you do not agree with.
 
+For the last sentence of your introduction, see also the [checklist for writing
+a thesis statement or paraphrase of the essay question]({{ site.baseurl }}{%
+link _pages/LK_Checklist_ThesisStatement_B1.md %}).
+
 Structure
 
 - The **introduction** leads up to and presents a **concise thesis statement**
