@@ -29,14 +29,9 @@ most of your planning time?
 
 Content
 
-- Your comment has a descriptive **heading.** (Not relevant for FOSBOS
-  students.)
-
 - Does your introduction ...
 
   catch the reader's attention (with a hook)
-
-  briefly explain the issue
 
   for **FOSBOS** students: ... lead up to a paraphrase
   of the essay question as a direct or indirect question
@@ -53,9 +48,9 @@ Content
 Structure
 
 - The **introduction** leads up to and presents a **concise thesis statement**
-  (for **FOSBOS** students: the paraphrase of the essay question). The introduction
-  introduces the topic briefly in general terms. It should be **approximately
-  10-20% of your word count**.
+  (for **FOSBOS** students: the paraphrase of the essay question). The
+  introduction introduces the topic briefly in general terms. It should be
+  **approximately 10-20% of your word count**.
 
 - You divide your text into **paragraphs**, and for every body paragraph, the
   **topic sentence** (first sentence of the paragraph) presents **one claim**,
@@ -67,7 +62,7 @@ Structure
 - If you have more than one body paragraph, you order your paragraphs from
   least important (your weakest argument) to most important (your strongest
   argument). Your later body paragraphs should be longer since you will want to
-  go into more detail for your strongest arguments.
+  **go into more detail for your strongest argument(s)**.
 
 - The comment ends in a **concluding paragraph**, which sums up the main points
   and restates the thesis statement in a new way. The conclusion does not
@@ -81,11 +76,11 @@ paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md %}).
 - You use the **first person** and **different verbs and phrases to express
   your opinion**.
 
-  **Talk to your teacher** about where in your comment you should present
-  your personal opinion using first-person pronouns. They may expect you to write
-  about your personal opinion **throughout** your comment **or** to only present
-  it **in the conclusion** of your comment. At **FOSBOS**, you should only
-  present your personal view **in the concluding paragraph**.
+  **Talk to your teacher** about where in your comment you should present your
+  personal opinion using first-person pronouns. They may expect you to write
+  about your personal opinion **throughout** your comment **or** to only
+  present it **in the conclusion** of your comment. At **FOSBOS**, you should
+  only present your personal view **in the concluding paragraph**.
   {: .notice--warning}
 
 - You use a wide range of **sentence structures correctly**, e.g. conditional

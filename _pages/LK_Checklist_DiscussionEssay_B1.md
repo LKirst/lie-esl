@@ -30,13 +30,9 @@ most of your planning time?
 
 Content
 
-- Your essay has a descriptive **heading.** (Not relevant for FOSBOS students.)
-
 - Does your introduction ...
 
   catch the reader's attention (with a hook)
-
-  briefly explain the issue
 
   for **FOSBOS** students: ... lead up to a paraphrase
   of the essay question as a direct or indirect question
@@ -59,9 +55,9 @@ Content
 Structure
 
 - The **introduction** leads up to and presents a **concise thesis statement**
-  (for **FOSBOS** students: the paraphrase of the essay question). The introduction
-  introduces the topic briefly in general terms. It should be **approximately
-  10-20% of your word count**.
+  (for **FOSBOS** students: the paraphrase of the essay question). The
+  introduction introduces the topic briefly in general terms. It should be
+  **approximately 10-20% of your word count**.
 
 - You divide your text into **paragraphs**, and for every body paragraph, the
   **topic sentence** (first sentence of the paragraph) presents **one claim**,
@@ -71,8 +67,8 @@ Structure
   sentences and do not introduce new ideas.
 
 - The arguments which you agree with less come first. Your later body
-  paragraphs should be longer since you will want to go into more detail for
-  your strongest arguments.
+  paragraphs should be longer since you will want to **go into more detail for
+  your strongest arguments**.
 
 - The comment ends in a **concluding paragraph**, which sums up the main points
   and restates the thesis statement in a new way. The conclusion does not
