@@ -6,7 +6,7 @@ permalink: /grammar/
 
 ## Websites with practice exercises
 
-Here are some websites where you can search for practice exercieses:
+Here are some websites where you can search for practice exercises:
 
 - [BBC Learning English - basic
 grammar](https://www.bbc.co.uk/learningenglish/english/basic-grammar)
@@ -65,7 +65,7 @@ anyone, no one; something, anything, nothing
     [exercise
     2](https://www.englisch-hilfen.de/en/exercises/confusing_words/some_any2.htm)
 
-  - [Something, someone, somwhere, anything, anyone,
+  - [Something, someone, somewhere, anything, anyone,
     anywhere](https://www.englisch-hilfen.de/en/exercises/confusing_words/something_anything.htm)
 
 - Word order: place before time; S-V-O in the declarative sentence
