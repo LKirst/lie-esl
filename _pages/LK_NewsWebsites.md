@@ -18,8 +18,15 @@ There are many great free online news websites. Here are some suggestions:
 
   - <https://www.bbc.com/news>  – news articles and videos
 
-  - <https://www.bbc.co.uk/podcasts/radio4/category/news>  - a radio news
-  program, focused on the news with podcasts you can download
+  - <https://www.bbc.co.uk/sounds/podcasts>  - a collection of different
+    podcasts from the BBC. Not all of them are about the news.
+
+- The Conversation: A non-profit news website with articles written by
+  academics and journalists
+
+  - News and analysis about the US: <https://theconversation.com/us>
+
+  - News and analysis about the UK: <https://theconversation.com/uk>
 
 - <https://tldrnews.co.uk/> - a Youtube channel, covering both UK and US news.
 The Daily Briefing provides a short overview over current news every day and
