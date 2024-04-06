@@ -11,7 +11,13 @@ Fachabitur. This post is a work in progress, so come back for updates.
 
 ## From school to work
 
+- <https://edition.cnn.com/2021/10/11/success/jobs-apprenticeships-college-degrees-feseries/index.html>
+
 ## Travelling when young
+
+- <https://www.theguardian.com/travel/2023/oct/14/how-to-ski-greener-switch-from-plane-to-train>
+
+- <https://edition.cnn.com/travel/article/travel-young-experiences/index.html>
 
 ## Saving the planet
 
@@ -25,9 +31,15 @@ Fachabitur. This post is a work in progress, so come back for updates.
 
 - <https://www.bbc.com/news/technology-53476117>
 
-## Multiculturalism in a diverse
+## Multiculturalism in a diverse world
+
+- <https://www.bbc.com/news/world-us-canada-68208637>
+
+- <https://www.bbc.com/news/uk-68626430>
 
 ## Living one's life
+
+- <https://www.npr.org/2023/11/28/1214523941/library-books-bans-age-appropriate-movie-ratings>
 
 ## In conflict with the law
 
