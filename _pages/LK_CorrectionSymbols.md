@@ -65,6 +65,7 @@ that you have misunderstood **thoroughly** (= _gründlich_).
 | frag | The sentence is not complete. This group of words is a fragment. | _If I were a teacher._ |
 | German | You used a German word. If you do not know the English word, please use a paraphrase! | _My cat \*jagt mice._ |
 | ( ) or ~~crossed out~~ | Remove these words | _If I were you, ~~then~~ I would study more. I think your reaction was (very) extreme._ |
+| awk | awkward phrasing or sentence structure ||
 | ?? | Difficult to read or understand | |
 | voc+ | You used an interesting word. | |
 | gr+ | You used an interesting grammatical structure. | |
