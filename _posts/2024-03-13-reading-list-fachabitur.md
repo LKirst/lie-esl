@@ -13,6 +13,10 @@ Fachabitur. This post is a work in progress, so come back for updates.
 
 - <https://edition.cnn.com/2021/10/11/success/jobs-apprenticeships-college-degrees-feseries/index.html>
 
+## Keeping healthy
+
+- <https://www.theguardian.com/society/2024/apr/16/what-rishi-sunak-anti-smoking-bill-and-will-it-pass>
+
 ## Travelling when young
 
 - <https://www.theguardian.com/travel/2023/oct/14/how-to-ski-greener-switch-from-plane-to-train>
