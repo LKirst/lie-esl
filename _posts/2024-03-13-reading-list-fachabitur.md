@@ -17,6 +17,8 @@ Fachabitur. This post is a work in progress, so come back for updates.
 
 - <https://www.theguardian.com/society/2024/apr/16/what-rishi-sunak-anti-smoking-bill-and-will-it-pass>
 
+- <https://www.theguardian.com/environment/2024/apr/17/healthier-ready-to-eat-meals-would-have-huge-eu-climate-benefits-report>
+
 ## Travelling when young
 
 - <https://www.theguardian.com/travel/2023/oct/14/how-to-ski-greener-switch-from-plane-to-train>
