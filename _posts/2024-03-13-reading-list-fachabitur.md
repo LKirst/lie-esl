@@ -67,10 +67,10 @@ Germany
 
 - <https://theconversation.com/why-is-free-time-still-so-elusive-221081>
 
-- <https://www.bbc.com/news/uk-england-surrey-68110626>
+- [Fake Jobs: Skammers impersonate firms to target victims](<https://www.bbc.com/news/uk-england-surrey-68110626>)
 
 ## Our technological future
 
 - <https://www.theguardian.com/technology/2024/mar/12/family-takes-fight-against-deepfake-nudes-to-washington>
 
-- <https://www.bbc.com/news/uk-england-london-68274090>
+- [Croydon: Met Police to continue facial recognition despite concerns](https://www.bbc.com/news/uk-england-london-68274090)
