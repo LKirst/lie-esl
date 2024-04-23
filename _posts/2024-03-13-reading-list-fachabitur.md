@@ -26,7 +26,7 @@ Fachabitur. This post is a work in progress, so come back for updates.
 
 - [How to ski greener – switch from plane to train](https://www.theguardian.com/travel/2023/oct/14/how-to-ski-greener-switch-from-plane-to-train)
 
-- [Travel experiences you can only enjoy while you’re young]<https://edition.cnn.com/travel/article/travel-young-experiences/index.html>
+- [Travel experiences you can only enjoy while you’re young](https://edition.cnn.com/travel/article/travel-young-experiences/index.html)
 
 ## Saving the planet
 
@@ -56,13 +56,13 @@ The UK
 
 Germany
 
-- [German Bundestag approves payment cards for asylum-seekers]<https://www.dw.com/en/german-bundestag-approves-payment-cards-for-asylum-seekers/a-68804264>
+- [German Bundestag approves payment cards for asylum-seekers](https://www.dw.com/en/german-bundestag-approves-payment-cards-for-asylum-seekers/a-68804264)
 
-- [Germany: Would-be migrant workers worried by growing racism]<https://www.dw.com/en/germany-would-be-migrant-workers-worried-by-growing-racism/a-68095799>
+- [Germany: Would-be migrant workers worried by growing racism](https://www.dw.com/en/germany-would-be-migrant-workers-worried-by-growing-racism/a-68095799)
 
 ## Living one's life
 
-- [https://www.npr.org/2023/11/28/1214523941/library-books-bans-age-appropriate-movie-ratings](<https://www.npr.org/2023/11/28/1214523941/library-books-bans-age-appropriate-movie-ratings>)
+- [In the battle over books, who gets to decide what's age-appropriate at libraries?](<https://www.npr.org/2023/11/28/1214523941/library-books-bans-age-appropriate-movie-ratings>)
 
 ## In conflict with the law
 
@@ -78,6 +78,6 @@ Germany
 
 ## Our technological future
 
--[‘Staying silent? Not an option’: family takes fight against deepfake nudes to Washington](<https://www.theguardian.com/technology/2024/mar/12/family-takes-fight-against-deepfake-nudes-to-washington>)
+- [‘Staying silent? Not an option’: family takes fight against deepfake nudes to Washington](<https://www.theguardian.com/technology/2024/mar/12/family-takes-fight-against-deepfake-nudes-to-washington>)
 
 - [Croydon: Met Police to continue facial recognition despite concerns](https://www.bbc.com/news/uk-england-london-68274090)
