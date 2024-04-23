@@ -39,9 +39,19 @@ Fachabitur. This post is a work in progress, so come back for updates.
 
 ## Multiculturalism in a diverse world
 
+The US
+
 - <https://www.bbc.com/news/world-us-canada-68208637>
 
+The UK
+
 - <https://www.bbc.com/news/uk-68626430>
+
+Germany
+
+- <https://www.dw.com/en/german-bundestag-approves-payment-cards-for-asylum-seekers/a-68804264>
+
+- <https://www.dw.com/en/germany-would-be-migrant-workers-worried-by-growing-racism/a-68095799>
 
 ## Living one's life
 
