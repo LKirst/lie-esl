@@ -32,7 +32,7 @@ Content
 
 - Does your introduction ...
 
-  catch the reader's attention (with a hook)
+  ... catch the reader's attention (with a hook)
 
   for **FOSBOS** students: ... lead up to a paraphrase
   of the essay question as a direct or indirect question
