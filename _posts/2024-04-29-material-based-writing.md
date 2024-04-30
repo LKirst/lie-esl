@@ -5,9 +5,33 @@ author: Lukas Liebermann
 toc: true
 ---
 
+## What is the structure of a material-based writing assignment?
+
+Your text should always follow the same structure:
+
+1. Introduction, which leads up to and ends in a paraphrase of the essay
+   question
+2. Main body, in which you present two to three arguments or views to answer
+   the question
+3. Concluding paragraph, in which you sum up the main points and present your
+   personal opinion or draw a conclusion
+
+For more detailed help, follow the links below:
+
+- [Writing a Body Paragraph]({{ site.baseurl }}{% link
+  _pages/LK_Checklist_Paragraph_A2.md %})
+
+- [Stating the topic at the end of the introduction]({{ site.baseurl }}{% link
+  _pages/LK_Checklist_ThesisStatement_B1.md %})
+
+- [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
+
+- [Discussion Essay]({{ site.baseurl }}{% link
+  _pages/LK_Checklist_DiscussionEssay_B1.md %})
+
 ## Should I reference the sources?
 
-Do not reference the sources of the material in the Material Based Writing
+Do not reference the sources of the material in the material-based writing
 (MBW) assignment and do not quote the sources directly.
 
 There is one exception to this rule: If one resource is a short quotation, you
