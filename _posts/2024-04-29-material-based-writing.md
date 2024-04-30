@@ -1,6 +1,6 @@
 ---
 title: 'Material-based writing FAQ (for the Fachabitur in Bavaria)'
-created: 2024-03-29
+date: 2024-03-29
 author: Lukas Liebermann
 toc: true
 ---
