@@ -3,6 +3,7 @@ title: 'Material-based writing FAQ (for the Fachabitur in Bavaria)'
 date: 2024-03-29
 author: Lukas Liebermann
 toc: true
+category: text production
 ---
 
 ## What is the structure of a material-based writing assignment?
