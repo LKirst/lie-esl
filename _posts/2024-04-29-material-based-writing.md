@@ -35,9 +35,10 @@ For more detailed help, follow the links below:
 Do not reference the sources of the material in the material-based writing
 (MBW) assignment and do not quote the sources directly.
 
-There is one exception to this rule: If one resource is a short quotation, you
-may use it as a hook in your introduction. In this case, you should reference
-the person you quote.
+There is one exception to this rule: If one resource is a short
+quotation, you may use it as a hook in your introduction. In this
+case, you should reference the person you quote and explain the
+quote briefly.
 
 ## How can I tell if I have used a resource "enough"?
 
