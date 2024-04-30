@@ -82,7 +82,7 @@ you have to present "possible solutions" to a problem.
 If you write more than 300 words, this will not negatively affect your grade.
 However, you may lose credits if you go below the minimum word count of 300.
 
-## How long should each part of my introduction be?
+## How long should each part of my text be?
 
 If you have two body paragraphs, your second body paragraph should present the
 view you agree with more, if you write about two different views, or the
