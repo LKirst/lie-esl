@@ -35,7 +35,7 @@ that you have misunderstood **thoroughly** (= _gründlich_).
 | symbol | explanation | example |
 |----|----|----|
 | t | Tense (_Zeit_) | _I \*will be in class yesterday._ |
-| asp | Aspect (simple, continuous, perfect): _Du hast eine Verlaufsform verwendet an einer Stelle, an der du die einfache Form verwenden solltest oder umgekehrt. Eine weitere Art diese Fehlers ist wenn du nicht die Perfect Tense mit "have" verwendet hast, wenn Sie gefordert wäre._ | _I \*was knowing it the whole time._ |
+| asp | Aspect (simple, continuous, perfect): _Du hast zum Beispiel eine Verlaufsform verwendet an einer Stelle, an der du die einfache Form verwenden solltest oder umgekehrt. Oder du hast nicht die Perfect Tense mit "have" verwendet, wenn es gefordert wäre._ | _I \*was knowing it the whole time._ |
 | pass | Akward use of passive voice: _Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig._ | _A ball has been thrown over the wall._ => Who threw the ball? |
 | constr | Participles, gerund, infinitive | _I decided \*flying to London_ |
 
