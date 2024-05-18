@@ -1,5 +1,7 @@
 # masthead
 main:
+  - title: "Correction Symbols"
+    url: /correction-symbols/
   - title: "Posts"
     url: /categories/
   - title: "Checklists"
