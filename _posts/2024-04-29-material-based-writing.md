@@ -7,6 +7,9 @@ category: text production
 last_modified_at: 2024-05-01
 ---
 
+Disclaimer: Different schools may have slightly different requirements. Check
+with your teacher if they agree with the answers below.
+
 ## What is the structure of a material-based writing assignment?
 
 Your text should always follow the same structure:
