@@ -6,7 +6,7 @@ toc: true
 ## Thesis statement
 
 If you attend a **Fachoberschule or a Berufsoberschule** in Bavaria, please skip to
-the [end of this post](#fosbos-topicquestion).
+the [end of this post](#fosbos-essayquestion).
 {: .notice--warning}
 
 An introduction should make your reader interested in the topic of the text and
@@ -71,7 +71,7 @@ Further reading (with useful examples):
 
 - <https://www.grammarly.com/blog/thesis-statement/>
 
-## Fachoberschule / Berufsoberschule {#fosbos-topicquestion}
+## Fachoberschule / Berufsoberschule {#fosbos-essayquestion}
 
 If you attend a Fachoberschule or a Berufsoberschule, you should **not** end
 your introduction with a thesis statement, but rather with a **paraphrase of
@@ -86,6 +86,9 @@ Here are some phrases you can use to introduce the question:
 - The contrast between ... and ... **prompts the question** ... / This prompts the question ...
 
 - **Faced with** ..., we are **have to ask** ...
+
+Punctuation: Remember that indirect questions embedded in declarative sentences
+take a full stop, **not a question mark**.
 
 Examples: 
 
