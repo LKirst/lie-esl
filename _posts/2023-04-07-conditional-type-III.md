@@ -2,6 +2,7 @@
 title: "Conditional type III"
 date: 2023-04-07
 category: "grammar"
+classes: wide
 ---
 
 ## Verb forms
