@@ -35,7 +35,7 @@ what the condition imagines.
 
 The main clause describes an imagined **result in the past**.
 
-## Exercise 1: Verb forms
+## Exercise: Verb forms
 
 <!-- JS: Define answers -->
 <script type="text/javascript">
@@ -61,7 +61,7 @@ Plantagenats and Tudors <input type="text" class="gap-l" id="ex1AnsBox1">
 (_reign + not_) Britain.
 
 England <input type="text" class="gap-m" id="ex1AnsBox2"> (_have_) a more
-Scandinavian Culture in the Middle Ages and the Tudor Era if the Saxons <input
+Scandinavian culture in the Middle Ages and the Tudor Era if the Saxons <input
 type="text" class="gap-s" id="ex1AnsBox3"> (_win_) over the Normans.
 
 Without the connection to France, England <input type="text" class="gap-l"
@@ -82,11 +82,6 @@ id="ex1AnsBox8"> (_enter_) the English language.
 </div>
 <span id="messageArea1">
 </span>
-
-## Exercise 2: Conditional type I, II and III
-
-Soon to come.
-{: .notice}
 
 <!-- Attribution -->
 The exercises have been made using a free script from [Random Idea
