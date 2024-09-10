@@ -7,8 +7,8 @@ Please bring all of the following materials to every English lesson.
 
 A) Exercise books and a file folder
 
-- 2 **DinA4 exercise books, ruled with white margin** (= *liniert mit weißem
-  Rand*): One school exercise book and one homework exercise book. Please write
+- 1 (preferably 2) **DinA4 exercise books, ruled with white margin** (= *liniert mit weißem
+  Rand*): Please write
   your first and last name and the name of your class on the cover.
 
 - 1 **file folder** for worksheets
