@@ -30,15 +30,14 @@ most of your planning time?
 
 Content
 
-- Does your introduction ...
+- Does your introduction
 
-  ... catch the reader's attention (with a hook)
+  ... catch the reader's attention (with a **hook**)?
 
-  for **FOSBOS** students: ... lead up to a paraphrase
-  of the essay question as a direct or indirect question
+  _for **FOSBOS** students:_ ... lead up to a paraphrase
+  of the essay question as a direct or indirect question?
 
-  for **everyone else**: ... lead up to a thesis statement, which sums up your
-  opinion about the subject on which you were asked
+  _for **everyone else**:_ ... lead up to a thesis statement, which sums up the different perspectives you were asked to discuss?
 
 - You present **two perspectives on an issue with compelling[^1] arguments**
   and answer the question you were asked / **fulfil the task you were given**.

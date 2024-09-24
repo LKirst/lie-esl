@@ -29,21 +29,23 @@ most of your planning time?
 
 Content
 
-- Does your introduction ...
+- Does your introduction
 
-  catch the reader's attention (with a hook)
+  ... catch the reader's attention (with a **hook**)?
 
-  for **FOSBOS** students: ... lead up to a paraphrase
-  of the essay question as a direct or indirect question
+  _for **FOSBOS** students:_ ... lead up to a paraphrase
+  of the essay question as a direct or indirect question?
 
-  for **everyone else**: ... lead up to a thesis statement, which sums up your
-  opinion about the subject on which you were asked
+  _for **everyone else**:_ ... lead up to a thesis statement, which sums up your
+  opinion about the subject on which you were asked?
 
-- You present **your personal opinion with compelling[^1] arguments** and
-  answer the question you were asked / **fulfil the task you were given**.
+- You present **your personal opinion with compelling[^1]
+  arguments** and answer the question you were asked /
+  **fulfil the task you were given**.
 
-- You support your opinion with **detailed explanations** and **evidence**.
-  Depending on your task, you rebut[^2] reasons against your argument.
+- You support your opinion with **detailed explanations** and
+  **evidence**. Depending on your task, you rebut[^2] reasons
+  against your argument.
 
 For the last sentence of your introduction, see also the [checklist for writing
 a thesis statement or paraphrase of the essay question]({{ site.baseurl }}{%
@@ -51,14 +53,16 @@ link _pages/LK_Checklist_ThesisStatement_B1.md %}).
 
 Structure
 
-- The **introduction** leads up to and presents a **concise thesis statement**
-  (for **FOSBOS** students: the paraphrase of the essay question). The
-  introduction introduces the topic briefly in general terms. It should be
-  **approximately 10-20% of your word count**.
+- The **introduction** leads up to and presents a **concise
+  thesis statement** (for **FOSBOS** students: the paraphrase
+  of the essay question). The introduction introduces the
+  topic briefly in general terms. It should be **approximately
+  10-20% of your word count**.
 
-- You divide your text into **paragraphs**, and for every body paragraph, the
-  **topic sentence** (first sentence of the paragraph) presents **one claim**,
-  related to the thesis statement / essay question.
+- You divide your text into **paragraphs**, and for every body
+  paragraph, the **topic sentence** (first sentence of the
+  paragraph) presents **one claim**, related to the thesis
+  statement / essay question.
 
 - The **supporting sentences** of every body paragraph support the topic
   sentences and do not introduce new ideas.
