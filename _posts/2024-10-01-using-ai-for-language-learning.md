@@ -107,7 +107,8 @@ You can use AI tools to study for a writing assignment: You can ...
 One example is the prompt in the [prompting chapter](#prompting) above. Here is
 another example:
 
-> Write an essay using all of the following pieces of information.
+> Write an essay using all of the following pieces of information. The
+> assignment is: [ XYZ ]
 >
 > You are an English Language teacher who puts emphasis on paragraphing
 > structure. You want to give your students a model text.
@@ -120,8 +121,8 @@ another example:
 > examples to support the topic sentence. The information you should use is [
 > XYZ ].
 >
-> Use a formal register and demonstrate a wide linguistic range for the
-> model text. It should be between 270 and 330 words.
+> Use a formal register and demonstrate a wide linguistic range for the model
+> text. It should be between [ XYZ ] and [ XYZ ] words.
 
 ### Practising dialogue in writing
 
