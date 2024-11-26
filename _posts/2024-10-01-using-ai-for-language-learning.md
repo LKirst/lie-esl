@@ -117,11 +117,11 @@ structure. You want to give your students a model text.
 Respond in a table with two columns. The first column should contain the model
 text. The second column should explain the structure of the model text. Put
 each paragraph of the model text in a new row. The introduction should end with
-a paraphrase of the essay question. Each body paragraph of the model text
-should start with a topic sentence and then provide explanation and examples to
-support the topic sentence. The first sentence of each body paragraph (the
-topic sentence) should state the one claim of the paragraph clearly. The
-information you should use is [ XYZ ].
+a paraphrase of the essay question as an indirect question. Each body paragraph
+of the model text should start with a topic sentence and then provide
+explanation and examples to support the topic sentence. The first sentence of
+each body paragraph (the topic sentence) should state the one claim of the
+paragraph clearly. The information you should use is [ XYZ ].
 
 Use a formal register and demonstrate a wide linguistic range for the model
 text. Only use the first person and phrases to express your opinion in the
