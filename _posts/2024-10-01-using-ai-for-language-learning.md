@@ -3,6 +3,7 @@ title: 'Using AI for Language Learning'
 date: 2024-10-01
 author: Lukas Liebermann
 toc: true
+enable_copy_code_button: true
 category: tools
 last_modified_at: 2024-10-13
 ---
@@ -45,7 +46,7 @@ Disclaimers:
 ## Prompting {#prompting}
 
 The most important skill to make use of AI tools is skilled prompting. Daniel
-Fitzpatrick[^AI classroom] recommends the following steps, which form the
+Fitzpatrick[^AIclassroom] recommends the following steps, which form the
 acronym *PREP*:
 
 1. **Prompt** it: You tell the AI tool the task you want it to accomplish using
@@ -76,20 +77,22 @@ want the answer to look like.
 
 Here is the complete example prompt:
 
-> Grade my essay and give reasons for your judgement.
->
-> You are a qualified examiner who grades ESL (English as second language)
-> exams.
->
-> Use the following two criteria for your grading: (a) linguistic accuracy and
-> cohesion and (b) appropriacy and linguistic range. Link your explanation of
-> the grade to the criteria. This is the exam question: [ XYZ ]. The
-> answer you are marking is: [ XYZ ].
->
-> Structure your answer with bullet points and use vocabulary suitable for
-> intermediate English learners.
+```
+Grade my essay and give reasons for your judgement.
 
-[^AI classroom]: Fitzpatrick, D. (2023). *The AI classroom: The ultimate 
+You are a qualified examiner who grades ESL (English as second language)
+exams.
+
+Use the following two criteria for your grading: (a) linguistic accuracy and
+cohesion and (b) appropriacy and linguistic range. Link your explanation of
+the grade to the criteria. This is the exam question: [ XYZ ]. The
+answer you are marking is: [ XYZ ].
+
+Structure your answer with bullet points and use vocabulary suitable for
+intermediate English learners.
+```
+
+[^AIclassroom]: Fitzpatrick, D. (2023). *The AI classroom: The ultimate 
   guide to artificial intelligence in education.* TeacherGoals Publishing.
 
 ## Different use cases
@@ -107,22 +110,24 @@ You can use AI tools to study for a writing assignment: You can ...
 One example is the prompt in the [prompting chapter](#prompting) above. Here is
 another example:
 
-> Write an essay using all of the following pieces of information. The
-> assignment is: [ XYZ ]
->
-> You are an English Language teacher who puts emphasis on paragraphing
-> structure. You want to give your students a model text.
->
-> Respond in a table with two columns. The first column should contain the
-> model text. The second column should explain the structure of the model text.
-> Put each paragraph of the model text in a new row. The introduction should
-> end with a paraphrase of the essay question. Each body paragraph of the model
-> text should start with a topic sentence and then provide explanation and
-> examples to support the topic sentence. The information you should use is [
-> XYZ ].
->
-> Use a formal register and demonstrate a wide linguistic range for the model
-> text. It should be between [ XYZ ] and [ XYZ ] words.
+```
+Write an essay using all of the following pieces of information. The
+assignment is: [ XYZ ]
+
+You are an English Language teacher who puts emphasis on paragraphing
+structure. You want to give your students a model text.
+
+Respond in a table with two columns. The first column should contain the
+model text. The second column should explain the structure of the model text.
+Put each paragraph of the model text in a new row. The introduction should
+end with a paraphrase of the essay question. Each body paragraph of the model
+text should start with a topic sentence and then provide explanation and
+examples to support the topic sentence. The information you should use is [
+XYZ ].
+
+Use a formal register and demonstrate a wide linguistic range for the model
+text. It should be between [ XYZ ] and [ XYZ ] words.
+```
 
 ### Practising dialogue in writing
 
@@ -135,17 +140,19 @@ AI chatbots can help you prepare for a discussion: You can ...
 
 Here is an example prompt, which follows the PREP framework:
 
-> Engage me in a discussion about the responsibility of large corporations for
-> our eating habits.
->
-> You are a fellow student in our debating club and you are passionate about
-> fast food.
->
-> End your contributions to the discussions with open questions for me to keep
-> the discussion going. Challenge me when I digress.
->
-> Use a conversational tone and shorter sentences. Your contributions to the
-> discussion should be short so the exchange feels like a dialogue.
+```
+Engage me in a discussion about the responsibility of large corporations for
+our eating habits.
+
+You are a fellow student in our debating club and you are passionate about
+fast food.
+
+End your contributions to the discussions with open questions for me to keep
+the discussion going. Challenge me when I digress.
+
+Use a conversational tone and shorter sentences. Your contributions to the
+discussion should be short so the exchange feels like a dialogue.
+```
 
 ### Summarising and simplifying texts
 
@@ -162,16 +169,18 @@ AI tools are useful for revising vocabulary: You might ...
 
 Here is an example prompt, which follows the PREP framework:
 
-> Quiz me about the following list of vocabulary.
->
-> You are an ESL (English as second language) teacher. You are known for your
-> being very encouraging.
->
-> For each word or phrase from the vocabulary, give me a paraphrase and a short
-> example text with the word or phrase replaced by a line. Then, let me guess
-> the missing words.
->
-> Use British English. The example texts should not be longer than 80 words.
+```
+Quiz me about the following list of vocabulary.
+
+You are an ESL (English as second language) teacher. You are known for your
+being very encouraging.
+
+For each word or phrase from the vocabulary, give me a paraphrase and a short
+example text with the word or phrase replaced by a line. Then, let me guess
+the missing words.
+
+Use British English. The example texts should not be longer than 80 words.
+```
 
 ## Limitations and risks of AI tools
 
