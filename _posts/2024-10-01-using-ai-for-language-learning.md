@@ -92,9 +92,6 @@ Structure your answer with bullet points and use vocabulary suitable for
 intermediate English learners.
 ```
 
-[^AIclassroom]: Fitzpatrick, D. (2023). *The AI classroom: The ultimate 
-  guide to artificial intelligence in education.* TeacherGoals Publishing.
-
 ## Different use cases
 
 ### Text production feedback
@@ -111,22 +108,25 @@ One example is the prompt in the [prompting chapter](#prompting) above. Here is
 another example:
 
 ```
-Write an essay using all of the following pieces of information. The
-assignment is: [ XYZ ]
+Write an essay using all of the following pieces of information. The assignment
+is: [ XYZ ]
 
 You are an English Language teacher who puts emphasis on paragraphing
 structure. You want to give your students a model text.
 
-Respond in a table with two columns. The first column should contain the
-model text. The second column should explain the structure of the model text.
-Put each paragraph of the model text in a new row. The introduction should
-end with a paraphrase of the essay question. Each body paragraph of the model
-text should start with a topic sentence and then provide explanation and
-examples to support the topic sentence. The information you should use is [
-XYZ ].
+Respond in a table with two columns. The first column should contain the model
+text. The second column should explain the structure of the model text. Put
+each paragraph of the model text in a new row. The introduction should end with
+a paraphrase of the essay question. Each body paragraph of the model text
+should start with a topic sentence and then provide explanation and examples to
+support the topic sentence. The first sentence of each body paragraph (the
+topic sentence) should state the one claim of the paragraph clearly. The
+information you should use is [ XYZ ].
 
 Use a formal register and demonstrate a wide linguistic range for the model
-text. It should be between [ XYZ ] and [ XYZ ] words.
+text. Only use the first person and phrases to express your opinion in the
+concluding paragraph. The essay should be between [ XYZ ] and [ XYZ ] words.
+Write [ XYZ ] body paragraphs.
 ```
 
 ### Practising dialogue in writing
@@ -197,3 +197,5 @@ Use British English. The example texts should not be longer than 80 words.
 - Depending on what tool you use, the information you enter will be collected
   and used for example to train the next generation of AI tools. You should
   **never enter any sensitive information**.
+
+[^AIclassroom]: Fitzpatrick, D. (2023). *The AI classroom: The ultimate guide to artificial intelligence in education.* TeacherGoals Publishing.
