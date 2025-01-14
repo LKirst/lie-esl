@@ -4,7 +4,7 @@ date: 2024-03-29
 author: Lukas Liebermann
 toc: true
 category: text production
-last_modified_at: 2024-05-01
+last_modified_at: 2025-01-14
 ---
 
 Disclaimer: Different schools may have slightly different requirements. Check
@@ -43,6 +43,11 @@ There is one exception to this rule: If one material is a short
 quotation, you may use it as a hook in your introduction. In this
 case, you should reference the person you quote and explain the
 quote briefly.
+
+You may use general phrases to reference the material, such as:
+
+- *Studies have shown that ...*
+- *Surveys show that ...*.
 
 ## How can I tell if I have used a material "enough"?
 
