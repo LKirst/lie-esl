@@ -36,7 +36,7 @@ that you have misunderstood **thoroughly** (= _gründlich_).
 |----|----|----|
 | t | Tense (_Zeit_) | _I \*will be in class yesterday._ |
 | asp | Aspect (simple, continuous, perfect): _Du hast zum Beispiel eine Verlaufsform verwendet an einer Stelle, an der du die einfache Form verwenden solltest oder umgekehrt. Oder du hast nicht die Perfect Tense mit "have" verwendet, wenn es gefordert wäre._ | _I \*was knowing it the whole time._ |
-| pass | Akward use of passive voice: _Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig._ | _A ball has been thrown over the wall._ => Who threw the ball? |
+| pass | Awkward use of passive voice: _Im Englischen wird der Passiv seltener verwendet als im Deutschen und wirkt häufig zu formell oder uneindeutig._ | _A ball has been thrown over the wall._ => Who threw the ball? |
 | constr | Participles, gerund, infinitive | _I decided \*flying to London_ |
 | // | Parallel structure is missing: _Wir können zwei oder mehr Phrasen, Sätze oder Wörter über Koordination miteinander verbinden. Meist geschieht das über die Konjunktionen "and, nor, but, or, yet, so" oder über Kommata bei Aufzählungen. Die koordinierten Einheiten müssen derselben grammatischen Struktur folgen. Werden Verben im Infinitiv mit "to" verbunden, muss diese Form bei allen verbundenen Verben beibehalten werden. Wenn Verben in -ing-Form miteinander verbunden werden, müssen alle verbundenen Verben in -ing-Form stehen._  | _I like reading and \*to hike. My friends and I love that we have the same taste in books and \*to go on hikes together._ |
 
