@@ -45,6 +45,8 @@ Disclaimers:
 
 ## Prompting {#prompting}
 
+### Step-by-step
+
 The most important skill to make use of AI tools is skilled prompting. Daniel
 Fitzpatrick[^AIclassroom] recommends the following steps, which form the
 acronym *PREP*:
@@ -75,18 +77,14 @@ want the answer to look like.
    > Structure your answer with bullet points and use vocabulary suitable for
    intermediate English learners.
 
-Here is the complete example prompt:
+### Example: Grade an essay
 
-```
-Grade my essay and give reasons for your judgement.
-
-You are a qualified examiner who grades ESL (English as second language)
-exams.
-
-First mark all errors in the original text, then give your feedback including a
-suggestion for an improved version of the text. Please mark all errors in the
-original text in bold. After each error, indicate the category of error by
-using the following correction symbols:
+Grade my essay and give reasons for your judgement. You are a qualified
+examiner who grades ESL (English as second language) exams. First mark all
+errors in the original text, then give your feedback including a suggestion for
+an improved version of the text. Please mark all errors in the original text in
+bold. After each error, indicate the category of error by using the following
+correction symbols:
 
 - sp: spelling
 - p: punctuation
@@ -95,13 +93,12 @@ using the following correction symbols:
 - wo: word order
 
 Use the following two criteria for your grading: (a) linguistic accuracy and
-cohesion and (b) appropriacy and linguistic range. Link your explanation of
-the grade to the criteria. This is the exam question: [ XYZ ]. The
-answer you are marking is: [ XYZ ].
+cohesion and (b) appropriacy and linguistic range. Link your explanation of the
+grade to the criteria. This is the exam question: [ XYZ ]. The answer you are
+marking is: [ XYZ ].
 
 Structure your answer with bullet points and use vocabulary suitable for
 intermediate English learners.
-```
 
 ## Different use cases
 
@@ -115,10 +112,11 @@ You can use AI tools to study for a writing assignment: You can ...
 - generate examples
 - get feedback on your writing
 
+### Example: Write a model text 
+
 One example is the prompt in the [prompting chapter](#prompting) above. Here is
 another example:
 
-```
 Write an essay using all of the following pieces of information. The assignment
 is: [ XYZ ]
 
@@ -138,7 +136,6 @@ Use a formal register and demonstrate a wide linguistic range for the model
 text. Only use the first person and phrases to express your opinion in the
 concluding paragraph. The essay should be between [ XYZ ] and [ XYZ ] words.
 Write [ XYZ ] body paragraphs.
-```
 
 ### Practising dialogue in writing
 
@@ -149,9 +146,10 @@ AI chatbots can help you prepare for a discussion: You can ...
 - collect example exam questions for a given topic
 - have a practice discussion in writing
 
+### Example: Practice discussion 
+
 Here is an example prompt, which follows the PREP framework:
 
-```
 Engage me in a discussion about the responsibility of large corporations for
 our eating habits.
 
@@ -163,7 +161,6 @@ the discussion going. Challenge me when I digress.
 
 Use a conversational tone and shorter sentences. Your contributions to the
 discussion should be short so the exchange feels like a dialogue.
-```
 
 ### Summarising and simplifying texts
 
@@ -178,9 +175,10 @@ AI tools are useful for revising vocabulary: You might ...
   phrases
 - ask the AI tool to quiz you on a given list of words and phrases
 
+### Example: Vocabulary quizz
+
 Here is an example prompt, which follows the PREP framework:
 
-```
 Quiz me about the following list of vocabulary.
 
 You are an ESL (English as second language) teacher. You are known for your
@@ -191,7 +189,6 @@ example text with the word or phrase replaced by a line. Then, let me guess
 the missing words.
 
 Use British English. The example texts should not be longer than 80 words.
-```
 
 ## Limitations and risks of AI tools
 
