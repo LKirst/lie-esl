@@ -35,7 +35,7 @@ author_profile: true
 
 ## Level B1-B2
 
-- [Writing and Essay Hook]({{ site.baseurl }}{% link
+- [Writing an Essay Hook]({{ site.baseurl }}{% link
   _pages/LK_Checklist_Introduction_B1.md %})
 
 - [Stating the topic at the end of the introduction]({{ site.baseurl }}{% link
