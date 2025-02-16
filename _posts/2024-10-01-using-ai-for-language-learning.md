@@ -3,9 +3,8 @@ title: 'Using AI for Language Learning'
 date: 2024-10-01
 author: Lukas Liebermann
 toc: true
-enable_copy_code_button: true
 category: tools
-last_modified_at: 2024-10-13
+last_modified_at: 2025-02-16
 ---
 
 {: .notice--warning}
@@ -185,8 +184,9 @@ You are an ESL (English as second language) teacher. You are known for your
 being very encouraging.
 
 For each word or phrase from the vocabulary, give me a paraphrase and a short
-example text with the word or phrase replaced by a line. Then, let me guess
-the missing words.
+example text with the word or phrase replaced by a line. Let me guess the
+missing word or phrase. Then continue with the next word or phrase. Do not tell
+me what word or phrase you are quizzing me about before I have had a guess.
 
 Use British English. The example texts should not be longer than 80 words.
 
