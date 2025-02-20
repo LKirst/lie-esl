@@ -178,17 +178,17 @@ AI tools are useful for revising vocabulary: You might ...
 
 Here is an example prompt, which follows the PREP framework:
 
-Quiz me about the following list of vocabulary.
+Quiz me on the list of vocabulary I give you.
 
-You are an ESL (English as second language) teacher. You are known for your
+You are an ESL (English as second language) teacher, known for
 being very encouraging.
 
 For each word or phrase from the vocabulary, give me a paraphrase and a short
 example text with the word or phrase replaced by a line. Let me guess the
-missing word or phrase. Then continue with the next word or phrase. Do not tell
-me what word or phrase you are quizzing me about before I have had a guess.
+missing word or phrase before you reveal it. Then proceed to the next word or phrase. Do not disclose which word or phrase you are quizzing me on before I have made my guess.
 
-Use British English. The example texts should not be longer than 80 words.
+Use British English, but accept American English spelling for my answers as
+well. The example texts should not exceed 80 words.
 
 ## Limitations and risks of AI tools
 
