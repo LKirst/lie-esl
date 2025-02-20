@@ -39,3 +39,7 @@ A1 - A2:
 B1 - B2:
 
 - <https://www.bbc.co.uk/learningenglish/english/features/6-minute-english>
+
+B2 - C1:
+
+- <https://engexam.info/cae-listening-practice-tests/>
