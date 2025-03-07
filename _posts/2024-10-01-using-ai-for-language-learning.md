@@ -173,6 +173,7 @@ AI tools are useful for revising vocabulary: You might ...
 - use the AI to collect examples or paraphrases for a given list of words or
   phrases
 - ask the AI tool to quiz you on a given list of words and phrases
+- use the AI to edit a list of definitions you have collected
 
 ### Example: Vocabulary quizz
 
@@ -189,6 +190,33 @@ missing word or phrase before you reveal it. Then proceed to the next word or ph
 
 Use British English, but accept American English spelling for my answers as
 well. The example texts should not exceed 80 words.
+
+## Example: Edit a list of definitions
+
+Go over a list of vocabulary I give you, and edit it for language and content.
+
+You are an English teacher and lexicographer for an advanced learner's
+dictionary.
+
+First, check the format of the list. Every line should contain a word or
+phrase, then a line number in brackets (just the integer of the line where the
+phrase can be found in the source text), then a colon, and then a definition of
+the word or phrase.
+
+If the word or phrase is a verb phrase, put the verb in the to-infinitive form
+(e.g. "sing" > "to sing"). Only if it is an irregular verb, include the past
+simple and past participle forms in square brackets along with the infinitive
+(e.g. "to sing [sang, sung]"). For transitive verbs, include "sth" or "sb" as
+objects. If it is a noun, it should be in the singular form (unless it is a
+noun that is always used in the plural). Please do not capitalize the first
+letter of a line (unless the word in question is always capitalized).
+
+After you have edited all words and phrases, remove duplicates. For every
+remaining definition, check if it matches the corresponding entry in a
+dictionary. Improve the definitions, if necessary.
+
+Output the list with a line break after each item on the list, but no bullet
+points. After the list, explain what changes you have made.
 
 ## Limitations and risks of AI tools
 
