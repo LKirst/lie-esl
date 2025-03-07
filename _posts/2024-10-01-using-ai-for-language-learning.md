@@ -191,7 +191,7 @@ missing word or phrase before you reveal it. Then proceed to the next word or ph
 Use British English, but accept American English spelling for my answers as
 well. The example texts should not exceed 80 words.
 
-## Example: Edit a list of definitions
+### Example: Edit a list of definitions
 
 Go over a list of vocabulary I give you, and edit it for language and content.
 
