@@ -1,14 +1,14 @@
 ---
-title: 'Material-based writing FAQ (for the Fachabitur in Bavaria)'
+title: 'Material-based writing FAQ'
 date: 2024-03-29
 author: Lukas Liebermann
 toc: true
 category: text production
-last_modified_at: 2025-01-14
+last_modified_at: 2025-03-11
 ---
 
-Disclaimer: Different schools may have slightly different requirements. Check
-with your teacher if they agree with the answers below.
+Disclaimer: Different schools may have different requirements. Check with your
+teacher if they agree with the answers below.
 
 ## What is the structure of a material-based writing assignment?
 
@@ -51,38 +51,61 @@ You may use general phrases to reference the material, such as:
 
 ## How can I tell if I have used a material "enough"?
 
-If a material contains several numbers, do not just pick out one. Make sure you
-use the material in a way that shows you have understood the relationships or
-developments it presents.
+If a material contains several numbers, **do not just pick out one**. Make sure you
+use the material in a way that shows you have understood the **relationships or
+developments** it presents.
 
 If a material presents several facts, make sure that you do not just focus on
-one piece of information. If the material is in English, paraphrase where
-possible.
+one piece of information. If the material is in English, **paraphrase where
+possible**.
 
 ## How many arguments should I write?
 
-I recommend using one of the three materials for the introduction and the
+### E11 SA1
+
+You will be provided with a single material and your task will be to use it to
+formulate one argument, so you will only write one body paragraph.
+
+I advise against using the main idea of the material for your essay hook
+because you do not want to answer the essay question before you have asked it.
+However, it is sometimes possible to use part of a material for the essay hook
+if the material contains several pieces of information.
+
+### E11 SA2
+
+You will receive two materials and you are required to present two arguments
+(i.e. write two body paragraphs).
+
+As for E11 SA1 (see above), I do not recommend using the main idea of either
+material for the introduction. Typically, each material will give you the idea
+for one of your body paragraphs. It is sometimes possible to use part of a
+material for the essay hook if the material contains several pieces of
+information.
+
+### Fachabitur
+
+I suggest using one of the three materials for the introduction and the
 remaining two for two body paragraphs.
 
 You can also have three body paragraphs. You may, for example, feel more
 comfortable using each material in a body paragraph of its own. If you use one
 material in the introduction and the other two materials for two body
 paragraphs, you can also add a third body paragraph with an argument based on
-your own ideas. Just remember that I expect you to have a topic sentence and
-enough supporting sentences for every body paragraph to explain the argument
-the topic sentence makes.
+your own ideas. Just ensure that each body paragraph contains a clear a topic
+sentence and enough supporting sentences to explain the argument presented in
+the topic sentence.
 
 ## What is the difference between "comment" and "discuss"?
 
 *Discuss* means you have to argue for and against an argument, or write
 about the advantages and disadvantages of a given context. *Comment* often
 means you should argue in one direction. However, if the material lends itself
-more to presenting two different views on an issue, you can treat a comment
-task in the same way as a discussion task.
+more to presenting two different views on an issue, you can treat a *comment*
+task in the same way as a *discussion* task.
 
 Sometimes, the task contains neither *comment* nor *discuss* and just says
 "write a composition". The task is the same as if one of the instruction words
-were present: Write a 300-word essay to answer the question the essay prompt
+were present: Write an essay to answer the question the essay prompt
 asks.
 
 Pay attention to all parts of the essay prompt, not just the instruction word.
@@ -95,8 +118,15 @@ drawbacks. One of each will be enough.
 
 ## Will I lose credits for writing too much or too little?
 
-If you write more than 300 words, this will not negatively affect your grade.
-However, you may lose credits if you go below the minimum word count of 300.
+If you write more than the required word count, this will not negatively affect
+your grade. However, you may lose credits if you go below the minimum word
+count.
+
+Minimum word count:
+
+- E11 SA1: 150 words
+- E11 SA2: 180 words
+- Fachabitur: 300 words
 
 ## How long should each part of my text be?
 
@@ -106,12 +136,12 @@ stronger of your two arguments.
 
 The word counts below are only recommendations:
 
-| paragraph             | words |
-|-----------------------|-------|
-| introduction          | ~ 50  |
-| first body paragraph  | ~ 90  |
-| second body paragraph | ~ 110 |
-| conclusion            | ~ 50  |
+| paragraph             | E11 SA1 | E11 SA2 | Fachabitur |
+|-----------------------|---------|---------|------------|
+| introduction          | ~ 35    | ~ 25    | ~ 50       |
+| first body paragraph  | ~ 80    | ~ 60    | ~ 90       |
+| second body paragraph |         | ~ 70    | ~ 110      |
+| conclusion            | ~ 35    | ~ 25    | ~ 50       |
 
 ## What register should I use?
 
