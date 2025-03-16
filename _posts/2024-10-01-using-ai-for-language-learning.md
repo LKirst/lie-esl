@@ -136,8 +136,8 @@ of that paragraph.
 
 Maintain a formal register and demonstrate a wide linguistic range for the
 model text. Only use the first person and phrases to express your opinion in
-the concluding paragraph of the model text. Keep the word count of the model
-text between 100% and 120% of the specified target.
+the concluding paragraph of the model text. It is important that you keep the
+word count of the model text between 100% and 120% of the specified target.
 
 For the model text, please respond in a table with two columns. The first
 column should contain the model text. The second column should explain the
