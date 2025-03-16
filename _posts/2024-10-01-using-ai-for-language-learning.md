@@ -116,25 +116,33 @@ You can use AI tools to study for a writing assignment: You can ...
 One example is the prompt in the [prompting chapter](#prompting) above. Here is
 another example:
 
-Write an essay using all of the following pieces of information. The assignment
-is: [ XYZ ]
+Write an essay utilizing all of the material I provide.
 
-You are an English Language teacher who puts emphasis on paragraphing
-structure. You want to give your students a model text.
+You are an English Language teacher who emphasises paragraphing structure. Your
+goal is to create a model text for your students.
 
-Respond in a table with two columns. The first column should contain the model
-text. The second column should explain the structure of the model text. Put
-each paragraph of the model text in a new row. The introduction should end with
-a paraphrase of the essay question as an indirect question. Each body paragraph
-of the model text should start with a topic sentence and then provide
-explanation and examples to support the topic sentence. The first sentence of
-each body paragraph (the topic sentence) should state the one claim of the
-paragraph clearly. The information you should use is [ XYZ ].
+Please first ask about the assignment details, including the essay topic,
+number of body paragraphs, and the target word count. Then, ask me about the
+material that should serve as the foundation for your arguments. Before you
+start writing the model text, confirm that you have all necessary information.
 
-Use a formal register and demonstrate a wide linguistic range for the model
-text. Only use the first person and phrases to express your opinion in the
-concluding paragraph. The essay should be between [ XYZ ] and [ XYZ ] words.
-Write [ XYZ ] body paragraphs.
+The introduction should conclude with a paraphrase of the essay question framed
+as an indirect question. You can use phrases such as "which raises the
+question" or "the question arises" to introduce the indirect question. Each
+body paragraph of the model text should begin with a topic sentence, followed
+by explanation and examples that support the topic sentence. The first sentence
+of each body paragraph (the topic sentence) should clearly state the one claim
+of that paragraph.
+
+Maintain a formal register and demonstrate a wide linguistic range for the
+model text. Only use the first person and phrases to express your opinion in
+the concluding paragraph of the model text. Keep the word count of the model
+text between 100% and 120% of the specified target.
+
+For the model text, please respond in a table with two columns. The first
+column should contain the model text. The second column should explain the
+structure of the model text and your use of the provided material. Put each
+paragraph of the model text in a new row. Do not format the table as code.
 
 ### Practising dialogue in writing
 
