@@ -48,7 +48,8 @@ Disclaimers:
 
 The most important skill to make use of AI tools is skilled prompting. Daniel
 Fitzpatrick[^AIclassroom] recommends the following steps, which form the
-acronym *PREP*:
+acronym *PREP*. (The example is too vague to yield any reliable results. It is
+just meant to illustrate the steps.)
 
 1. **Prompt** it: You tell the AI tool the task you want it to accomplish using
    clear and concise language. 
@@ -76,32 +77,9 @@ want the answer to look like.
    > Structure your answer with bullet points and use vocabulary suitable for
    intermediate English learners.
 
-### Example: Grade an essay
-
-Grade my essay and give reasons for your judgement. You are a qualified
-examiner who grades ESL (English as second language) exams. First mark all
-errors in the original text, then give your feedback including a suggestion for
-an improved version of the text. Please mark all errors in the original text in
-bold. After each error, indicate the category of error by using the following
-correction symbols:
-
-- sp: spelling
-- p: punctuation
-- gr: grammatical and syntactical errors
-- wc: errors that may hinder understanding due to incorrect word choice
-- wo: word order
-
-Use the following two criteria for your grading: (a) linguistic accuracy and
-cohesion and (b) appropriacy and linguistic range. Link your explanation of the
-grade to the criteria. This is the exam question: [ XYZ ]. The answer you are
-marking is: [ XYZ ].
-
-Structure your answer with bullet points and use vocabulary suitable for
-intermediate English learners.
-
 ## Different use cases
 
-### Text production feedback
+### Text production practice
 
 You can use AI tools to study for a writing assignment: You can ...
 
@@ -111,10 +89,7 @@ You can use AI tools to study for a writing assignment: You can ...
 - generate examples
 - get feedback on your writing
 
-### Example: Write a model text 
-
-One example is the prompt in the [prompting chapter](#prompting) above. Here is
-another example:
+#### Example: Write a model text 
 
 Write an essay utilizing all of the material I provide.
 
@@ -143,6 +118,89 @@ For the model text, please respond in a table with two columns. The first
 column should contain the model text. The second column should explain the
 structure of the model text and your use of the provided material. Put each
 paragraph of the model text in a new row. Do not format the table as code.
+
+#### Example: Correct the language of an essay
+
+Help me decide on whether to mark different sentences, phrases or words as
+correct, as unidiomatic, or as a mistake.
+
+You are an English-as-a-second-language (ESL) teacher in secondary school and a
+native speaker of English. You are very strict, but you accept both British
+English and American English spelling.
+
+First, ask me to give you the task for the essay the students had to write.
+Before you start with the correction, remove line breaks within sentences and
+non-word characters (like x, +, * or -) that are not part of the punctuation.
+
+Please check not just spelling, but also word choice, coherence and cohesion,
+register, and punctuation. Make sure the students use a semi-formal to formal
+register and idiomatic word combinations. Go multiple times over each phrase or
+sentence because you can often find multiple issues in the same phrase. Check
+the vocabulary in the context of the task description the students were given
+and the context of the preceding and following sentences. If you decide a
+phrase contains a mistake or is unidiomatic, please make a suggestion of what
+student could write instead.
+
+Format your answer as a table with three columns: original with mistakes in
+bold, grading symbols, and suggested alternative. It is very important that
+there is a grading symbol in the second column  for every change you suggest in
+the third column. After the table, explain the most important changes in a list
+with bullet points (up to ten). In this list, group similar mistakes.
+
+Use the grading symbols below if they fit an issue. If no grading symbol fits,
+make up a new grading symbol and explain the symbol at the end of your answer. 
+
+*LLMs "understand" markdown syntax. Below you can find markdown tables of
+grading symbols you can add to the prompt above.*
+
+```
+### Verb forms
+
+| symbol | explanation | example |
+|----|----|----|
+| t | Tense | _I \*will be in class yesterday._ |
+| asp | Aspect (simple, continuous, perfect) | _I \*was knowing it the whole time._ |
+| pass | Awkward use of passive voice | _A ball has been thrown over the wall._ => Who threw the ball? |
+| constr | Participles, gerund, infinitive | _I decided \*flying to London_ |
+| // | Parallel structure is missing  | _I like reading and \*to hike. My friends and I love that we have the same taste in books and \*to go on hikes together._ |
+
+### Vocabulary, collocations and spelling
+
+| symbol | explanation | example |
+|----|----|----|
+| voc | Vocabulary mistake | _She \*became a baby_ |
+| vague | Vague word | _stuff_ or _things_ or _good / nice_ |
+| sp | Spelling | _\*exiting_ |
+| cap | Capitalization error | _You and \*i \*Should talk._ |
+| coll | Collocation | _a \*powerful tea_ instead of _a strong tea_ |
+
+### Other
+
+| symbol | explanation | example |
+|----|----|----|
+| ad | Adjective vs adverb | _The pie tastes \*deliciously._ |
+| p | Punctuation | _He said \*, that he had to go._ |
+| gr | Generic category for grammar mistakes that don’t fall into one of the other categories such as _t_, _prep_, _wo_, ... | _In my room \*it gives three chairs._ |
+| prep | Preposition | _\*On the picture, you can see a snowman._ |
+| wo | Word order | _\*Always I play basketball on Thursdays._ |
+| num | Number | _There \*is no students here. I know \*these teacher over there._ |
+| ref | Reference | _David > \*her book_; _\*The pupils have to study in the afternoon._ when the referent is _(all) pupils_ in general |
+| reg | Register: Too formal or too informal | _The guys in my hood aren't …_ in a semi-formal or formal text |
+| rep | Repetition: You have needlessly repeated a word, phrase or idea. | |
+| frag | The sentence is not complete. This group of words is a fragment. | _If I were a teacher._ |
+| ( ) or ~~crossed out~~ | Remove these words | _If I were you, ~~then~~ I would study more. I think your reaction was (very) extreme._ |
+| awk | awkward phrasing or sentence structure ||
+| ?? | Difficult to read or understand | |
+
+## Content
+
+| symbol | explanation | example |
+|----|----|----|
+| link | Missing (logical) link between two sentences or paragraphs | |
+| cont | A phrase / sentence / section is meaningless, incorrect on the content-level or has no relation to the question / task. | |
+| logic | Logic on a language or content level | _I love marshmallows \*but I ate one anyway._ |
+| weak | Sentence or paragraph is vague or general or states the obvious. | |
+```
 
 ### Practising dialogue in writing
 
