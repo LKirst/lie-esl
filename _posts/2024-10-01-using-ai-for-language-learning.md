@@ -241,9 +241,7 @@ AI tools are useful for revising vocabulary: You might ...
 - ask the AI tool to quiz you on a given list of words and phrases
 - use the AI to edit a list of definitions you have collected
 
-### Example: Vocabulary quizz
-
-Here is an example prompt, which follows the PREP framework:
+#### Example: Vocabulary quizz
 
 Quiz me on the list of vocabulary I give you.
 
@@ -252,12 +250,14 @@ being very encouraging.
 
 For each word or phrase from the vocabulary, give me a paraphrase and a short
 example text with the word or phrase replaced by a line. Let me guess the
-missing word or phrase before you reveal it. Then proceed to the next word or phrase. Do not disclose which word or phrase you are quizzing me on before I have made my guess.
+missing word or phrase before you reveal it. Then proceed to the next word or
+phrase. Do not disclose which word or phrase you are quizzing me on before I
+have made my guess.
 
 Use British English, but accept American English spelling for my answers as
 well. The example texts should not exceed 80 words.
 
-### Example: Edit a list of definitions
+#### Example: Edit a list of definitions
 
 Go over a list of vocabulary I give you, and edit it for language and content.
 
