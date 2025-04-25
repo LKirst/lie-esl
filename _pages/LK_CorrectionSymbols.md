@@ -80,6 +80,7 @@ that you have misunderstood **thoroughly** (= _gründlich_).
 | cont | A phrase / sentence / section is meaningless, incorrect on the content-level or has no relation to the question / task. | |
 | logic | Logic on a language or content level | _I love marshmallows \*but I ate one anyway._ |
 | weak | Sentence or paragraph is vague or general or states the obvious. | |
+| TS | Topic sentence missing or unclear ||
 | cont+ | You made an interesting point, explained something well or showed creativity or cultural studies knowledge | |
 
 If the text production assignment is a material-based writing, I will **mark the
