@@ -7,7 +7,7 @@ In essay assignments, every body paragraph should have three parts:
 - Beginning: The paragraph starts with a topic sentence (TS). The TS states the
   __one claim__ (= *die Behauptung*) of the paragraph clearly.
  
-  A TS is (part of) the answer to the question that you try to answer with your
+  A TS is (part of) **the answer** to the question that you try to answer with your
   essay.
 
   Keep your TS concise. Do not include supporting information such as examples
