@@ -16,7 +16,7 @@ Your text should always follow the same structure:
 
 1. Introduction, which leads up to and ends in a paraphrase of the essay
    question
-2. Main body, in which you present two to three arguments or views to answer
+2. Main body, in which you present your arguments or views to answer
    the question
 3. Concluding paragraph, in which you sum up the main points and present your
    personal opinion or draw a conclusion
