@@ -33,3 +33,5 @@ C) Your textbook
 
 For studying at home, you must either use **vocabulary book with three
 columns** (= *drei Spalten*) or a **vocabulary app**.
+
+D) When preparing for a *Schulaufgabe*, please bring your own **monolingual** dictionary. It is important that you get some practice using a hardcopy dictionary.
