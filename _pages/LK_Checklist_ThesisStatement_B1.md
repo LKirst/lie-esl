@@ -90,6 +90,10 @@ Here are some phrases you can use to introduce the question:
 Punctuation: Remember that indirect questions embedded in declarative sentences
 take a full stop, **not a question mark**.
 
+Please pay attention to the spelling in the examples above: *raise* is not the
+same as *arise*.
+{: .notice--warning}
+
 Examples: 
 
 - Task: Write a comment on whether sugary drinks should have warning labels and
