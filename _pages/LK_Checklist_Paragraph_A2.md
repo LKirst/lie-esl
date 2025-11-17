@@ -18,7 +18,8 @@ In essay assignments, every body paragraph should have three parts:
   the TS and should not introduce a new idea.
 
 - End: The paragraph ends with a concluding sentence (CS). The CS summarizes
-  the main idea of the paragraph or links to the next paragraph.
+  the main idea of the paragraph. In its simplest form, the CS is just a
+  paraphrase of your topic sentence.
 
 After every paragraph, skip two more lines!
 
