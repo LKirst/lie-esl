@@ -4,7 +4,7 @@ date: 2024-03-29
 author: Lukas Liebermann
 toc: true
 category: text production
-last_modified_at: 2025-11-16
+last_modified_at: 2025-12-01
 ---
 
 Disclaimer: Different schools may have different requirements. Check with your
@@ -26,7 +26,7 @@ For more detailed help, follow the links below:
   _pages/LK_Checklist_Paragraph_A2.md %})
 
 - [Stating the topic at the end of the introduction]({{ site.baseurl }}{% link
-  _pages/LK_Checklist_ThesisStatement_B1.md %})
+  _pages/LK_Checklist_MBWEssayQuestion_B1.md %})
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
 
@@ -38,10 +38,9 @@ For more detailed help, follow the links below:
 Do **not** reference the sources of the material in the material-based writing
 (MBW) assignment and do not quote the sources directly.
 
-There is one exception to this rule: If one material is a short
-quotation, you may use it as a hook in your introduction. In this
-case, you should reference the person you quote and explain the
-quote briefly.
+There is one exception to this rule: If one material is a short quotation, you
+may use it as a hook in your introduction. In this case, you should reference
+the person you quote and **explain** the quote briefly.
 
 You may use general phrases to reference the material, such as:
 
@@ -69,12 +68,15 @@ use. However, you should never describe the cartoon or picture.
 ### E11 SA1
 
 Please talk to your teacher about how many materials you will be provided with.
-There are two possible scenarios:
+There are three possible scenarios:
 
-- a single material and your task will be to use it to formulate one argument,
-so you will only write one body paragraph
-- two materials and you will be required to present two arguments (i.e. write
-two body paragraphs)
+- You will get a single material, and your task will be to use it to formulate
+one argument, so you will only write one body paragraph
+- You will get two materials, and you will be required to present two arguments
+(i.e. write two short body paragraphs)
+- You will get two materials, but part of the essay (for example one body
+paragraph will already be written out for you, using one of the materials. You
+will have to finish the essay using the material that has not been used yet.
 
 I advise against using the main idea of a material for your essay hook
 because you do not want to answer the essay question before you have asked it.
@@ -119,11 +121,11 @@ asks.
 
 Pay attention to all parts of the essay prompt, not just the instruction word.
 Sometimes the prompt will tell you explicitly that you are expected to discuss
-"opportunities and downsides" or "benefits and drawbacks" of an issue or that
-you have to write about "possible solutions" to a problem. The use of the
-plural in "opportunitie**s** and downside**s**" and similar phrases does not
-mean, however, that you have to write about multiple opportunities and multiple
-drawbacks. One of each will be enough.
+**"opportunities and downsides"** or **"benefits and drawbacks"** of an issue
+or that you have to write about "possible solutions" to a problem. The use of
+the plural in "opportunitie**s** and downside**s**" and similar phrases does
+not mean, however, that you have to write about multiple opportunities and
+multiple drawbacks. One of each will be enough.
 
 ## Will I lose credits for writing too much or too little?
 
@@ -161,3 +163,5 @@ should:
   =\> is not; it's =\> it is*)
 - Avoid slang and colloquialisms (*it's gonna =\> it will / it is going to*;
   *kid =\> child*, *guys =\> men*)
+
+Please **only use first person pronouns (e.g. I, you, we) in the conclusion**.

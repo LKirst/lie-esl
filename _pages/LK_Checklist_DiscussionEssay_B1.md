@@ -35,9 +35,11 @@ Content
   ... catch the reader's attention (with a **hook**)?
 
   _for **FOSBOS** students:_ ... lead up to a paraphrase
-  of the essay question as a direct or indirect question?
+  of the essay question as [a direct or indirect question]({{ site.baseurl }}{%
+link _pages/LK_Checklist_MBWEssayQuestion_B1.md %})?
 
-  _for **everyone else**:_ ... lead up to a thesis statement, which sums up the different perspectives you were asked to discuss?
+  _for **everyone else**:_ ... lead up to [a thesis statement]({{ site.baseurl }}{%
+link _pages/LK_Checklist_ThesisStatement_B1.md %}), which sums up the different perspectives you were asked to discuss?
 
 - You present **two perspectives on an issue with compelling[^1] arguments**
   and answer the question you were asked / **fulfil the task you were given**.
@@ -50,10 +52,6 @@ Content
 - You support both perspectives with **detailed explanations** and
   **evidence**. Depending on your task, you rebut[^2] reasons for
   the perspective you do not agree with.
-
-For the last sentence of your introduction, see also the [checklist for writing
-a thesis statement or paraphrase of the essay question]({{ site.baseurl }}{%
-link _pages/LK_Checklist_ThesisStatement_B1.md %}).
 
 Structure
 
@@ -93,12 +91,12 @@ paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md %}).
   essays unless you talk about events in the past.
 
 - You connect ideas with **different linking / transition words**, including
-  different subordinating conjunctions (e.g. *although, wherever, so that,
-  \...*) and adverbial conjunctions (e.g. *however, nevertheless, meanwhile,
-  \...*).
+  different subordinating conjunctions (e.g. _although, wherever, so that,
+  \..._) and adverbial conjunctions (e.g. _however, nevertheless, meanwhile,
+  \..._).
 
-- Register: You use formal language. You do **not use contractions** (*they've
-  =\> they have; won't =\> will not; isn't =\> is not*) and you use **no slang
+- Register: You use formal language. You do **not use contractions** (_they've
+  =\> they have; won't =\> will not; isn't =\> is not_) and you use **no slang
   or colloquialisms**.
 
 [^1]: compelling /kəmˈpelɪŋ/ - that makes you think it is true

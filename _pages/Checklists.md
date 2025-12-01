@@ -38,7 +38,11 @@ author_profile: true
 - [Writing an Essay Hook]({{ site.baseurl }}{% link
   _pages/LK_Checklist_Introduction_B1.md %})
 
-- [Stating the topic at the end of the introduction]({{ site.baseurl }}{% link
+- [Stating the topic at the end of the introduction for an MBW assignment
+(FOSBOS)]({{ site.baseurl }}{% link _pages/LK_Checklist_MBWEssayQuestion_B1.md
+%})
+
+- [Writing a thesis (**not** for FOSBOS)]({{ site.baseurl }}{% link
   _pages/LK_Checklist_ThesisStatement_B1.md %})
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
