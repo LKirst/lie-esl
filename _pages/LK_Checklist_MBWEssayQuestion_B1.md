@@ -24,7 +24,7 @@ declarative sentences end with a full stop, **not a question mark**. Moreover, n
 that in indirect questions, subject and verb no longer invert. Here are some
 examples (which do not use paraphrases to show the grammatical change):
 
-- What **can schools**** do to minimise their students' screen time at school?
+- What **can schools** do to minimise their students' screen time at school?
 \> This raises the question of what **schools can** do to minimise their
 students' screen time at school.
 - **Should schools** try to minimise their students' screen time at school? \>
