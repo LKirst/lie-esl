@@ -24,13 +24,13 @@ declarative sentences end with a full stop, **not a question mark**. Moreover, n
 that in indirect questions, subject and verb no longer invert. Here are some
 examples (which do not use paraphrases to show the grammatical change):
 
-- What can{: style:"color: red"} schools{: style:"color: blue"} do to minimise
+- What can{: style="color: red"} schools{: style="color: blue"} do to minimise
 their students' screen time at school? > This raises the question of what
-schools{: style:"color: blue"} can{: style:"color: red"} do to minimise their
+schools{: style="color: blue"} can{: style="color: red"} do to minimise their
 students' screen time at school.
-- Should{: style:"color: red"} schools{: style:"color: blue"} try to minimise
+- Should{: style="color: red"} schools{: style="color: blue"} try to minimise
 their students' screen time at school? > That is why the question arises of
-whether schools{: style:"color: blue"} should{: style:"color: red"} try to
+whether schools{: style="color: blue"} should{: style="color: red"} try to
 minimise their students' screen time at school.
 
 Examples:
