@@ -13,8 +13,8 @@ Good writing does not just present ideas — it guides the reader through them.
 Transition phrases (linkers) signal how your points relate: addition, contrast,
 cause, example, result, and summary. Clear linkers improve coherence and make
 your argument easier to follow. However, to achieve these benefits, you must
-choose linkers that match the relationship you truly mean (e.g., only signal
-contrast if there is a contrast).
+choose linkers that match the relationship you are expressing (e.g., only
+signal contrast if there is a contrast).
 
 ### Sequencing main points
 
@@ -33,13 +33,13 @@ exhausting natural resources.”
 
 Example: “In addition, recent studies report long-term gains.”
 
-Replace sentence-initial “Also,” with “In addition,”
+Avoid starting sentences with "Also"; use "In addition," instead.
 {: .notice}
 
 ### Reasons and causes
 
 Use these to explain why something happens. Prefer mid-sentence “because” for
-clarity; use “Due to/Owing to” with a noun phrase.
+clarity; use “Due to/Owing to” with a noun phrase or gerund.
 
 - Because … (prefer mid-sentence): “… because …”
 - Since … / As … (cause)
@@ -52,7 +52,8 @@ water bottle.”
 
 ### Contrast and concession
 
-- Direct contrast: However, … / By contrast, … / In contrast, …
+- Direct contrast: However, … / By contrast, … / In contrast, … / On the one
+hand ... On the other hand ...
 - Concession: Although …, … / Despite + noun/gerund, … / Nevertheless, …
 - Alternatives: Alternatively, …
 
@@ -72,6 +73,8 @@ Use “On the one hand … On the other hand …” only as a balanced pair. Do 
 - For instance, …
 - Specifically, …
 - In particular, …
+
+Note that "instance" is often misspelled. {: .notice--warning}
 
 ### Results and conclusions
 
