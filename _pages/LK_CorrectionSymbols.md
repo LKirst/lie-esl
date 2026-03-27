@@ -11,7 +11,7 @@ For handwritten texts please follow these formatting guidelines:
 
 - Please **underline your headings**.
 
-- Please **skip every second line** (=_überspringe jede zweite Zeile_) within a
+- Please **skip every other line** (=_überspringe jede zweite Zeile_) within a
 paragraph and **skip three lines between paragraphs** to make it easier for
 yourself to insert corrections and to give me enough space for feedback!
 

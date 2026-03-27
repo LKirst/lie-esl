@@ -18,7 +18,7 @@ heading of your task from the textbook, workbook or worksheet.
 - Skip a line after the heading before you start writing.
 
 - For text productions (not for grammar or vocabulary exercises), please **skip
-every second line** within a paragraph and skip two or more lines between
+every other line** within a paragraph and skip two or more lines between
 paragraphs.
 
 - After your exercise book entry before the next entry, please skip at least

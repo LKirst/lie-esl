@@ -67,7 +67,7 @@ paragraph]({{ site.baseurl }}{% link _pages/LK_Checklist_Paragraph_A2.md
 
 - You included an estimate[^1] of the **word count**.
 
-- You **skip every second line**, and you skip **two or more lines between
+- You **skip every other line**, and you skip **two or more lines between
 paragraphs**.
 
 [^1]: estimate: Schätzung

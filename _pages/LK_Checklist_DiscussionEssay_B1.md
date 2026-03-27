@@ -23,7 +23,7 @@ most of your planning time?
 
 - The length of your text is **above the minimum word** count.
 
-- You **skip every second line**, and you skip **two or more lines between
+- You **skip every other line**, and you skip **two or more lines between
   paragraphs**.
 
 ## Content and Structure
