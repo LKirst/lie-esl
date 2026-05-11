@@ -108,24 +108,28 @@ the topic sentence.
 
 ## What is the difference between "comment" and "discuss"?
 
-*Discuss* means you have to argue for and against an argument, or write
-about the advantages and disadvantages of a given context. *Comment* often
-means you should argue in one direction. However, if the material lends itself
-more to presenting two different views on an issue, you can treat a *comment*
-task in the same way as a *discussion* task.
+*Discuss* means you need to present arguments both for and against a position,
+or write about the advantages and disadvantages of a given topic. *Comment*
+typically requires you to present arguments supporting one particular
+viewpoint. However, if the material naturally invites two different
+perspectives on an issue, you can treat a *comment* task in the same way as a
+*discussion* task.
 
 Sometimes, the task contains neither *comment* nor *discuss* and just says
 "write a composition". The task is the same as if one of the instruction words
-were present: Write an essay to answer the question the essay prompt
-asks.
+were present: Write an essay that answers the question.
 
 Pay attention to all parts of the essay prompt, not just the instruction word.
 Sometimes the prompt will tell you explicitly that you are expected to discuss
-**"opportunities and downsides"** or **"benefits and drawbacks"** of an issue
-or that you have to write about "possible solutions" to a problem. The use of
-the plural in "opportunitie**s** and downside**s**" and similar phrases does
-not mean, however, that you have to write about multiple opportunities and
-multiple drawbacks. One of each will be enough.
+**"benefits and drawbacks"** (FAP 2020, Task 1) of an issue or that you have to
+write about **"possible solutions"** (FAP 2020, Task 2) to a problem or to
+**"offer suggestions"** (FAP 2024, Task 1). The use of the plural in
+"benefit**s** and drawback**s**" and similar phrases with pairs does not mean,
+however, that you have to write about multiple benefits and multiple
+drawbacks. One of each will be enough. Depending on how significant these
+variations from a typical Comment/Discuss task are, you can address them either
+in your body paragraphs or in the concluding paragraph (instead of presenting
+your personal opinion).
 
 ## Will I lose credits for writing too much or too little?
 
