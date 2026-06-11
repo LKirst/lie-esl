@@ -151,11 +151,11 @@ Minimum word count:
 
 ## How long should each part of my text be?
 
-If you have two body paragraphs, your second body paragraph should present the
-view you agree with more, if you write about two different views, or the
-stronger of your two arguments.
+If you have two or more body paragraphs, your last body paragraph should
+present the view you agree with most, if you write about two different views,
+or the strongest of your arguments.
 
-The word counts below are only recommendations:
+The word counts below are only recommendations for the minimal word count:
 
 | paragraph             | E11 SA1 | E11 SA2 | Fachabitur |
 |-----------------------|---------|---------|------------|
@@ -163,6 +163,7 @@ The word counts below are only recommendations:
 | first body paragraph  | ~ 80    | ~ 60    | ~ 90       |
 | second body paragraph |         | ~ 70    | ~ 110      |
 | conclusion            | ~ 35    | ~ 25    | ~ 50       |
+| total (minimum)       | > 150   | > 180   | > 300      |
 
 ## What register should I use?
 
