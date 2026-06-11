@@ -29,7 +29,7 @@ For more detailed help, follow the links below:
   _pages/LK_Checklist_MBWEssayQuestion_B1.md %})
 
 - [How to use the material in an MBW]({{ site.baseurl }}{% link
-_pages/2026-04-23-use-material-mbw.md %})
+_posts/2026-04-23-use-material-mbw.md %})
 
 - [Comment]({{ site.baseurl }}{% link _pages/LK_Checklist_Comment_B1.md %})
 
@@ -67,7 +67,7 @@ idea. Sometimes, the cartoon or picture may also contain an example you should
 use. However, you should never describe the cartoon or picture.
 
 More detail: [How to use the material]({{ site.baseurl }}{% link
-_pages/2026-04-23-use-material-mbw.md %})
+_posts/2026-04-23-use-material-mbw.md %})
 
 ## How many arguments should I write?
 
