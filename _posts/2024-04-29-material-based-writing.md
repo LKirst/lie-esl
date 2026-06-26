@@ -151,11 +151,15 @@ Minimum word count:
 
 ## How long should each part of my text be?
 
-If you have two or more body paragraphs, your last body paragraph should
+If you have two or three body paragraphs, your last body paragraph should
 present the view you agree with most, if you write about two different views,
 or the strongest of your arguments.
 
-The word counts below are only recommendations for the minimal word count:
+The word counts below are only recommendations for the minimal word count.
+
+In the E11 SA2 exam, for most writing styles, I recommend going (slightly)
+above the minimal word count in order to adequately develop the arguments in
+the body paragraphs.
 
 | paragraph             | E11 SA1 | E11 SA2 | Fachabitur |
 |-----------------------|---------|---------|------------|
